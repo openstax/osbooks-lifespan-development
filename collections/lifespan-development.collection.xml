@@ -1,18 +1,16 @@
-<col:collection 
-  xmlns:col="http://cnx.rice.edu/collxml"
-  xmlns:md="http://cnx.rice.edu/mdml"
-  xmlns:sys="http://cnx.rice.edu/system-info"
-  xmlns="http://cnx.rice.edu/collxml">
-
+<col:collection xmlns:col="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns="http://cnx.rice.edu/collxml">
   <col:metadata>
-    <md:uuid>03481f82-baf1-407d-9bac-e614dae0a694</md:uuid>
     <md:title>Lifespan Development</md:title>
     <md:slug>lifespan-development</md:slug>
-    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-    <md:content-id>col00000</md:content-id>
     <md:language>en</md:language>
+    <md:uuid>03481f82-baf1-407d-9bac-e614dae0a694</md:uuid>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-
+    <col:subcollection>
+      <md:title>test subcollection</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:module document="m00001"/>
   </col:content>
 </col:collection>
