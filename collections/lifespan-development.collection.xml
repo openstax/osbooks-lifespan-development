@@ -7,10 +7,15 @@
     <md:license url="http://creativecommons.org/licenses/by/4.0/"/>
   </col:metadata>
   <col:content>
-    <col:subcollection>
-      <md:title>test subcollection</md:title>
-      <col:content/>
-    </col:subcollection>
     <col:module document="m00001"/>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Infants and Toddlers</md:title>
+      <col:content>
+        <col:module document="m00002"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>

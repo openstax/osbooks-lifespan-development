@@ -1,11 +1,249 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
-  <title>test module</title>
+<document xmlns="http://cnx.rice.edu/cnxml" class="preface">
+  <title>Preface</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>test module</md:title>
     <md:content-id>m00001</md:content-id>
     <md:uuid>349c7ee3-f572-4e81-a611-395b53d69dea</md:uuid>
   </metadata>
-  <content>
-    <para id="para-00001">tacos</para>
+  <content class="preface">
+    <section id="sect-00001">
+      <title>Preface</title>
+      <para id="para-00001">
+        Welcome to <emphasis effect="italics">Lifespan Development</emphasis>, an OpenStax resource. This textbook was written to increase student access to high-quality learning materials, maintaining highest standards of academic rigor at little to no cost.
+      </para>
+      <section id="sect-00002">
+        <title>About OpenStax</title>
+        <para id="para-00002">
+          OpenStax is a nonprofit based at Rice University, and it’s our mission to improve student access to education. Our first openly licensed college textbook was published in 2012, and our library has since scaled to over 30 books for college and AP® courses used by hundreds of thousands of students. OpenStax Tutor, our low-cost personalized learning tool, is being used in college courses throughout the country. Through our partnerships with philanthropic foundations and our alliance with other educational resource organizations, OpenStax is breaking down the most common barriers to learning and empowering students and instructors to succeed.
+        </para>
+      </section>
+      <section id="sect-00003">
+        <title>About OpenStax resources</title>
+        <section id="sect-00004">
+          <title>Customization</title>
+          <para id="para-00003">
+            <emphasis effect="italics">Lifespan Development</emphasis> is licensed under a Creative Commons Attribution 4.0 International (CC BY) license, which means that you can distribute, remix, and build upon the content, as long as you provide attribution to OpenStax and its content contributors.
+Because our books are openly licensed, you are free to use the entire book or pick and choose the sections that are most relevant to the needs of your course. Feel free to remix the content by assigning your students certain chapters and sections in your syllabus, in the order that you prefer. You can even provide a direct link in your syllabus to the sections in the web view of your book.
+          </para>
+          <para id="para-00004">
+            Instructors also have the option of creating a customized version of their OpenStax book. The custom version can be made available to students in low-cost print or digital form through their campus bookstore. Visit the Instructor Resources section of your book page on openstax.org for more information. 
+          </para>
+        </section>
+        <section id="sect-00005">
+          <title>Art attribution in <emphasis effect="italics">Lifespan Development</emphasis></title>
+          <para id="para-00005">
+            In Lifespan Development, most art contains attribution to its title, creator or rights holder, host platform, and license within the caption. For art that is openly licensed, anyone may reuse the art as long as they provide the same attribution to its original source. Some art has been provided through permissions and should only be used with the attribution or limitations provided in the credit.
+          </para>
+        </section>
+        <section id="sect-00006">
+          <title>Errata</title>
+          <para id="para-00006">
+            All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. Since our books are web based, we can make updates periodically when deemed pedagogically necessary. If you have a correction to suggest, submit it through the link on your book page on openstax.org. Subject matter experts review all errata suggestions. OpenStax is committed to remaining transparent about all updates, so you will also find a list of past errata changes on your book page on openstax.org
+          </para>
+        </section>
+        <section id="sect-00007">
+          <title>Format</title>
+          <para id="para-00007">
+            You can access this textbook for free in web view or PDF through openstax.org, and for a low cost in print.
+          </para>
+        </section>
+      </section>
+      <section id="sect-00008">
+        <title>About <emphasis effect="italics">Lifespan Development</emphasis></title>
+        <para id="para-00008">
+         <emphasis effect="italics">Lifespan Development</emphasis> is designed to support both semesters of the world history course offered at both two-year and four-year institutions. Serving a student base of both majors and non-majors in the field, and an institutional variation in requirements of one or two semesters depending on the plan of study, the course introduces students to a global perspective of history couched in an engaging narrative. Concepts and assessments help students think critically about the issues they encounter so they can broaden their perspective of global history and how the topics studied apply to their current life as citizens of the world.
+        </para>
+        <section id="sect-00009">
+          <title>Coverage and Scope</title>
+          <para id="para-00009">
+            <emphasis effect="italics">Lifespan Development</emphasis> is designed to support the one-semester, introductory-level developmental psychology course offered at both two- and four-year institutions. This course is a requirement across many institutional departments, serving a student base of psychology majors plus students majoring in nursing, education, sociology, and other healthcare and science disciplines. The course introduces learners to core concepts and classic and current research on human development. Features and assessments help students think critically about the issues they encounter so they can broaden their perspective of lifespan development and apply the topics studied to their current and future personal and professional lives.
+          </para>
+          <para id="para-00010">
+            <emphasis effect="italics">Lifespan Development</emphasis> consists of 17 chapters. As previously noted, the content will be presented in a chronological format, which research has shown produces better depth of understanding and application, as well as better long-term retention (as opposed to a topical format). Chronological organization appeals to the largest market segment and better facilitates a biopsychosocial understanding of developmental psychology for most students. Within the chronological structure, the physical, cognitive, social, and emotional aspects of each developmental stage will be addressed separately. This “substructure” will allow instructors who are accustomed to teaching the course in a topical format to easily identify topics for presentation and discussion.
+            Lifespan Development opens with a chapter on lifespan psychology and major theories and basic science of human development. The first chapter also introduces research methods used in the field. Subsequent chapters address the lifespan from prenatal development to death. Each chapter will discuss key developmental milestones and the wide range of variance in human development as influenced by genetics, culture, environment, and other factors. For each developmental stage, one chapter covers physical and cognitive aspects, while a second chapter covers social and emotional aspects. The final chapter discusses end of life, death, and grieving.
+          </para>
+          <para id="para-00011">
+            <list id="list-00001">
+              <item>Chapter 1: Lifespan Psychology and Developmental Theories</item>
+<item>Chapter 2: Prenatal Development, Birth, and Genetics</item>
+<item>Chapter 3: Physical and Cognitive Development in Infants and Toddlers <emphasis effect="italics">(birth to age 2.5 years)</emphasis></item>
+<item>Chapter 4: Social and Emotional Development in Infants and Toddlers <emphasis effect="italics">(birth to age 2.5 years)</emphasis></item>
+<item>Chapter 5: Physical and Cognitive Development in Early Childhood <emphasis effect="italics">(ages 3 to 6)</emphasis></item>
+<item>Chapter 6: Social and Emotional Development in Early Childhood <emphasis effect="italics">(ages 3 to 6)</emphasis></item>
+<item>Chapter 7: Physical and Cognitive Development in Middle Childhood <emphasis effect="italics">(ages 7 to 12)</emphasis></item>
+<item>Chapter 8: Social and Emotional Development in Middle Childhood <emphasis effect="italics">(ages 7 to 12)</emphasis></item>
+<item>Chapter 9: Physical and Cognitive Development in Adolescence <emphasis effect="italics">(ages 12 to 18)</emphasis></item>
+<item>Chapter 10: Social and Emotional Development in Adolescence <emphasis effect="italics">(ages 12 to 18)</emphasis></item>
+<item>Chapter 11: Physical and Cognitive Development in Early/Emerging Adulthood <emphasis effect="italics">(ages 18 to late 20s)</emphasis></item>
+<item>Chapter 12: Social and Emotional Development in Early/Emerging Adulthood <emphasis effect="italics">(ages 18 to late 20s)</emphasis></item>
+<item>Chapter 13: Physical and Cognitive Development in Middle Adulthood <emphasis effect="italics">(ages 30 to 59)</emphasis></item>
+<item>Chapter 14: Social and Emotional Development in Middle Adulthood <emphasis effect="italics">(ages 30 to 59)</emphasis></item>
+<item>Chapter 15: Physical and Cognitive Development in Late Adulthood <emphasis effect="italics">(age 60 and beyond)</emphasis></item>
+<item>Chapter 16: Social and Emotional Development in Late Adulthood <emphasis effect="italics">(age 60 and beyond)</emphasis></item>
+<item>Chapter 17: Death, Dying, and Grieving</item>
+            </list>
+          </para>
+        </section>
+        <section id="sect-00010">
+          <title>Currency and connectionss</title>
+          <para id="para-00012">
+            The vision for <emphasis effect="italics">Lifespan Development</emphasis> will be achieved through a strong and engaging narrative that connects core concepts to students’ lives, and via a viewpoint that is diverse and inclusive. Most importantly, all content will be grounded in sound, current scholarship. Both researchers and practitioners in the discipline sometimes have complicated and disparate views on many issues that are simply part of understanding the lifespan and supporting people through its phases. <emphasis effect="italics">Lifespan Development</emphasis> will openly address complex and controversial topics with scholarly responsibility and an effort to increase equity and inclusion in the research presented and the student experience in the classroom.
+          </para>
+          <para id="para-00013">
+            <emphasis effect="italics">Lifespan Development</emphasis> will provide a cohesive narrative flow that brings content to life through research, examples, and application. The book is based on a chronological organization of topics, which is the format most preferred by instructors and students. Content will be organized under headings and subheadings to allow for structured reading and comprehension, with pedagogical features placed to provide breaks and reinforce concepts. Appropriate visuals will complement and illustrate key points in the narrative and draw students into the material.
+          </para>
+        </section>
+        <section id="sect-00011">
+          <title>Engaging feature boxes</title>
+          <para id="para-00014">Throughout <emphasis effect="italics">Lifespan Development</emphasis>, you will find features that engage students by taking selected topics a step further and challenge students to apply what they are learning. Each feature box contains either a link to a deeper exploration of the topic at hand or critical thinking questions that may be geared toward class discussion, student projects, or written essays. Our features include:
+          <list id="list-00002">
+            <item><emphasis effect="bold">Have You Heard?</emphasis> Students are presented with this feature at the beginning of each chapter. It will address truths and myths about development by posing a few intriguing questions or assumptions, with a brief explanation that will be expanded upon in the chapter narrative. The goal is to arouse students’ curiosity, encourage them to become aware of preconceived notions, and immediately engage them in the chapter topic.</item>
+            <item><emphasis effect="bold">It Depends.</emphasis> This feature weaves scientific inquiry throughout the text by presenting emerging research on topics that are complex, nuanced, and potentially controversial (e.g., breastfeeding, how divorce affects children, body image and eating disorders).</item>
+            <item><emphasis effect="bold">Intersections and Contexts.</emphasis> This feature highlights the interconnectedness of contexts, developmental systems, and the individual. It encompasses contexts such as culture, race, class, gender, and typical vs. atypical development (e.g., autism spectrum, learning disabilities). Real-world examples are provided to illustrate these concepts.</item>
+            <item><emphasis effect="bold">Life Hacks.</emphasis> This feature provides specific guidance on how students can apply the material in the chapter to improve their own lives and the lives of others (e.g., tips on parenting, resolving conflict, caring for elders).</item>
+            <item><emphasis effect="bold">Link to Learning.</emphasis> This feature includes links to videos, research articles, and other resources that supplement and enhance the chapter content.</item>
+          </list>
+          Some feature boxes include questions for further exploration. 
+          </para>
+        </section>
+        <section id="sect-00012">
+          <title>Module materials that reinforce key concepts</title>
+          <para id="para-00015">
+            Every module begins with a set of clear and concise <emphasis effect="bold">learning objectives</emphasis>. These objectives are designed to help the instructor decide what content to include or assign, and to guide students on what they can expect to learn. After completing the module and end-of-module exercises, students should be able to demonstrate mastery of the learning objectives.
+          </para>
+          <para id="para-00016">
+            Section <emphasis effect="bold">summaries</emphasis> distill the information in each module for both students and instructors down to key, concise points addressed in the section. <emphasis effect="bold">Key terms</emphasis> are bold and are followed by a definition in context and at the end of each section for study. Additional important terms are glossed in an appendix glossary.
+          </para>
+        </section>
+        <section id="sect-00013">
+          <title>End-of-chapter materials to assess and extend student learning</title>
+          <para id="para-00017">
+            Each chapter concludes with a series of assessments covering the content and learning objectives of each section. The variety of question types provides a robust opportunity for students to explore what they’ve learned and practice the associated critical thinking skills relevant to the study of history. Additionally, assessments are designed to allow instructors options for courses taught in-person, virtually, or via a hybrid approach.
+            <list id="list-00003">
+              <item><emphasis effect="bold">Questions.</emphasis> Multiple-choice assessments that test for conceptual understanding of key concepts.</item>
+              <item><emphasis effect="bold">Check Your Understanding Questions.</emphasis> Short-answer questions where students explain concepts in words.</item>
+              <item><emphasis effect="bold">Reflection Questions.</emphasis> Short-answer assessments that ask students to reflect on concepts.</item>
+              <item><emphasis effect="bold">Media Questions.</emphasis> Short-answer written questions prompt student thinking based on a linked video or media item.</item> 
+              <item><emphasis effect="bold">Thought Provokers.</emphasis> Longer written assignments will include more complex analysis around topics related to daily life and life and career plans.</item> 
+              <item><emphasis effect="bold">Case Study Questions.</emphasis> Multiple short-answer questions will be based on a case study.</item>
+            </list>
+          </para>
+        </section>
+        <section id="sect-00014">
+          <title>Comprehensive art program</title>
+          <para id="para-00018">
+            Our art program is designed to enhance students’ understanding of concepts through clear and effective maps, timelines, graphs, and photographs.
+            <figure id="fig-00001">
+              <media id="Figure00_PP_Art1" alt="Alt text placeholder">
+                <image mime-type="image/jpeg" src="../../media/Figure00_PP_Art1.jpg"/>
+              </media>
+              <caption>
+                The figure title for this piece of art is “People of the World” and the caption follows.Captions should be written in complete sentences.
+              </caption>
+            </figure>
+
+            <figure id="fig-00002">
+              <media id="Figure00_PP_Art2" alt="A timeline shows important events of the era. In 1492, Christopher Columbus lands on Hispaniola. In 1494, the Treaty of Tordesillas divides the Americas between the Portuguese and the Spanish; the Cantino World map is shown. In 1517 Martin Luther publishes “Ninety-Five Theses,” thereby launching the Protestant Reformation. In 1521, Hernan Cortes conquers Tenochtitlan. In 1530, John Calvin strengthens Protestantism; a portrait of John Calvin is shown. In 1534, Henry the eighth breaks with the Catholic Church and establishes the Church of England; a portrait of Henry the eighth is shown. In 1565, the Spanish establish St. Augustine. In 1584 to 1590, English efforts to colonize Roanoke fail; a map of Roanoke is shown. In 1603, Samuel de Champlain founds New France. In 1607, the first permanent English settlement begins at Jamestown; a map of Virginia is shown. In 1610, the Spanish establish St. Santa Fe. In 1624, the Dutch found New Amsterdam on Manhattan Island; an image of the purchase of Manhattan Island is shown.">
+                <image mime-type="image/jpeg" src="../../media/Figure00_PP_Art2.jpg"/>
+              </media>
+              <caption>
+                Sixteenth-century Europe was defined by the rise of nation states and the division of Christianity due to the Protestant Reformation. Increased competition for wealth fueled by both developments spilled over into the New World, and by the early seventeenth century, Spain, Portugal, England, France, and the Netherlands all had a presence in North America.
+              </caption>
+            </figure>
+
+            <figure id="fig-00003">
+              <media id="Figure00_PP_Art3" alt="A map shows the routes that were used in the course of the slave trade and the number of enslaved people who traveled each route.">
+                <image mime-type="image/jpeg" src="../../media/Figure00_PP_Art3.jpg"/>
+              </media>
+              <caption>
+                This map shows the routes that were used in the Atlantic slave trade. The majority of slaves were sent to the plantations and mines of Brazil. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)
+              </caption>
+            </figure>
+          </para>
+        </section>
+      </section>
+      <section id="sect-00015">
+        <title>Additional resources</title>
+        <section id="sect-00016">
+          <title>Student and instructor resources</title>
+          <para id="para-00019">
+            We’ve compiled additional resources for both students and instructors, including Getting Started Guides companion PowerPoints, an Instructor Solution Guide, and a Test Bank. Instructor resources require a verified instructor account, which you can apply for when you log in or create your account on openstax.org. 
+          </para>
+          <para id="para-00020">
+            Instructor and student resources are typically available within a few months after the book’s initial publication. Take advantage of these resources to supplement your OpenStax book.
+          </para>
+        </section>
+        <section id="sect-00017">
+          <title>Community hubs</title>
+          <para id="para-00021">
+            OpenStax partners with the Institute for the Study of Knowledge Management in Education (ISKME) to offer Community Hubs on OER Commons—a platform for instructors to share community-created resources that support OpenStax books, free of charge. Through our Community Hubs, instructors can upload their own materials or download resources to use in their own courses, including additional ancillaries, teaching material, multimedia, and relevant course content. We encourage instructors to join the hubs for the subjects most relevant to your teaching and research as an opportunity both to enrich your courses and to engage with other faculty.
+          </para>
+          <para id="para-00022">
+            To reach the Community Hubs, visit www.oercommons.org/hubs/OpenStax.
+          </para>
+        </section>
+        <section id="sect-00018">
+          <title>Technology partners</title>
+          <para id="para-00023">
+            As allies in making high-quality learning materials accessible, our technology partners offer optional low-cost tools that are integrated with OpenStax books. To access the technology options for your text, visit your book page on openstax.org.
+          </para>
+        </section>
+      </section>
+      <section id="sect-00019">
+        <title>About the authors</title>
+        <section id="sect-00020">
+          <title>Senior contributing author</title>
+        <para id="para-00024">
+          <emphasis effect="italics">Diana Riser, Catawba College</emphasis> (Chapters 1–10)
+        </para>
+        <para id="para-00025">
+          Andrew Fraknoi is Chair of the Astronomy Department at Foothill College and served as the Executive Director of the Astronomical Society of the Pacific from 1978–1992. His work with the society included editing Mercury Magazine, Universe in the Classroom, and Astronomy Beat. He’s taught at San Francisco State University, Canada College, and the University of California Extension. He is editor/co-author of The Universe at Your Fingertips 2.0, a collection of teaching activities, and co-author of Solar Science, a book for middle-school teachers. He authored a syndicated newspaper column on astronomy, and appears regularly on local and national radio.  With Sidney Wolff, he was founder of Astronomy Education Review.  He serves on the Board of Trustees of the SETI Institute and on the Lick Observatory Council. In addition, he has organized six national symposia on teaching introductory astronomy. He received the Klumpke-Roberts Prize of the ASP, the Gemant Award of the American Institute of Physics, and the Faraday Award of the NSTA.
+        </para>
+        <para id="para-00026">
+          <emphasis effect="italics">Rose Spielman, Middlesex Community College</emphasis> (Chapters 11–17)
+        </para>
+        <para id="para-00027">
+          David Morrison is a Senior Scientist at NASA Ames Research Center. He received his PhD in astronomy from Harvard, where he was one of Carl Sagan’s graduate students. He is a founder of the field of astrobiology and is known for research on small bodies in the solar system.  He spent 17 years at University of Hawaii’s Institute for Astronomy and the Department of Physics and Astronomy. He was Director of the IRTF at Mauna Kea Observatory.  Morrison has held senior NASA positions including Chief of the Ames Space Science Division and founding Director of the Lunar Science Institute. He’s been on science teams for the Voyager, Galileo, and Kepler missions. Morrison received NASA Outstanding Leadership Medals and the NASA Exceptional Achievement Medal. He was awarded the AAS Carl Sagan medal and the ASP Klumpke-Roberts prize. Committed to the struggle against pseudoscience, he serves as Contributing Editor of <emphasis effect="italics">Skeptical Inquirer</emphasis> and on the Advisory Council of the National Center for Science Education.
+        </para>
+        <para id="para-00028">
+          <emphasis effect="italics">David Biek, Middle Georgia State University, Dominguez Hills</emphasis>
+        </para>
+          <para id="para-00029">
+            After receiving her PhD from the UC Berkeley, Dr. Wolff was involved with the astronomical development of Mauna Kea. In 1984, she became the Director of Kitt Peak National Observatory, and was director of National Optical Astronomy Observatory. Most recently, she led the design and development of the 8.4-meter Large Synoptic Survey Telescope. Dr. Wolff has published over ninety refereed papers on star formation and stellar atmospheres.  She has served as President of the AAS and the ASP. Her recently published book, <emphasis effect="italics">The Boundless Universe: Astronomy in the New Age of Discovery</emphasis>, won the 2016 IPPY (Independent Publisher Book Awards) Silver Medal in Science.
+          </para>
+    </section>
+    <section id="sect-00021">
+      <title>Contributing authors</title>
+        <para id="para-00030">
+          Alisa Miller Beyer, University of Kansas<newline/>
+James Guinee, University of Central Arkansas<newline/>
+Kathleen Hughes, University of Calgary<newline/>
+Ron Mossler, Los Angeles Valley College<newline/>
+Amy Osmon, Daytona State College<newline/>
+John Woodman, Embry-Riddle Aeronautical University<newline/>
+        </para>
+      </section>
+      <section id="sect-00022">
+        <title>Reviewers</title>
+        <para id="para-00031">
+          Ashley Biddle, Leeward Community College<newline/>
+James Guinee, University of Central Arkansas<newline/>
+Kathleen Hughes, University of Calgary<newline/>
+Deepti Karkhanis, Bellevue College<newline/>
+Jeannine Klein, Mohave Community College<newline/>
+Julie Lazzara, Paradise Valley Community College<newline/>
+Ivan Mancinelli-Franconi, Clackamas Community College<newline/>
+Rebecca McDonald, Washington &amp; Jefferson College<newline/>
+Lakshmi Raman, Oakland University<newline/>
+Darrell Rudmann, Shawnee State University<newline/>
+Jon Santo, University of Nebraska Omaha<newline/>
+Jon Skalski, Brigham Young University<newline/>
+Jason Spiegelman, Community College of Baltimore County<newline/>
+Karen Tinsley, Guilford College<newline/>
+Virginia Tompkins, The Ohio State University<newline/>
+        </para>
+      </section>
+    </section>
+    </section>
   </content>
 </document>
