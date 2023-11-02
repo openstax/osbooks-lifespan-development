@@ -6,6 +6,184 @@
     <md:uuid>f37b53ea-eb1a-4796-8d5d-8c4c53e2708e</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="learning-objectives" id="sect-00001">
+      <title>Learning Objectives</title>
+      <para id="para-00001">By the end of this section, you will be able to</para>
+        <list id="list-00001">
+          <item>Summarize newborn vital signs and implement techniques learned in the clinical setting with minimal disruption to the newborn. </item>
+          <item>Identify and demonstrate the components of a head-to-toe newborn physical examination.</item>
+          <item>Distinguish between different newborn skin variations both normal and abnormal.</item>
+        </list>
+    </section>
+    <section id="sect-00002">
+    <title>Physical Growth (The Quick Brown Fox Jumped Over the Lazy Dog)</title>
+    <para id="para-00002">The study of lifespan development encompasses people and places across the globe. This course will help you understand similarities and differences in human development. This is just placeholder text. 
+    </para>
+    <section id="sect-00003">
+      <title>[H2]Header Level H2 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
+      <para id="para-00003">
+        WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform).
+      </para>
+      <section id="sect-00004">
+        <title>[H3]Header Level H3 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
+        <para id="para-00004">
+          WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform). 
+        </para>
+      <section id="sect-00005">
+        <title>[H4]Header Level H4 for WW-Test; The Quick Brown Fox Jumped over the Lazy Dog</title>
+        <para id="para-00005">
+          WW-test notes that all header levels are placed in sequence here with minimal intervening text so we can see the hierarchy of header design in one place. The H2, H3, and H4 notes refer to what WW-content would send to WW-prod (one level different than platform). 
+        </para>
+        </section>
+      </section>
+    </section>
+    <section id="sect-00006">
+      <title>[H2]Adult Changes</title>
+      <para id="para-00006">
+        In middle age adults begin to notice changes in the body. 
+Over time a transition occurs with the body experiencing decreasing muscle to increasing body fat. Age related muscle loss is termed as sarcopenia. The metabolism is how our bodies convert food to energy and includes components of energy consumption. Around the age of 46 the basic metabolic rate declines meaning the energy needed at rest is reduced, as seen in <link target-id="Figure04_03_SleepCycle"/> (Pontzer, et al., 2021).
+<figure id="Figure04_03_SleepCycle">
+  <media alt="Alt text placeholder">
+    <image mime-type="image/png" src="../../media/Figure04_03_SleepCycle.png"/>
+  </media>
+    <caption>The sleep cycle has four stages.</caption>
+</figure>
+Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging. The layers of skin lose their elasticity, water and fat content causing the loose and wrinkled changes to the skin. The sun causes a major impact of secondary aging to the skin resulting in <term class="no-emphasis" id="term-00001">sun spots</term>, in addition to wrinkling.
+      </para>
+      <para id="para-00007">
+        One substantial concern in middle adulthood is the changing of <term class="no-emphasis" id="term-00002">bone density</term>. In the mid to late 30s there the body reaches a peak in bone density, and then bone mass progressively declines. A process called osteoporosis. For women, <term id="term-00003">osteoporosis</term> occurs at twice the rate than it does for men as a result of menopause and the reduction of estrogen and progesterone. Hormone replacement therapy has been observed to diminish the impact of bone loss in menopause (Kaur, 2012). The risk of osteoporosis can be reduced by calcium consumption in <term class="no-emphasis" id="term-00004">early adulthood</term>. The impacts can also be mitigated in adulthood with strength-training programs which have even shown bone density increases in women (Nelson et al., 1994).
+      </para>
+      <para id="para-00008">
+        Unfortunately, the perception of negative stereotypes around aging also increases as adults move from middle or older age statuses. They generally used the methods in this bulleted list.
+        <list id="list-00002">
+          <item>Here is the first bulleted item.</item> 
+          <item>Here is the second bulleted item. It i much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
+          <item>Here is the third bulleted item in the list.</item>
+        </list>
+        Now the list is complete.
+      </para>
+    </section>
+    <section id="sect-00007">
+      <title>[H2]Brain Changes in Middle Adulthood</title>
+      <para id="para-00009">
+        What happens to our brain now that it is fully formed? Just because the growing process has stopped does not mean the brain has ceased developing too. There is a great deal of stability in brain during middle adulthood and aspects that are indistinguishable from that of early adult such as the ability to make and utilize mental images (Cacola, et al., 2013). Researchers have identified differences in other areas though, some of which show improved functioning and some of which show less functioning, as shown in <link target-id="Figure02_05_BrownBoard"/>.
+        <figure id="Figure02_05_BrownBoard">
+          <media alt="Part a shows the seal of the Massachusetts Bay Colony. Part b shows a portrait of John Winthrop.">
+            <image mime-type="image/png" src="../../media/Figure02_05_BrownBoard.png"/>
+          </media>
+          <caption>(a) In the 1629 seal of the Massachusetts Bay Colony, an Indian is shown asking colonists to “Come over and help us.” This seal indicates the religious ambitions of (b) John Winthrop, the colony’s first governor, for his “city upon a hill.”</caption>
+        </figure>
+      </para>
+      <para id="para-00010">
+        The <term class="no-emphasis" id="term-00005">brain</term> reflects overall more stable emotions in middle adulthood. Findings suggest middle age adults are better at focusing on positive information and less amygdala reactivity to negative information as compared to younger adults (Maher et al., 2004). It is not uncommon to hear adults in middle age comment about becoming forgetful and even presenting for memory assessments in middle age. This is not consistent with research and often times the perceived problems in memory are a result of stress and anxiety. In fact, differences in memory between middle and young adults are not typically found and seem to generally function at the same level (Salthouse, 2012).
+      </para>
+    </section>
+    <section id="sect-00008">
+      <title>[H2]This Section Will Show Four of the Feature Boxes in <emphasis effect="italics">Lifespan Development</emphasis></title>
+      <para id="para-00011">
+        One more commonly apparent change in brain processes in middle adulthood is a slower <term class="no-emphasis" id="term-00006">processing speed</term> than of previous ages. This may be due to the middle-age adult using greater areas of the cortex in response to cognitive tasks than younger adults (Gunter et al., 1998), however chronic health problems are also associated with reduced processing speed (Tufvesson et al., 2013). Another reason for slowed processing speed maybe changes in the inhibition ability of middle-aged adults. Research has found adults to have more difficulty filtering distracting stimuli such as being interrupted by irrelevant verbal stimuli on a task (Kray et al., 2008).
+      </para>
+      <note class="what-heard" id="note-00001">
+        <title>Sample Feature Box Using Lorem Ipsum Bob Ross</title>
+        <para id="para-00012">
+          This is the “What Have You Heard?” FB description from the WEG: This feature will appear at the beginning of each chapter and will address truths and myths about development by posing a few intriguing questions or assumptions, with a brief explanation that will be expanded upon in the chapter narrative. The goal of this feature is to arouse students’ curiosity, encourage them to become aware of preconceived notions, and immediately engage them in the chapter topic.
+        </para>
+        <para id="para-00013">
+          Only think about one thing at a time. Don't get greedy. God gave you this gift of imagination. Use it. Nice little clouds playing around in the sky. In your imagination you can go anywhere you want. I sincerely wish for you every possible joy life could bring. Clouds are free. They just float around the sky all day and have fun.
+        </para>
+          <quote id="quote-00001">
+            <para id="para-00014">Talent is a pursued interest. That is to say, anything you practice you can do. You can create the world you want to see and be a part of. You have that power. You can do anything here - the only pre-requisite is that it makes you happy. Let your heart be your guide. You can't make a mistake. Anything that happens you can learn to use - and make something beautiful out of it. This piece of canvas is your world. A big strong tree needs big strong roots.</para>
+          </quote>
+        <para id="para-00015">
+          We don't really know where this goes - and I'm not sure we really care. Tree trunks grow however makes them happy. See. We take the corner of the brush and let it play back-and-forth. It's amazing what you can do with a little love in your heart. Every time you practice, you learn more.
+        </para>
+      </note>
+      <note class="it-depends" id="note-00002">
+        <title>Sample Feature Box Using Lorem Ipsum Postmodern Academia</title>
+        <para id="para-00016">
+          This is the Description of the “It Depends” FB from the WEG: This feature will present emerging research on complex topics, some of which may potentially be controversial. There should be at least 1 It Depends box in each chapter.
+        </para>
+        <para id="para-00017">
+          If one examines Lyotardist narrative, one is faced with a choice: either reject prestructuralist nationalism or conclude that the significance of the participant is significant form. A number of sublimations concerning Lyotardist narrative may be discovered. “Society is part of the absurdity of reality,” says Foucault. But the characteristic theme of the works of Rushdie is a mythopoetical whole. Marx promotes the use of subcapitalist cultural theory to analyse and read art.
+        </para>
+        <para id="para-00018">
+          However, the example of Lyotardist narrative depicted in Rushdie’s Satanic Verses is also evident in The Ground Beneath Her Feet. Many narratives concerning the genre, and eventually the collapse, of structuralist society exist. It could be said that Marx suggests the use of Lyotardist narrative to attack hierarchy. An abundance of theories concerning subcapitalist cultural theory may be revealed.
+        </para>
+      </note>
+      <para id="para-00019">
+        As general health concerns increase in middle-age so do those of maintaining brain health and ways to stave off <term id="term-00007">Alzhiemer’s</term> disease and other forms of dementia. Nutrition seems to have constantly varying advice in aiding brain functions. Some reports suggest moderate amounts of caffeine (2-3 cups of coffee a day) are associated with lower risks of developing dementia (Zhang et al., 2021). Higher rates of consumption however have been associated increased rates of dementia and reduced volume of the brain and hippocampus (Pham et al., 2021). Moderate amounts of alcohol (1-2 drinks a day) may have benefits at reducing dementia risk whereas large amounts show increasing risks of dementia when compared to nondrinking (Jeon et al., 2022). 
+      </para>
+      <note class="intersections-contexts" id="note-00003">
+        <title>Sample Feature Box Using Lorem Ipsum Cheese</title>
+        <para id="para-00020">
+          This is the description of the “Intersections and Contexts” FB from the WEG: This box focuses on the interconnectedness of contexts, developmental systems, and the individual. It will encompass contexts such as culture, race, class, gender, and typical vs. atypical development. Real-world examples should be incorporated. There should be at least 1 I&amp;C box in each chapter.
+          Everyone loves hard cheese cheesy grin. Fondue cheesy feet feta cheese slices cut the cheese chalk and cheese cheesy feet boursin. Taleggio pecorino cheese on toast the big cheese camembert de normandie everyone loves cottage cheese boursin. Macaroni cheese st. agur blue cheese cheese triangles say cheese cheese and wine who moved my cheese jarlsberg swiss. Cheese slices manchego fromage frais the big cheese goat roquefort cheese slices chalk and cheese. Pecorino goat squirty cheese stilton mascarpone taleggio brie cheese strings. Chalk and cheese cow brie mozzarella gouda.           
+        </para>
+        <para id="para-00021">
+          Macaroni cheese cheese and wine manchego. Halloumi cheesy grin cottage cheese roquefort swiss cheesy feet port-salut emmental. Gouda emmental cottage cheese swiss feta goat stinking bishop cheeseburger. Bocconcini taleggio lancashire cow cheeseburger blue castello mascarpone when the cheese comes out everybody's happy. Babybel ricotta cheesy grin edam taleggio monterey jack everyone loves fromage. Rubber cheese cheeseburger hard cheese blue castello cheesy grin paneer macaroni cheese cheddar. Cheddar bocconcini chalk and cheese swiss caerphilly smelly cheese cut the cheese port-salut. Cheddar gouda rubber cheese cheese strings. Say cheese brie red leicester. Cheesecake pepper jack swiss airedale fondue gouda cheesecake chalk and cheese. Feta cottage cheese smelly cheese say cheese mozzarella ricotta airedale who moved my cheese. Brie when the cheese comes out everybody's happy ricotta caerphilly roquefort cut the cheese monterey jack cheesy feet. Queso fromage st. agur blue cheese cheese slices boursin ricotta emmental emmental. Chalk and cheese goat taleggio
+        </para>
+      </note>
+      <para id="para-00022">
+        Jean Piaget (1896-1980) was an influential cognitive psychologist for the 20th century. His interests started in the natural sciences and philosophy, but he then began to have an interest in better understanding the origin, nature, and login of humans. 
+      </para>
+      <note class="life-hacks" id="note-00004">
+        <title>Sample Feature Box Using Lorem Ipsum Pirate</title>
+        <para id="para-00023">
+          This is the description of the “Life Hacks” FB from the WEG: This feature will provide specific guidance on how students can apply the material in the chapter to improve their own lives and the lives of others.
+        </para>
+        <para id="para-00024">
+          Heave down cutlass booty parrel scurvy hail-shot gunwalls. Weigh anchor come about tack avast jib spike rigging. Sheet crimp brigantine smartly list reef sails prow. Gun Arr dance the hempen jig wherry Brethren of the Coast furl belaying pin. Sutler Sink me swab hands red ensign weigh anchor sheet. Careen coxswain ye maroon heave down keelhaul crow's nest. Starboard landlubber or just lubber come about long clothes reef chase mizzenmast. Heave down lugsail brig measured fer yer chains Shiver me timbers bucko furl. Man-of-war belay dance the hempen jig heave down Buccaneer knave yawl. Spirits brigantine Sink me galleon chandler doubloon hail-shot. Driver capstan bucko weigh anchor Sea Legs grog lateen sail. Schooner scuttle Jack Ketch hulk sloop avast man-of-war. Doubloon rigging lee gaff hearties poop deck rum. Line barkadeer swab loaded to the gunwalls ballast careen wherry.Here are some critical thinking questions about this box?
+        </para>
+      </note>
+      <para id="para-00025">
+        WW-test notes that this paragraph has a few index term functionalities, such as not including the full term to reduce duplicate entries for singular and plural terms. Consider print services and advertising. Mac’s and Cheese is a local restaurant and wants a special sign on an already constructed billboard outside a stadium Since it wants that sign targeted to stadium customers, the company would want a sign built specifically for that site. Dinosaur Vinyl, Inc. is the sign manufacturer and would use <term class="no-emphasis" id="term-00008">Job Order Costing</term> to account for the manufacturing costs of the sign. Now imagine Mac’s &amp; Cheese also wanting to create flyers to place on cars in the <term class="no-emphasis" id="term-00009">stadium</term> during each game. Other times they want to test an index term without every letter so that <term class="no-emphasis" id="term-00010">stadium</term>s appears singular in the index. Those flyers are identical to each other and produced in large batches and by a company that uses process costing.
+      </para>
+    </section>
+    <section id="sect-00009">
+      <title>Sensation and Perception in Middle Adulthood </title>
+      <para id="para-00026">
+        Just as people experience changes to their brain and body, sensory abilities also begin to experience changes during middle adulthood. Structural components of the eyes change. Hearing acuity recedes from primary and secondary aging. Even other senses experience subtle changes during this time. As seen in <link target-id="Figure02_05_variables"/>, the eyes experience a loss of visual acuity in middle age referred to as <term id="term-00011">presbyopia</term>. This results from a thickening of the lens which reduces the amount of light that can reach the retina. Two common issues arise from presbyopia. As the thickening occurs it reduces the elasticity of the eye causing it to become more farsighted. A reason many adults rely on reading glass and bifocals to increase visual acuity when reading. Additionally, a yellow material builds up from the thickened lens reducing light. The limitation of light influences the comfort of night driving. Drivers experiencing presbyopia may have difficulty reading street signs at night or become more disrupted by the headlights of other cars. Night driving is additionally complicated by a significant loss of rods in middle adulthood (Grossniklaus et al., 2013). A further issue with lens thickening is that it puts more strain on the on the muscles around the eye making it more difficult to focus on objects.
+        <figure id="Figure02_05_variables">
+          <media alt="A map shows the “Columbian Exchange” of goods and diseases. Goods include crops such as maize, potatoes, tobacco, beans, squash, peppers, cacao, cassava, and manioc traveling east as well as rye, wheat, rice, sugar, and tea traveling west. Animals such as cattle, horses, and pigs traveled westward. Diseases include syphilis, malaria, smallpox, yellow fever, and plague.">
+            <image mime-type="image/png" src="../../media/Figure02_05_variables.png"/>
+          </media>
+          <caption>With European exploration and settlement of the New World, goods, animals, and diseases began crossing the Atlantic Ocean in both directions. This “Columbian Exchange” soon had global implications. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+        </figure>
+      </para>
+      <section id="sect-00010">
+        <title>[H3]Presbycusis</title>
+        <para id="para-00027">
+          Age related hearing loss is known as <term id="term-00012">presbycusis</term>. Statistics vary widely on the percent of middle-aged adults with hearing loss, however it is safe to say it begins to affect many during this time. Over time the inner ear’s structures and nerves slowly deteriorate. Initial hearing loss begins at the extremities with high frequency sounds. Secondary causes of hearing loss such as noise exposure are also common. Men tend to experience more <term class="no-emphasis" id="term-00013">hearing loss</term> than women do which maybe an aspect of working in professions or hobbies with more noise exposure. For example, the second most common disability benefit to US service members is hearing loss with 1.3 million receiving compensation (Veteran Benefit Administration, 2020). This is only topped by tinnitus, another hearing related condition. Hearing aids can be beneficial to those struggling with hearing loss. However, many avoid or put off compensating their hearing due to hassle or cost (Li-Korotky, 2012). Those who do choose hearing aids may find that it reduces rates of cognitive declines and even dementia risk (Yeo et al., 2022). 
+        </para>
+      </section>
+      <section id="sect-00011">
+        <title>[H3]Middle Age</title>
+        <para id="para-00028">
+          Some research has suggested other sensory capabilities may also be different in middle age. As skin thins and loses elasticity, the touch sensation and sensitivity to hot and cold become more pronounced. Proprioception, our body’s sense of movement in space has been observed to not be as skilled at rebalancing itself at middle age (45-64) as compared to earlier adulthood (23-34; Pinto et al., 2020).
+        </para>
+      </section>
+    </section>
+    <section id="sect-00012">
+      <title>[H2]This Section Will Show the Various Features in a Feature Box.</title>
+      <note class="heard" id="note-00005">
+        <title>Sample Feature Box Using Lorem Ipsum British-isms</title>
+        <para id="para-00029">
+          This is the “What Have You Heard?” FB description from the WEG: This feature will appear at the beginning of each chapter and will address truths and myths about development by posing a few intriguing questions or assumptions, with a brief explanation that will be expanded upon in the chapter narrative. The goal of this feature is to arouse students’ curiosity, encourage them to become aware of preconceived notions, and immediately engage them in the chapter topic.
+        </para>
+        <para id="para-00030">  
+          WW-test notes that this feature box has a figure, a table, an <term class="no-emphasis" id="term-00014">index term</term>, a footnote,<footnote id="foot-00001">A footnote for WW-test. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line.</footnote> a link to a figure, and a link to an external URL (visit <link url="www.openstax.org">www.openstax.org</link>). Pezzy little Dalek well fit rumpy pumpy Doctor Who numbskull flip flops, rather complete mare clotted cream pie-eyed fish and chips chinwag scrote, nuthouse houlligan a bottle of plonk sweets flabbergasted. In a pickle tally-ho 'ar kid bull dog ask your mother if owt 'ar kid, get away with ya squirrel it's spitting scones rambunctious, naff the dog's dinner lost the plot middle class punter. Willy bread and butter pudding lost the plot atrocious what a mug bargain Betty squiffy bangers and mash, flabbergasted ee bah gum down South challenge you to a duel the chippy Dalek, as shown in <link target-id="Figure02_01_Method"/>.
+          <figure id="Figure02_01_Method">
+            <media alt="An image shows two paintings depicting groups of people of mixed ethnicities.">
+              <image mime-type="image/png" src="../../media/Figure02_01_Method.png"/>
+            </media>
+            <caption>Races in the Spanish colonies were separated by legal and social restrictions. In the mid-eighteenth century, casta paintings such as these showed the popular fascination with categorizing individuals of mixed ethnicities.</caption>
+          </figure>
+        </para>
+        <para id="para-00031">
+          Have a bash in the jacksy a reet bobbydazzler how's your father gob, middle class how's your father get away with ya, clotted cream Dalek some mothers do 'ave 'em. A right toff ey up duck 'ar kid up at the crack of dawn through the dales her Majesty's pleasure well chuffed, that's ace a total jessie blummin' Bob's your uncle utter shambles.
+        </para>
+      </note>
+    </section>
+  </section>
   </content>
 </document>
