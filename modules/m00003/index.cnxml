@@ -67,13 +67,13 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
       <title>[H2]Brain Changes in Middle Adulthood</title>
       <para id="para-00009">
         What happens to our brain now that it is fully formed? Just because the growing process has stopped does not mean the brain has ceased developing too. There is a great deal of stability in brain during middle adulthood and aspects that are indistinguishable from that of early adult such as the ability to make and utilize mental images (Cacola, et al., 2013). Researchers have identified differences in other areas though, some of which show improved functioning and some of which show less functioning, as shown in <link target-id="Figure02_05_BrownBoard"/>.
+      </para>
         <figure id="Figure02_05_BrownBoard">
           <media alt="Part a shows the seal of the Massachusetts Bay Colony. Part b shows a portrait of John Winthrop.">
             <image mime-type="image/png" src="../../media/Figure02_05_BrownBoard.png"/>
           </media>
           <caption>(a) In the 1629 seal of the Massachusetts Bay Colony, an Indian is shown asking colonists to “Come over and help us.” This seal indicates the religious ambitions of (b) John Winthrop, the colony’s first governor, for his “city upon a hill.”</caption>
         </figure>
-      </para>
       <para id="para-00010">
         The <term class="no-emphasis" id="term-00005">brain</term> reflects overall more stable emotions in middle adulthood. Findings suggest middle age adults are better at focusing on positive information and less amygdala reactivity to negative information as compared to younger adults (Maher et al., 2004). It is not uncommon to hear adults in middle age comment about becoming forgetful and even presenting for memory assessments in middle age. This is not consistent with research and often times the perceived problems in memory are a result of stress and anxiety. In fact, differences in memory between middle and young adults are not typically found and seem to generally function at the same level (Salthouse, 2012).
       </para>
@@ -143,13 +143,13 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
       <title>Sensation and Perception in Middle Adulthood </title>
       <para id="para-00026">
         Just as people experience changes to their brain and body, sensory abilities also begin to experience changes during middle adulthood. Structural components of the eyes change. Hearing acuity recedes from primary and secondary aging. Even other senses experience subtle changes during this time. As seen in <link target-id="Figure02_05_variables"/>, the eyes experience a loss of visual acuity in middle age referred to as <term id="term-00011">presbyopia</term>. This results from a thickening of the lens which reduces the amount of light that can reach the retina. Two common issues arise from presbyopia. As the thickening occurs it reduces the elasticity of the eye causing it to become more farsighted. A reason many adults rely on reading glass and bifocals to increase visual acuity when reading. Additionally, a yellow material builds up from the thickened lens reducing light. The limitation of light influences the comfort of night driving. Drivers experiencing presbyopia may have difficulty reading street signs at night or become more disrupted by the headlights of other cars. Night driving is additionally complicated by a significant loss of rods in middle adulthood (Grossniklaus et al., 2013). A further issue with lens thickening is that it puts more strain on the on the muscles around the eye making it more difficult to focus on objects.
+      </para>
         <figure id="Figure02_05_variables">
           <media alt="A map shows the “Columbian Exchange” of goods and diseases. Goods include crops such as maize, potatoes, tobacco, beans, squash, peppers, cacao, cassava, and manioc traveling east as well as rye, wheat, rice, sugar, and tea traveling west. Animals such as cattle, horses, and pigs traveled westward. Diseases include syphilis, malaria, smallpox, yellow fever, and plague.">
             <image mime-type="image/png" src="../../media/Figure02_05_variables.png"/>
           </media>
           <caption>With European exploration and settlement of the New World, goods, animals, and diseases began crossing the Atlantic Ocean in both directions. This “Columbian Exchange” soon had global implications. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
         </figure>
-      </para>
       <section id="sect-00010">
         <title>[H3]Presbycusis</title>
         <para id="para-00027">
@@ -172,18 +172,273 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
         </para>
         <para id="para-00030">  
           WW-test notes that this feature box has a figure, a table, an <term class="no-emphasis" id="term-00014">index term</term>, a footnote,<footnote id="foot-00001">A footnote for WW-test. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line. Let’s make this one long so we can see how it aligns if it wraps down a line.</footnote> a link to a figure, and a link to an external URL (visit <link url="www.openstax.org">www.openstax.org</link>). Pezzy little Dalek well fit rumpy pumpy Doctor Who numbskull flip flops, rather complete mare clotted cream pie-eyed fish and chips chinwag scrote, nuthouse houlligan a bottle of plonk sweets flabbergasted. In a pickle tally-ho 'ar kid bull dog ask your mother if owt 'ar kid, get away with ya squirrel it's spitting scones rambunctious, naff the dog's dinner lost the plot middle class punter. Willy bread and butter pudding lost the plot atrocious what a mug bargain Betty squiffy bangers and mash, flabbergasted ee bah gum down South challenge you to a duel the chippy Dalek, as shown in <link target-id="Figure02_01_Method"/>.
+        </para>
           <figure id="Figure02_01_Method">
             <media alt="An image shows two paintings depicting groups of people of mixed ethnicities.">
               <image mime-type="image/png" src="../../media/Figure02_01_Method.png"/>
             </media>
             <caption>Races in the Spanish colonies were separated by legal and social restrictions. In the mid-eighteenth century, casta paintings such as these showed the popular fascination with categorizing individuals of mixed ethnicities.</caption>
           </figure>
-        </para>
         <para id="para-00031">
           Have a bash in the jacksy a reet bobbydazzler how's your father gob, middle class how's your father get away with ya, clotted cream Dalek some mothers do 'ave 'em. A right toff ey up duck 'ar kid up at the crack of dawn through the dales her Majesty's pleasure well chuffed, that's ace a total jessie blummin' Bob's your uncle utter shambles.
         </para>
+        <table id="Table01_01_01" summary="asdf" class="unnumbered unstyled">
+          <tgroup cols="3">
+            <thead>
+              <row>
+                <entry namest="c1" nameend="c3" align="center">Table inside a Feature Box</entry>
+              </row>
+              </thead>
+            <tbody>
+            <row>
+              <entry>I'm a table</entry>
+              <entry>With 3 rows and 3 columns</entry>
+              <entry>But you can't see the lines!</entry>
+            </row>
+            <row>
+              <entry>'Cuz I'm an unnumbered</entry>
+              <entry>Unstyled</entry>
+              <entry>Super awesome table like wow how did this table get so awesome?</entry>
+            </row>
+            <row>
+              <entry>boop boop boop boop boop boop boop boop boop boop</entry>
+              <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+              <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+            </row>
+          </tbody>
+          </tgroup>
+          <caption>This table has a caption that summarizes the point.</caption>
+          </table>
+        <para id="para-00032">
+          Bangers and mash curtain twitching they can sod off well fit argy-bargy the dog's dinner Doctor Who got his end away flabbergasted, Time Lord off t'pub treacle make a brew whizz munta squirrel, penny-dreadful ended up brown bread throw a spanner in the works squirrel chuffed chap half-inch it.
+          <list id="list-00003">
+            <item>This is a sample of a discussion question in a feature box.</item>
+            <item>This is a sample of a second discussion questions in a feature box.</item>
+          </list>
+        </para>
       </note>
+
+      <para id="para-00033">
+        It is common to see the careers of many professional athletes end by their early thirties yet we see notable athlete continue playing to age 40 and beyond. As discussed in this section a number of subtle changes occur physically that can make continued playing difficult. Reaction times are not quite as quick as their younger counter parts.
+      </para>
+      <table id="Table01_01_02" summary="asdf" class="top-titled">
+        <tgroup cols="3">
+        <thead>
+        <row>
+          <entry namest="c1" nameend="c3" align="center">Table outside a Feature Box</entry>
+        </row>
+        </thead>
+        <tbody>
+          <row>
+            <entry>Table with a fake title</entry>
+            <entry>Just a fake title</entry>
+            <entry>I'm so fake</entry>
+          </row>
+          <row>
+            <entry>Lorem ipsum</entry>
+            <entry>Sit Dolor</entry>
+            <entry>I Love Cheese.</entry>
+          </row>
+          <row>
+            <entry>Boop</entry>
+            <entry>Boop | pooB</entry>
+            <entry>Poob</entry>
+          </row>
+        </tbody>
+        </tgroup>
+        <caption>This table has a caption that summarizes the point.</caption>
+        </table>
+
+        <para id="para-00034">
+          Up until middle adulthood (or age-44 of five-year brackets) unintentional injuries have been the leading cause of death. Previous chapters noted drowning in early childhood and later automobile accidents. In 2020, poisoning (drug overdose) accounts for 62.1% of accidental deaths between the ages of 35 and 64 in the United States with automobile accidents constituting 19.9% (CDC, 2020). 
+        </para>
+        <para id="para-00035">
+          As middle-age, continues the main cause of death shifts to cancers. Cancers form when the body’s normal elimination of old cells is disrupted and damaged cells continue to reproduce. There are numerous risk factors associated with the development of cancers. This can be the result of specific genetics or environmental influences. For example, viruses such as the human papilloma virus (HPV) and Epstein-Barr virus, or chemical exposure to asbestos, frequent and high quantity exposure to radiation can increase risk of cancer, as seen in <link target-id="Figure03_04_CorpusCall"/>. (American Cancer Society, 2023).
+        </para> 
+          <figure id="Figure03_04_CorpusCall">
+            <media alt="Part a and part b both show paintings depicting mixed race families.">
+              <image mime-type="image/png" src="../../media/Figure04_03_SleepCycle.png"/>
+            </media>
+              <caption><emphasis effect="italics">Castas</emphasis> paintings from the mid-1700s document the cultural blending seen in Spanish colonies. Do these images support the assertion that there was a degree of social mobility in the Spanish colonies? Why or why not? </caption>
+          </figure>
+        <para id="para-00038">Despite changes in the leading cause of deaths in the middle adulthood age demographic, cardiovascular disease (CVD) is a steady and consistent number 2. While CVD is not random it can often be unexpected. There are a number of contributing factors related to cardiovascular health.</para>
+        <note class="link-to-learning" id="note-00006">
+          <para id="para-00043">
+            WW-test notes that this feature tests index terms in a feature. Dynamic Systems provides bar code traceable software and helps companies track the costs associated with production. Not understanding <link url="http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU">http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU]</link> the difference between job order cost systems and process cost systems[/link] is common as customers often ask if their job order cost software is also the process cost software.
+          </para>
+        </note>
+        <para id="para-00044">
+          One contributing factor is hypertension or high blood pressure which occurs when the blood pushes against the artery walls at a high force. Another factor is CVD is Cholesterol. Cholesterol is a component of cell membranes made up of proteins and fats. High-density lipoprotein (HDL) is thought of as good cholesterol and cycles through the blood and liver. Low-density lipoprotein (LDL) is thought of as problematic because high amounts will stick to the lining of blood vessels. This causes a hardening of arteries and increases cardiovascular disease and stroke risk. Relatedly, triglycerides, a plaque buildup in the arteries, also increase these risks.
+        </para>
     </section>
   </section>
-  </content>
+
+
+
+  <section class="references" id="sect-00013">
+    <title>References Option A</title>
+    <para id="para-00045">4-Day Week Global. (2023). The results are in: The UK’s four-day week pilot. <emphasis effect="italics">Autonomy</emphasis>. https://static1.squarespace.com/static/60b956cbe7bf6f2efd86b04e/t/63f3df56276b3e6d7870207e/1676926845047/UK-4-Day-Week-Pilot-Results-Report-2023.pdf</para>
+    <para id="fs-idm29648528">American Cancer Society. (n.d.). History of the cancer prevention studies<emphasis effect="italics">.</emphasis> http://www.cancer.org/research/researchtopreventcancer/history-cancer-prevention-study</para>
+
+    <para id="fs-idm27105056">American Psychological Association. (2009). <emphasis effect="italics">Publication Manual of the American Psychological Association</emphasis> (6th ed.). Author.</para>
+
+<para id="newref101">Anderson J.W., Hanna T.J., Peng X., Kryscio R.J. (2000). Whole grain foods and heart disease risk. <emphasis effect="italics">Journal of the American College of Nutrition</emphasis>. 19 (3 Suppl): 291S-299S.</para>
+
+<para id="fs-idm58402288">Arnett, J. (2008). The neglected 95%: Why American psychology needs to become less American. <emphasis effect="italics">American Psychologist, 63</emphasis>(7)<emphasis effect="italics">, </emphasis>602–614.</para>
+
+<para id="zip-idm244675344">Barnett, W. S. (2011). Effectiveness of early educational intervention. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">333</emphasis>(6045), 975–978. https://science.sciencemag.org/content/333/6045/975</para>
+
+<para id="fs-idm38252528">Barton, B. A., Eldridge, A. L., Thompson, D., Affenito, S. G., Striegel-Moore, R. H., Franko, D. L., . . . Crockett, S. J. (2005). The relationship of breakfast and cereal consumption to nutrient intake and body mass index: The national heart, lung, and blood institute growth and health study. <emphasis effect="italics">Journal of the American Dietetic Association, 105</emphasis>(9), 1383–1389. http://dx.doi.org/10.1016/j.jada.2005.06.003</para>
+
+<para id="zip-idm227270880">Blann, L.E. (2005). Early intervention for children and families: With special needs. <emphasis effect="italics">MCN: The American Journal of Maternal Child Nursing</emphasis>, <emphasis effect="italics">30</emphasis>, 263–67.</para>
+
+<para id="para-00046">Caçola, P., Roberson, J., &amp; Gabbard, C. (2013). Aging in movement representations for sequential finger movements: A comparison between young-, middle-aged, and older adults. <emphasis effect="italics">Brain and Cognition</emphasis>, 82(1), 1-5. https://doi.org/10.1016/j.bandc.2013.02.003</para>
+
+<para id="fs-idp26999632">Chwalisz, K., Diener, E., &amp; Gallagher, D. (1988). Autonomic arousal feedback and emotional experience: Evidence from the spinal cord injured. <emphasis effect="italics">Journal of Personality and Social Psychology, 54</emphasis>, 820–828.</para>
+
+<para id="fs-idm8579552">Dominus, S. (2011, May 25). Could conjoined twins share a mind?<emphasis effect="italics"> New York Times Sunday Magazine</emphasis>. http://www.nytimes.com/2011/05/29/magazine/could-conjoined-twins-share-a-mind.html?_r=5&amp;hp&amp;</para>
+
+
+<para id="zip-idm238434800">Egnor, M. (2017, November 24). What the craniopagus twins teach us about the mind and the brain. <emphasis effect="italics">Evolution News &amp; Science Today</emphasis>. https://evolutionnews.org/2017/11/what-the-craniopagus-twins-teach-us-about-the-mind-and-the-brain/</para>
+
+<para id="zip-idm207849776">Ethnicity and Health in America Series: Featured Psychologists (n.d.). <emphasis effect="italics">American Psychological Association</emphasis>. https://www.apa.org/pi/oema/resources/ethnicity-health/psychologists/sumner-prosser</para>
+
+<para id="fs-idm50710320">Fanger, S. M., Frankel, L. A., &amp; Hazen, N. (2012). Peer exclusion in preschool children’s play: Naturalistic observations in a playground setting. <emphasis effect="italics">Merrill-Palmer Quarterly</emphasis>,<emphasis effect="italics"> 58, </emphasis>224–254.</para>
+
+<para id="fs-idm25381152">Fiedler, K. (2004). Illusory correlation. In R. F. Pohl (Ed.), <emphasis effect="italics">Cognitive illusions: A handbook on fallacies and biases in thinking, judgment and memory</emphasis> (pp. 97–114). Psychology Press.</para>
+
+<para id="zip-idm235618160">Strauss, V. (2019, March 19). Is it finally time to get rid of the SAT and ACT college admissions tests? <emphasis effect="italics">The Washington Post</emphasis>. https://www.washingtonpost.com/education/2019/03/19/is-it-finally-time-get-rid-sat-act-college-admissions-tests/</para>
+
+<para id="fs-idm68262544">Tuskegee University. (n.d.). <emphasis effect="italics">About the USPHS Syphilis Study</emphasis>. http://www.tuskegee.edu/about_us/centers_of_excellence/bioethics_center/about_the_usphs_syphilis_study.aspx.</para>
+
+<para id="zip-idm236245104">Women and Minorities in Psychology. (n.d.). <emphasis effect="italics">IResearch</emphasis>. http://psychology.iresearchnet.com/history-of-psychology/women-and-minorities/</para>
+  </section>
+  <section class="summary" id="sect-00014">
+    <list id="list-00004">
+      <item>Infants come into this world with an individual uniqueness known as temperament.</item>
+     <item> Temperament can be shaped and modified by parents and culture, and can predict personality traits that show up later in childhood and adolescence.</item> 
+      <item>In the first few years of life, we face psychosocial situations which help us to develop a sense of trust in others and self-confidence and autonomy in ourselves.</item> 
+     <item>WW-test notes that this section summary includes <emphasis effect="bold">bold</emphasis>, <emphasis effect="italics">italic</emphasis></item>
+    </list> 
+  </section>
+<section class="review-questions" id="sect-00015">
+<title>Assessments: Review Questions</title>
+<exercise id="exer-00001">
+  <problem id="prob-00001">
+  <para id="para-00047"><link class="os-embed" url="#exercise/OXTest-MC-01"/></para>
+  </problem>
+</exercise>
+       <exercise id="exer-00002">
+  <problem id="prob-00002">
+  <para id="para-00048"><link class="os-embed" url="#exercise/OXTest-MC-02"/></para>
+  </problem>
+</exercise>
+</section>  
+
+<section class="check-understanding" id="sect-00016">
+  <title>Assessments: Check Your Understanding</title>
+  <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00049"><link class="os-embed" url="#exercise/ARQ-C04-Q001"/></para>
+    </problem>
+  </exercise>
+         <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00050"><link class="os-embed" url="#exercise/ARQ-C04-Q002"/></para>
+    </problem>
+  </exercise>
+</section>
+
+<section class="reflection-questions" id="sect-00017">
+  <title>Assessments: Reflection Questions</title>
+  <exercise id="exer-00022">
+    <problem id="prob-00022">
+    <para id="para-00051"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ01"/></para>
+    </problem>
+  </exercise>
+         <exercise id="exer-00023">
+    <problem id="prob-00023">
+    <para id="para-00052"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ02"/></para>
+    </problem>
+  </exercise>
+</section>
+
+<section class="media-questions" id="sect-00018">
+  <title>Assessments: Media Questions</title>
+  <exercise id="exer-00041">
+    <problem id="prob-00041">
+    <para id="para-00041"><link class="os-embed" url="#exercise/contmath01"/></para>
+    </problem>
+  </exercise>
+         <exercise id="exer-00042">
+    <problem id="prob-00042">
+    <para id="para-00042"><link class="os-embed" url="#exercise/contmath02"/></para>
+    </problem>
+  </exercise>
+</section>
+
+<section class="thought-provokers" id="sect-00019">
+  <title>Assessments: Thought Provokers</title>
+  <exercise id="exer-00036">
+    <problem id="prob-00036">
+    <para id="para-00036"><link class="os-embed" url="#exercise/polisci1"/></para>
+    </problem>
+  </exercise>
+         <exercise id="exer-00037">
+    <problem id="prob-00037">
+    <para id="para-00037"><link class="os-embed" url="#exercise/polisci4"/></para>
+    </problem>
+  </exercise>
+</section>
+
+<section class="case-study" id="sect-00020">
+  <title>Assessments: Case Study</title>
+  <exercise id="exer-00039">
+    <problem id="prob-00039">
+    <para id="para-00039"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ01"/></para>
+    </problem>
+  </exercise>
+         <exercise id="exer-00040">
+    <problem id="prob-00040">
+    <para id="para-00040"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ02"/></para>
+    </problem>
+  </exercise>
+</section>
+
+</content>
+  
+  <glossary>
+    <definition id="def-00001">
+      <term>autonomy</term>
+      <meaning>the sense of independence of freedom of control over yourself and your actions</meaning>
+    </definition>
+    <definition id="def-00002">
+      <term>biological sex</term>
+      <meaning>he physical components of male and femaleness such as genetics, hormonal influences, external genitalia and other physiological features</meaning>
+    </definition>
+    <definition id="def-00003">
+      <term>body-as-obstacle test</term>
+      <meaning>a test of self-awareness in which an infant needs to move their body to accomplish a goal</meaning>
+    </definition>
+    <definition id="def-00004">
+      <term>gender identity</term>
+      <meaning>psychological concept based on external and internalized concepts of gender expectations for boys and girls</meaning>
+    </definition>
+    <definition id="def-00005">
+      <term>gender non-conforming</term>
+      <meaning>behavior that conflicts with gender expectations for an infant’s assigned sex at birth</meaning>
+    </definition>
+    <definition id="def-00006">
+      <term>gender reveal parties</term>
+      <meaning>cultural celebrations in which parents-to-be announce the expected sex of their infant</meaning>
+    </definition>
+    <definition id="def-00007">
+      <term>gender socialization</term>
+      <meaning>the process of teaching about gender explicitly and implicitly through gender stereotypes and gender norms</meaning>
+    </definition>
+    <definition id="def-00008">
+      <term>gender sterotypes</term>
+      <meaning>expectations and assumptions about how behaviors, emotions, physiology, and personality may differ between girls and boys</meaning>
+    </definition>
+  </glossary>
 </document>

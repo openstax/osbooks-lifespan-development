@@ -7,5 +7,124 @@
   </metadata>
   <content>
     <para id="para-00001">temp</para>
+
+    <section class="summary" id="sect-00001">
+      <list id="list-00001">
+        <item>Infants experience gender socialization through treatment by caregivers and expectations of their behavior</item>
+        <item>Infants learn to conform to gender stereotypes and understand how to label their gender by age 3</item>
+      </list>
+    </section>
+
+    <section class="review-questions" id="sect-00002">
+      <title>Assessments: Review Questions</title>
+      <exercise id="exer-00003">
+        <problem id="prob-00003">
+        <para id="para-00003"><link class="os-embed" url="#exercise/OXTest-OE-01"/></para>
+        </problem>
+      </exercise>
+             <exercise id="exer-00004">
+        <problem id="prob-00004">
+        <para id="para-00004"><link class="os-embed" url="#exercise/OXTest-OE-02"/></para>
+        </problem>
+      </exercise>
+      </section>
+
+      <section class="check-understanding" id="sect-00003">
+        <title>Assessments: Check Your Understanding</title>
+        <exercise id="exer-00007">
+          <problem id="prob-00007">
+          <para id="para-00007"><link class="os-embed" url="#exercise/ACQ-C04-Q001"/></para>
+          </problem>
+        </exercise>
+               <exercise id="exer-00008">
+          <problem id="prob-00008">
+          <para id="para-00008"><link class="os-embed" url="#exercise/ACQ-C04-Q002"/></para>
+          </problem>
+        </exercise>
+      </section>
+
+      <section class="reflection-questions" id="sect-00004">
+        <title>Assessments: Reflection Questions</title>
+<exercise id="exer-00024">
+       <problem id="prob-00024">
+       <para id="para-00024"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ03"/></para>
+       </problem>
+     </exercise>
+            <exercise id="exer-00025">
+       <problem id="prob-00025">
+       <para id="para-00025"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ04"/></para>
+       </problem>
+     </exercise>
+      </section>
+
+      <section class="media-questions" id="sect-00005">
+        <title>Assessments: Media Questions</title>
+        <exercise id="exer-00034">
+          <problem id="prob-00034">
+          <para id="para-00034"><link class="os-embed" url="#exercise/marketing-test-1"/></para>
+          </problem>
+        </exercise>
+               <exercise id="exer-00035">
+          <problem id="prob-00035">
+          <para id="para-00035"><link class="os-embed" url="#exercise/marketing-test-2"/></para>
+          </problem>
+        </exercise>
+      </section>
+
+      <section class="thought-provokers" id="sect-00006">
+        <title>Assessments: Thought Provokers</title>
+        <exercise id="exer-00036">
+          <problem id="prob-00036">
+          <para id="para-00036"><link class="os-embed" url="#exercise/polisci1"/></para>
+          </problem>
+        </exercise>
+               <exercise id="exer-00037">
+          <problem id="prob-00037">
+          <para id="para-00037"><link class="os-embed" url="#exercise/polisci4"/></para>
+          </problem>
+        </exercise>
+      </section>
+
+      <section class="case-study" id="sect-00007">
+        <title>Assessments: Case Study</title>
+        <exercise id="exer-00039">
+          <problem id="prob-00039">
+          <para id="para-00039"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ01"/></para>
+          </problem>
+        </exercise>
+               <exercise id="exer-00040">
+          <problem id="prob-00040">
+          <para id="para-00040"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ02"/></para>
+          </problem>
+        </exercise>
+      </section>
+
   </content>
+
+  <glossary>
+    <definition id="def-00001">
+      <term>microsystem</term>
+      <meaning>the level of ecological influence that includes direction interactions with an infant or toddler, such as their interactions with family members and caregivers.</meaning>
+    </definition>
+    <definition id="def-00002">
+      <term>nanny care</term>
+      <meaning>childcare provided by a non-family member who cares for children at the child’s home. </meaning>
+    </definition>
+    <definition id="def-00003">
+      <term>nuclear family</term>
+      <meaning>a family that includes two caregivers and their children.</meaning>
+    </definition>
+    <definition id="def-00004">
+      <term>parental responsiveness</term>
+      <meaning>a subscale of the HOME which assesses caregivers’ attention, communication, and emotional support towards their child.</meaning>
+    </definition>
+    <definition id="def-00005">
+      <term>single parent family</term>
+      <meaning>a family that includes one caregiver and their children.</meaning>
+    </definition>
+    <definition id="def-00006">
+      <term>time strain</term>
+      <meaning>the pressure to supply children with adequate attention, stimulation, and quality time.</meaning>
+    </definition>
+  </glossary>
 </document>

@@ -17,5 +17,16 @@
         <col:module document="m00005"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Infants and Toddlers (birth to age 2.5 years)</md:title>
+      <col:content>
+        <col:module document="m00006"/>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+      </col:content>
+    </col:subcollection>
+    <col:module document="m00009"/>
+    <col:module document="m00010"/>
+    <col:module document="m00011"/>
   </col:content>
 </col:collection>
