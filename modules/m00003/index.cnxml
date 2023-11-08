@@ -15,8 +15,6 @@
           <item>Distinguish between different newborn skin variations both normal and abnormal.</item>
         </list>
     </section>
-    <section id="sect-00002">
-    <title>Physical Growth (The Quick Brown Fox Jumped Over the Lazy Dog)</title>
     <para id="para-00002">The study of lifespan development encompasses people and places across the globe. This course will help you understand similarities and differences in human development. This is just placeholder text. 
     </para>
     <section id="sect-00003">
@@ -140,7 +138,7 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
       </para>
     </section>
     <section id="sect-00009">
-      <title>Sensation and Perception in Middle Adulthood </title>
+      <title>[H2]Sensation and Perception in Middle Adulthood </title>
       <para id="para-00026">
         Just as people experience changes to their brain and body, sensory abilities also begin to experience changes during middle adulthood. Structural components of the eyes change. Hearing acuity recedes from primary and secondary aging. Even other senses experience subtle changes during this time. As seen in <link target-id="Figure02_05_variables"/>, the eyes experience a loss of visual acuity in middle age referred to as <term id="term-00011">presbyopia</term>. This results from a thickening of the lens which reduces the amount of light that can reach the retina. Two common issues arise from presbyopia. As the thickening occurs it reduces the elasticity of the eye causing it to become more farsighted. A reason many adults rely on reading glass and bifocals to increase visual acuity when reading. Additionally, a yellow material builds up from the thickened lens reducing light. The limitation of light influences the comfort of night driving. Drivers experiencing presbyopia may have difficulty reading street signs at night or become more disrupted by the headlights of other cars. Night driving is additionally complicated by a significant loss of rods in middle adulthood (Grossniklaus et al., 2013). A further issue with lens thickening is that it puts more strain on the on the muscles around the eye making it more difficult to focus on objects.
       </para>
@@ -183,12 +181,8 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
           Have a bash in the jacksy a reet bobbydazzler how's your father gob, middle class how's your father get away with ya, clotted cream Dalek some mothers do 'ave 'em. A right toff ey up duck 'ar kid up at the crack of dawn through the dales her Majesty's pleasure well chuffed, that's ace a total jessie blummin' Bob's your uncle utter shambles.
         </para>
         <table id="Table01_01_01" summary="asdf" class="unnumbered unstyled">
+          <title>Table inside a Feature Box</title>
           <tgroup cols="3">
-            <thead>
-              <row>
-                <entry namest="c1" nameend="c3" align="center">Table inside a Feature Box</entry>
-              </row>
-              </thead>
             <tbody>
             <row>
               <entry>I'm a table</entry>
@@ -221,11 +215,14 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
       <para id="para-00033">
         It is common to see the careers of many professional athletes end by their early thirties yet we see notable athlete continue playing to age 40 and beyond. As discussed in this section a number of subtle changes occur physically that can make continued playing difficult. Reaction times are not quite as quick as their younger counter parts.
       </para>
-      <table id="Table01_01_02" summary="asdf" class="top-titled">
+      <table id="Table01_01_02" summary="asdf">
+        <title>Table Outside a Feature Box</title>
         <tgroup cols="3">
         <thead>
         <row>
-          <entry namest="c1" nameend="c3" align="center">Table outside a Feature Box</entry>
+          <entry>Substage</entry>
+          <entry>Characteristics</entry>
+          <entry>Estimated age</entry>
         </row>
         </thead>
         <tbody>
@@ -264,14 +261,13 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
         <para id="para-00038">Despite changes in the leading cause of deaths in the middle adulthood age demographic, cardiovascular disease (CVD) is a steady and consistent number 2. While CVD is not random it can often be unexpected. There are a number of contributing factors related to cardiovascular health.</para>
         <note class="link-to-learning" id="note-00006">
           <para id="para-00043">
-            WW-test notes that this feature tests index terms in a feature. Dynamic Systems provides bar code traceable software and helps companies track the costs associated with production. Not understanding <link url="http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU">http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU]</link> the difference between job order cost systems and process cost systems[/link] is common as customers often ask if their job order cost software is also the process cost software.
+            WW-test notes that this feature tests index terms in a feature. Dynamic Systems provides bar code traceable software and helps companies track the costs associated with production. Not understanding <link url="http://www.a-barcode.com/blog/job-costing-vs-process-costing-whats-the-difference/#.Wcq0S9VSzIU">the difference between job order cost systems and process cost systems</link> is common as customers often ask if their job order cost software is also the process cost software.
           </para>
         </note>
         <para id="para-00044">
           One contributing factor is hypertension or high blood pressure which occurs when the blood pushes against the artery walls at a high force. Another factor is CVD is Cholesterol. Cholesterol is a component of cell membranes made up of proteins and fats. High-density lipoprotein (HDL) is thought of as good cholesterol and cycles through the blood and liver. Low-density lipoprotein (LDL) is thought of as problematic because high amounts will stick to the lining of blood vessels. This causes a hardening of arteries and increases cardiovascular disease and stroke risk. Relatedly, triglycerides, a plaque buildup in the arteries, also increase these risks.
         </para>
     </section>
-  </section>
 
 
 
