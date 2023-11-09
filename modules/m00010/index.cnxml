@@ -5,9 +5,31 @@
     <md:content-id>m00010</md:content-id>
     <md:uuid>f23b7e9a-ca39-4e3c-9ea5-0b509d1966fd</md:uuid>
   </metadata>
-  <content>
-    <section class="column-container" id="sect-00001">
-      <para id="para-00001">temp</para>
+  <content class="appendix">
+
+    <section id="sect-00001">
+      <para id="para-00001">WW-test notes that this appendix content includes index terms (length, mass, time), tables, tables with captions, a figure, an image, a footnote, centered text, one very long header, and LO icons. In the American system of measurement (originally developed in England), the fundamental units of length, weight, and time are the foot, pound, and second, respectively. There are also larger and smaller units, which include the ton (2240 lb), the mile (5280 ft), the rod (16 1/2 ft), the yard (3 ft), the inch (1/12 ft), the ounce (1/16 lb), and so on. Such units, whose origins in decisions by British royalty have been forgotten by most people, are quite inconvenient for conversion or doing calculations.</para>
+      <para id="para-00002">Calculations can be centered WW-test without MathType
+        In science, therefore, it is more usual to use the metric system, which has been adopted in virtually all countries except the United States. Its great advantage is that every unit increases by a factor of ten, instead of the strange factors in the American system. The fundamental units of the metric system are:</para>
+
+      <para id="para-00003">A meter was originally intended to be 1 ten-millionth of the distance from the equator to the North Pole along the surface of Earth. It is about 1.1 yd. A kilogram is the mass that on Earth results in a weight of about 2.2 lb. The second is the same in metric and American units as shown in <link target-id="Figure00_BB_TestFigure"/>.</para>
+      <figure id="Figure00_BB_TestFigure">
+        <media alt="A map shows shipping routes for Spain and Portugal.">
+            <image mime-type="image/png" src="../../media/Figure00_BB_TestFigure.png"/>
+          </media>
+        <caption>The Iberian countries of Spain and Portugal led the way in the European Age of Exploration and the creation of maritime empires. Spanish shipping routes are shown in white and Portuguese routes in blue.</caption>
+        </figure>
+        <para id="para-00004">And here is some intervening text. Although we don't make the distinction very carefully in everyday life on Earth, strictly speaking the kilogram is a unit of mass (measuring the quantity of matter in a body, roughly how many atoms it has) while the pound is a unit of weight (measuring how strongly Earth's gravity pulls on a body).</para>
+        <figure id="Figure00_BB_TestFigure_img">
+          <media alt="Alt text placeholder.">
+              <image mime-type="image/png" src="../../media/Figure00_BB_TestFigure_img.png"/>
+            </media>
+          <caption/>
+          </figure>
+      
+
+
+
     </section>
     
   </content>

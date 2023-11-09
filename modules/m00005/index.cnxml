@@ -15,11 +15,11 @@
         </list>
     </section>
     <section id="sect-00002">
-      <para id="para-00002">As young toddlers, we begin to see ourselves as a collection of facts, aptitudes, and appearances. These can be basic facts like our name, our family members, or our age. One facet of our identity is our gender. Based on social roles and not on biology, gender allows young toddlers to distinguish between groups of people and to find a meaningful label for themselves.. Recall that you learned about this concept in the discussion on <link document="m00003">Physical Growth</link>.</para>
+      <para id="para-00002">As young toddlers, we begin to see ourselves as a collection of facts, aptitudes, and appearances. These can be basic facts like our name, our family members, or our age. One facet of our identity is our gender. Based on social roles and not on biology, gender allows young toddlers to distinguish between groups of people and to find a meaningful label for themselves.. Recall that you learned about this concept in the discussion on <link document="m00003"/>.</para>
     </section>
     <section id="sect-00003">
-      <title>Identity and Self</title>
-      <para id="para-00003">The <term id="term-00001">self</term> is difficult to assess, measure, and investigate, because defining and understanding what we mean by the self is complex. When infants are first born, they have no concept of self; they are unable to distinguish between who they are as compared to who they are not. Their entire world is interconnected, and they are still discovering where they end and their caregiver or their surrounding environment begins (you will learn more about these in [link]Social and Emotional Development in Infants and Toddlers (birth to age 2.5 years)[/link].</para>
+      <title>[H2]Identity and Self</title>
+      <para id="para-00003">The <term id="term-00001">self</term> is difficult to assess, measure, and investigate, because defining and understanding what we mean by the self is complex. When infants are first born, they have no concept of self; they are unable to distinguish between who they are as compared to who they are not. Their entire world is interconnected, and they are still discovering where they end and their caregiver or their surrounding environment begins (you will learn more about these in <link document="m00006"/>).</para>
       <para id="para-00004">A young infant who is carried, fed, and cuddled by a caregiver first discovers what they have control or <term id="term-00002">autonomy</term> over. Autonomy is the concept of independence or freedom. In the first few weeks of life, an infant may discover that they have complete autonomy over their ability to wiggle their arms and legs, but they do not have control over whether their caregiver picks them up or feeds them. This dichotomy of the <term id="term-00003">self versus other</term> is the beginning of identity development.</para>
       <para id="para-00005">This module tries centering text WW-test without using MathType
         At the age of 12 months, the infant’s self-concept typically does not include their appearance. This is because young infants lack <term id="term-00004">self-recognition</term> which is the ability to recognize and be aware of themselves in reflective surfaces or photos. The <term id="term-00005">Mirror Test</term> was first conducted by Michael Lewis and Jeanne Brooks-Gunn (1979); in this test, a mark of red is made on the infants’ nose without them being aware, and then they are placed in front of a mirror. <link target-id="Figure06_02_Recovery"/> shows this phenomenona.</para>
@@ -31,7 +31,7 @@
         </figure>
       </section>
     <section id="sect-00004">
-      <title>Gender Identity</title>
+      <title>[H2]Gender Identity</title>
       <para id="para-00006">Biological sex refers to how we describe physical, anatomical, chromosomal, or genetic variations in our species. Biological sex is often declared and assigned at birth (or before) based on the presence of external genitalia. Infants are typically classified as either male or female, but one in 5,000 births are identified as intersex, which indicates their physical characteristics are neither female nor male. Although most females have two X chromosomes (XX) and most males have one X and one Y chromosome (XY), intersex individuals may have many possible genetic combinations and prenatal hormonal expressions. Timeout is depicted in <link target-id="Figure06_03_Timeout"/>.</para>
     </section>
     <figure id="Figure06_03_Timeout">
@@ -50,8 +50,182 @@
       <para id="para-00008">But gender stereotypes go beyond toy selection. Parents of girls tend to perceive them as more delicate and use a soft touch whereas parents of boys tend to perceive them as strong and handle them with a firmer touch (Stern &amp; Hildebrant-Karraker, 1989). Parents also offer differ in the types of vocalizations, conversation style, eye contact, and play behavior that they initiate with infant girls as compared to boys. Finally, parents may enforce gender stereotypes by rewarding infants when they conform to gendered expectations.</para>
       <section id="sect-00005">
         <note class="link-to-learning" id="note-00001">
-<para id="para-00009">Do you know of a restaurant that was doing really well until it moved into a larger space? Often this happens because the owners thought their profits could handle the costs of the increased space. Unfortunately, they were not really aware of the cost of their food. It’s  critical to keep track of product costs[/link] for pricing and cost control.</para>
+<para id="para-00009">Do you know of a restaurant that was doing really well until it moved into a larger space? Often this happens because the owners thought their profits could handle the costs of the increased space. Unfortunately, they were not really aware of the cost of their food. It’s <link url="https://www.pizzatoday.com/departments/our-experts/well-maintain-food-costs/"> critical to keep track of product costs</link> for pricing and cost control.</para>
+</note>
+<note class="link-to-learning" id="note-00002">
+  <para id="para-00010">WW-TEST notes that this link to learning tests quotation marks. Unfortunately, they were not really aware of the cost of their food. It’s<link url="https://www.pizzatoday.com/departments/our-experts/well-maintain-food-costs/"> critical to “keep track of product costs”</link> for pricing and cost control.</para>
+  </note>
+  <note class="link-to-learning" id="note-00003">
+    <para id="para-00011">WW-TEST notes that this link to learning tests italics. Unfortunately, they were not really aware of the cost of their food. It’s <link url="https://www.pizzatoday.com/departments/our-experts/well-maintain-food-costs/"><emphasis effect="italics"> to keep track of product costs</emphasis></link> for pricing and cost control.</para>
+    </note>
+    <note class="link-to-learning" id="note-00004">
+      <para id="para-00012">WW-TEST notes that this link to learning tests italics. Unfortunately, they were not really aware of the cost of their food. It’s <link url="https://www.pizzatoday.com/departments/our-experts/well-maintain-food-costs/">critical to <emphasis effect="italics">keep track</emphasis> of product costs</link> for pricing and cost control.</para>
+      </note>
+  </section>
+  <section id="sect-00007">
+    <title>[H2]Temperament</title>
+    <para id="para-00013">Philosophers from Aristotle to John Locke believed in the notion of tabula rasa or we are born into this world as blank slates, waiting to be crafted and molded by experience. Behavioral psychologists have agreed with this perspective, with John B. Watson having stated, “Give me a dozen healthy infants, well-formed, and my own specified world to bring them up in and I’ll guarantee to take any one at random and train him to become any type of specialist I might select.”</para>
+    <para id="para-00014">Although experience and environment certainly shape our lives, infants come into this world as their own unique individuals. Temperament is the term used to describe the innate, biological components of individuality that are present shortly after birth. Temperamental traits are patterns of behavior that are consistent and relatively stable throughout infancy. 
+      Rudolf Krause defined it thusly:</para>
+      <quote id="quote-00001">
+        <para id="para-00015">"The skull and brain belonged to a boy who was born on the 4th of October, 1869, the last of four children. Paul was scrofulous from his youth. He did not get his teeth until the end of his second year, and they were quite brown in color and were soon lost. According to the statement of Paul's mother, he had several successive sets of teeth. It was not until the fifth year that he learned to walk. He was cleanly from the third year, but not when he felt ill. His appetite was always good up to his last sickness of four weeks. His sleep was habitually undisturbed. He was of a cheerful temperament, and inclined to play; as soon as he heard music he would dance, and sing to the music in rather unmelodious tones. When teased he could be very violent; he would throw anything he could lay his hands on at the head of the offender. He liked the company of others, especially of men. By the time he was four years old he had learned to eat without help."</para>
+        <para id="para-00016">–Rudolf Krause</para>
+      </quote>
+        <para id="para-00017">Mary Rothbart wrote of three temperamental traits that had strong biological ties: 1) surgency, 2) negative affectivity, and 3) effortful control. <term id="term-00006">Surgency</term> refers to the amount of motor activity and arousal that an infant experiences and is expressed through physical activity, sociability, and sensation seeking. In comparison, <term id="term-00007">negative affectivity</term> is associated with biological reactivity and self-regulation and is expressed through an infant’s distress, discomfort, and avoidance behavior ([link]Figure 07_06_Correlations[/link]). Finally, <term id="term-00008">effortful control</term> is linked with attention and inhibition, and the ability to persist and persevere on tasks. According to Rothbart, different combinations of these traits are possible. For instance, an infant who is high in both surgency and negative affectivity would be prone to anger, but an infant low in surgency but high in effortful control may enjoy quiet, enduring tasks such as puzzles and cognitive toys (Shiner et al., 2012).</para>
+        <figure id="Figure07_06_Correlations">
+          <media alt="A map shows the water route through North America explorers hoped to find.">
+              <image mime-type="image/png" src="../../media/Figure07_06_Correlations.png"/>
+            </media>
+          <caption>This 1687 Dutch map illustrates the widely held belief that a northwest passage to the riches of China and the East Indies existed. For centuries, European explorers like Henry Hudson hoped to be the first to chart this route.</caption>
+          </figure>
+          <note class="intersections-contexts" id="note-00005">
+            <title>Environmental Influences</title>
+            <para id="para-00022">Although temperamental traits are biologically innate in infancy, there are environmental and contextual factors that can also play a role. For instance, our temperamental expression may be increasing influenced by our environment as we age (McCall, 1987). How parents react, encourage, or respond to infants can modify their temperamental expressions. Sometimes, this can help to reinforce and encourage an infants’ innate temperamental trait, and sometimes parenting behavior can discourage expression of a trait.</para>
+            <figure id="Figure05_03_TrafficLit">
+              <media alt="Alt text placeholder.">
+                  <image mime-type="image/png" src="../../media/Figure05_03_TrafficLit.png"/>
+                </media>
+              <caption>Figure title. A sextant, one of the key developments in ship navigation.</caption>
+              </figure>
 </note>
       </section>
+
+<section class="summary" id="sect-00013">
+    <list id="list-00002">
+      <item>Infants start to develop a sense of self through understanding what they can and cannot control in their environment</item>
+      <item>Infants do not recognize their reflection in mirrors until approximately 18 months of age</item>
+      <item>Infants also develop self-awareness through understanding their body as an obstacle</item>
+    </list>
+  </section>
+      <section class="review-questions" id="sect-00008">
+        <title>Assessments: Review Questions</title>
+        <exercise id="exer-00003">
+          <problem id="prob-00003">
+          <para id="para-00018"><link class="os-embed" url="#exercise/OXTest-OE-01"/></para>
+          </problem>
+        </exercise>
+               <exercise id="exer-00004">
+          <problem id="prob-00004">
+          <para id="para-00019"><link class="os-embed" url="#exercise/OXTest-OE-02"/></para>
+          </problem>
+        </exercise>
+        </section>
+  
+        <section class="check-understanding" id="sect-00009">
+          <title>Assessments: Check Your Understanding</title>
+          <exercise id="exer-00007">
+            <problem id="prob-00007">
+            <para id="para-00020"><link class="os-embed" url="#exercise/ACQ-C04-Q001"/></para>
+            </problem>
+          </exercise>
+                 <exercise id="exer-00008">
+            <problem id="prob-00008">
+            <para id="para-00021"><link class="os-embed" url="#exercise/ACQ-C04-Q002"/></para>
+            </problem>
+          </exercise>
+        </section>
+  
+        <section class="reflection-questions" id="sect-00010">
+          <title>Assessments: Reflection Questions</title>
+  <exercise id="exer-00024">
+         <problem id="prob-00024">
+         <para id="para-00024"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ03"/></para>
+         </problem>
+       </exercise>
+              <exercise id="exer-00025">
+         <problem id="prob-00025">
+         <para id="para-00025"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ04"/></para>
+         </problem>
+       </exercise>
+        </section>
+  
+        <section class="media-questions" id="sect-00011">
+          <title>Assessments: Media Questions</title>
+          <exercise id="exer-00034">
+            <problem id="prob-00034">
+            <para id="para-00034"><link class="os-embed" url="#exercise/marketing-test-1"/></para>
+            </problem>
+          </exercise>
+                 <exercise id="exer-00035">
+            <problem id="prob-00035">
+            <para id="para-00035"><link class="os-embed" url="#exercise/marketing-test-2"/></para>
+            </problem>
+          </exercise>
+        </section>
+  
+        <section class="thought-provokers" id="sect-00006">
+          <title>Assessments: Thought Provokers</title>
+          <exercise id="exer-00036">
+            <problem id="prob-00036">
+            <para id="para-00036"><link class="os-embed" url="#exercise/polisci1"/></para>
+            </problem>
+          </exercise>
+                 <exercise id="exer-00037">
+            <problem id="prob-00037">
+            <para id="para-00037"><link class="os-embed" url="#exercise/polisci4"/></para>
+            </problem>
+          </exercise>
+        </section>
+
+        <section id="sect-00012">
+          <title>References Option B</title>
+          <para id="fs-idp21131728">Galambos, N. L., &amp; Almeida, D. M. (1992). Does parent-adolescent conflict increase in early adolescence? <emphasis effect="italics">Journal of Marriage and the Family, 54</emphasis>, 737–747.</para>
+
+<para id="zip-idm202920176">Galvan, A., Hare, T., Voss, H., Glover, G., &amp; Casey, B. J. (2007). Risk-taking and the adolescent brain: Who is at risk? <emphasis effect="italics">Developmental Science</emphasis>, <emphasis effect="italics">10</emphasis>, F8–F14.</para>
+
+<para id="fs-idm43052912">Ganger, J., &amp; Brent, M.R. (2004). Reexamining the vocabulary spurt. <emphasis effect="italics">Developmental Psychology, 40</emphasis>(4), 621–632.</para>
+
+<para id="zip-idm215377168">Garcia-Betances, R., Jimenez-Mixco, V., Arredondo, M., &amp; Cabrera-Umpierrez, M. (2015). Using virtual reality for cognitive training of the elderly. <emphasis effect="italics">American Journal of Alzheimer's Disease and Other Dementias</emphasis>, <emphasis effect="italics">30</emphasis>, 49–54.</para>
+
+<para id="fs-idm97186544">Ge, X., Conger, R. D., &amp; Elder, G. H. (2001). Pubertal transition, stressful life events, and the emergence of gender differences in adolescent depressive symptoms. <emphasis effect="italics">Developmental Psychology, 37</emphasis>, 404–417.</para>
+
+<para id="fs-idm61566992">Gervai, J. (2009). Environmental and genetic influences on early attachment. <emphasis effect="italics">Child and Adolescent Psychiatry and Mental Health, 3</emphasis>, 25.</para>
+
+<para id="fs-idp120701136">Gesell, A. (1933). Maturation and the patterning of behavior. In C. Murchison (Ed.), <emphasis effect="italics">A handbook of child psychology</emphasis> (2nd ed., pp. 209–235). Clark University Press.</para>
+
+<para id="fs-idm93935616">Gesell, A. (1939). <emphasis effect="italics">Biographies of child development</emphasis>. Paul B. Hoeber.</para>
+
+<para id="fs-idm44609200">Jos, P. H., Marshall, M. F., &amp; Perlmutter, M. (1995). The Charleston policy on cocaine use during pregnancy: A cautionary tale. <emphasis effect="italics">The Journal of Law, Medicine &amp; Ethics, 23</emphasis>(2), 120–128.</para>
+
+<para id="fs-idp6560432">Kaltiala-Heino, R. A., Rimpela, M., Rissanen, A., &amp; Rantanen, P. (2001). Early puberty and early sexual activity are associated with bulimic-type eating pathology in middle adolescence. <emphasis effect="italics">Journal of Adolescent Health, 28</emphasis>, 346–352.</para>
+
+<para id="fs-idm68441520">Kaplan, H., &amp; Dove, H. (1987). Infant development among the Aché of Eastern Paraguay. <emphasis effect="italics">Developmental Psychology, 23</emphasis>, 190–198.</para>
+
+<para id="fs-idp109511680">Karasik, L. B., Adolph, K. E., Tamis-LeMonda, C. S., &amp; Bornstein, M. H. (2010). WEIRD Walking: Cross-cultural research on motor development. <emphasis effect="italics">Behavioral &amp; Brain Sciences, 33</emphasis>(2-3), 95–96.</para>
+
+<para id="fs-idm55436752">Karnik, S., &amp; Kanekar, A. (2012). Childhood obesity: A global public health crisis. <emphasis effect="italics">International Journal of Preventive Medicine, 3</emphasis>(1), 1–7.</para>
+
+<para id="fs-idm113331360">Kübler-Ross, E. (1969). <emphasis effect="italics">On death and dying</emphasis>. Macmillan.</para>
+
+<para id="fs-idm11897056">Labouvie-Vief, G., &amp; Diehl, M. (1999). Self and personality development. In J. C. Cavanaugh &amp; S. K. Whitbourne (Eds.), <emphasis effect="italics">Gerontology: An interdisciplinary perspective</emphasis> (pp. 238–268). Oxford University Press.</para>
+
+<para id="fs-idm70308544">Lobo, I. (2008) Environmental influences on gene expression. <emphasis effect="italics">Nature Education 1</emphasis>(1), 39.</para>
+
+<para id="fs-idm1692704">Markus, H. R., Ryff, C. D., Curan, K., &amp; Palmersheim, K. A. (2004). In their own words: Well-being at midlife among high school-educated and college-educated adults. In O. G. Brim, C. D. Ryff, &amp; R. C. Kessler (Eds.), <emphasis effect="italics">How healthy are we? A national study of well-being at midlife</emphasis> (pp. 273–319). University of Chicago Press.</para>
+
+<para id="fs-idm17648080">Miklikowska, M., Duriez, B., &amp; Soenens, B. (2011). Family roots of empathy-related characteristics: The role of perceived maternal and paternal need support in adolescence. <emphasis effect="italics">Developmental Psychology, 47</emphasis>(5), 1342–1352.</para>
+        </section>
   </content>
+<glossary>
+    <definition id="def-00001">
+      <term>family care</term>
+      <meaning>childcare provided by family members in the child’s home or in the relative’s home.</meaning>
+    </definition>
+    <definition id="def-00002">
+      <term>financial strain</term>
+      <meaning>the economic pressure to supply children with necessary clothes, nutrition, shelter, entertainment, and education.</meaning>
+    </definition>
+    <definition id="def-00003">
+      <term>home care</term>
+      <meaning>childcare provided in another home by another family. This may be formalized and include registration with the government or be informal.</meaning>
+    </definition>
+    <definition id="def-00004">
+      <term>home cleanliness</term>
+      <meaning>a subscale of the HOME which assesses whether the child’s play area is spacious, well-lit, and free from hazards.</meaning>
+    </definition>
+    <definition id="def-00005">
+      <term>intergenerational family</term>
+      <meaning>a family that includes aunts, uncles, cousins, or grandparents.</meaning>
+    </definition>
+  </glossary>
 </document>

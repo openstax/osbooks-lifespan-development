@@ -180,19 +180,26 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
         <para id="para-00031">
           Have a bash in the jacksy a reet bobbydazzler how's your father gob, middle class how's your father get away with ya, clotted cream Dalek some mothers do 'ave 'em. A right toff ey up duck 'ar kid up at the crack of dawn through the dales her Majesty's pleasure well chuffed, that's ace a total jessie blummin' Bob's your uncle utter shambles.
         </para>
-        <table id="Table01_01_01" summary="asdf" class="unnumbered unstyled">
+        <table id="Table01_01_01" summary="asdf">
           <title>Table inside a Feature Box</title>
           <tgroup cols="3">
+            <thead>
+              <row>
+                <entry>Substage</entry>
+                <entry>Characteristics</entry>
+                <entry>Estimated age</entry>
+              </row>
+            </thead>
             <tbody>
             <row>
               <entry>I'm a table</entry>
-              <entry>With 3 rows and 3 columns</entry>
-              <entry>But you can't see the lines!</entry>
+              <entry>With 3 rows</entry>
+              <entry>and 3 columns!</entry>
             </row>
             <row>
-              <entry>'Cuz I'm an unnumbered</entry>
-              <entry>Unstyled</entry>
-              <entry>Super awesome table like wow how did this table get so awesome?</entry>
+              <entry>'Cuz I'm a super</entry>
+              <entry>Awesome</entry>
+              <entry>table like wow how did this table get so awesome?</entry>
             </row>
             <row>
               <entry>boop boop boop boop boop boop boop boop boop boop</entry>
@@ -227,18 +234,18 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
         </thead>
         <tbody>
           <row>
-            <entry>Table with a fake title</entry>
-            <entry>Just a fake title</entry>
+            <entry>1</entry>
+            <entry>Simple reflexes: reflexes begin to be adapted</entry>
             <entry>I'm so fake</entry>
           </row>
           <row>
-            <entry>Lorem ipsum</entry>
-            <entry>Sit Dolor</entry>
+            <entry>2</entry>
+            <entry>Primary circular reactions: infant repeating actions with own body</entry>
             <entry>I Love Cheese.</entry>
           </row>
           <row>
-            <entry>Boop</entry>
-            <entry>Boop | pooB</entry>
+            <entry>3</entry>
+            <entry>Secondary circular reactions: attention shifts to environment, explores environment more</entry>
             <entry>Poob</entry>
           </row>
         </tbody>
@@ -254,7 +261,7 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
         </para> 
           <figure id="Figure03_04_CorpusCall">
             <media alt="Part a and part b both show paintings depicting mixed race families.">
-              <image mime-type="image/png" src="../../media/Figure04_03_SleepCycle.png"/>
+              <image mime-type="image/png" src="../../media/Figure03_04_CorpusCall.png"/>
             </media>
               <caption><emphasis effect="italics">Castas</emphasis> paintings from the mid-1700s document the cultural blending seen in Spanish colonies. Do these images support the assertion that there was a degree of social mobility in the Spanish colonies? Why or why not? </caption>
           </figure>

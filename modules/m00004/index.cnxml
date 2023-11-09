@@ -192,7 +192,7 @@
         <title>[H2]Let’s Make the Same Lists but This Time Let’s Put Them inside of Tables</title>
         <para id="para-00030">Here is a bulleted list in a table:</para>
 
-        <table id="Table01_01_02" summary="asdf" class="unnumbered unstyled">
+        <table id="Table01_01_02" summary="asdf">
           <title>This is a Bulleted List Inside of a Table</title>
           <tgroup cols="2">
             <thead>
@@ -212,7 +212,7 @@
             </row>
             <row>
               <entry><list id="list-00014"><item>Here is the third bulleted item in the list.</item></list></entry>
-              <entry><list id="list-00015"><item>ere is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
+              <entry><list id="list-00015"><item>Here is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
             </row>
           </tbody>
           </tgroup>
@@ -220,7 +220,7 @@
           </table>
           <para id="para-00031">Now the list is complete and we can move onto talking more about lifespan development and how useful and important this topic is for college students.</para>
           <para id="para-00032">Here is a numeric list in a table:</para>
-          <table id="Table01_01_03" summary="asdf" class="unnumbered unstyled">
+          <table id="Table01_01_03" summary="asdf">
             <title>This is a Numeric List Inside of a Table</title>
             <tgroup cols="2">
               <thead>
