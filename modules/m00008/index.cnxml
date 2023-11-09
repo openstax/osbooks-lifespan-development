@@ -9,7 +9,7 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00001">By the end of this section, you will be able to</para>
-        <list id="list-00001">
+        <list id="list-00001" list-type="bulleted">
           <item>Describe the characteristics of cognition in infancy</item>
           <item>Identify changes in mental abilities across infancy</item>
           <item>Compare and contrast the concepts of intelligence, wisdom, and creativity</item>
@@ -35,20 +35,20 @@
           </thead>
         <tbody>
           <row>
-            <entry><list id="list-00002"><item>Accepting a special production order</item></list></entry>
-            <entry><list id="list-00003"><item>Buying new equipment versus remodelings old equipment</item></list></entry>
+            <entry><list id="list-00002" list-type="bulleted"><item>Accepting a special production order</item></list></entry>
+            <entry><list id="list-00003" list-type="bulleted"><item>Buying new equipment versus remodelings old equipment</item></list></entry>
           </row>
           <row>
-            <entry><list id="list-00004"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
-            <entry><list id="list-00005"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
+            <entry><list id="list-00004" list-type="bulleted"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
+            <entry><list id="list-00005" list-type="bulleted"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
           </row>
           <row>
-            <entry><list id="list-00006"><item>Here is the third bulleted item in the list.</item></list></entry>
-            <entry><list id="list-00007"><item>ere is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
+            <entry><list id="list-00006" list-type="bulleted"><item>Here is the third bulleted item in the list.</item></list></entry>
+            <entry><list id="list-00007"><item>Here is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
           </row>
           <row>
-            <entry><list id="list-00008"><item>Further processing or refining a current product</item></list></entry>
-            <entry><list id="list-00009"><item>Diversify by buying another business</item></list></entry>
+            <entry><list id="list-00008" list-type="bulleted"><item>Further processing or refining a current product</item></list></entry>
+            <entry><list id="list-00009" list-type="bulleted"><item>Diversify by buying another business</item></list></entry>
           </row>
       </tbody>
       </tgroup>
@@ -141,7 +141,7 @@
    
 
     <section class="summary" id="sect-00014">
-      <list id="list-00011">
+      <list id="list-00011" list-type="bulleted">
         <item>Families come in many possible compositions and constellations, but what impacts infant outcomes the most is the number of caregivers, as this impacts financial and time strain</item>
         <item>Families are embedded within layers of cultural and community influence which can impact infant development</item>
         <item>Childcare options are varied, but high quality childcare does not negatively impact the emotional and social well-being of toddlers and children</item>

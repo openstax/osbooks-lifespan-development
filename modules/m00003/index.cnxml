@@ -53,7 +53,7 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
       </para>
       <para id="para-00008">
         Unfortunately, the perception of negative stereotypes around aging also increases as adults move from middle or older age statuses. They generally used the methods in this bulleted list.
-        <list id="list-00002">
+        <list id="list-00002" list-type="bulleted">
           <item>Here is the first bulleted item.</item> 
           <item>Here is the second bulleted item. It i much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
           <item>Here is the third bulleted item in the list.</item>
@@ -317,7 +317,7 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
 <para id="zip-idm236245104">Women and Minorities in Psychology. (n.d.). <emphasis effect="italics">IResearch</emphasis>. http://psychology.iresearchnet.com/history-of-psychology/women-and-minorities/</para>
   </section>
   <section class="summary" id="sect-00014">
-    <list id="list-00004">
+    <list id="list-00004" list-type="bulleted">
       <item>Infants come into this world with an individual uniqueness known as temperament.</item>
      <item> Temperament can be shaped and modified by parents and culture, and can predict personality traits that show up later in childhood and adolescence.</item> 
       <item>In the first few years of life, we face psychosocial situations which help us to develop a sense of trust in others and self-confidence and autonomy in ourselves.</item> 

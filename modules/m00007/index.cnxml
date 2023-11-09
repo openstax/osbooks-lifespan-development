@@ -9,7 +9,7 @@
     <section class="learning-objectives" id="sect-00001">
       <title>Learning Objectives</title>
       <para id="para-00002">By the end of this section, you will be able to</para>
-        <list id="list-00001">
+        <list id="list-00001" list-type="bulleted">
           <item>Explain the psychological factors at work in trauma</item>
           <item>Explain the psychological factors at work in resiliency</item>
           <item>Identify the major health concerns of infancy</item>
@@ -108,7 +108,7 @@
       </para>
       <para id="para-00023">
         When <term class="no-emphasis" id="term-00009">Ainsworth</term> first conducted the Strange Situation in North America, she found that nearly 65% of infants responded in a similar way. These infants engaged in social referencing behaviors and glanced back at caregivers during the first few steps of the paradigm. Then, they would become upset and cry during the separations, but would become calm, happy, and excited to see their primary caregiver again during each reunion. Ainsworth believed that these infants felt safe and secure as long as their caregiver was present, and she named this pattern of behaviors secure attachment. This is a bulleted list
-        <list id="list-00002">
+        <list id="list-00002" list-type="bulleted">
           <item>This is the first bullet</item>
           <item>This is the second bullet</item>
         </list>
@@ -138,7 +138,7 @@
     </section>
 
     <section class="summary" id="sect-00011">
-      <list id="list-00004">
+      <list id="list-00004" list-type="bulleted">
         <item>Involuntary imitation and later voluntary imitation foster an emotional bond between infants and their caregivers</item>
         <item>Infants learn how to process emotions through watching their caregiver and social referencing</item>
         <item>The emotional attachment between an infant and primary caregiver has been theorized to have biological, evolutionary, and cognitive components</item>

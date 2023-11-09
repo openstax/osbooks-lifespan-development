@@ -9,9 +9,13 @@
 
     <section id="sect-00001">
       <para id="para-00001">WW-test notes that this appendix content includes index terms (length, mass, time), tables, tables with captions, a figure, an image, a footnote, centered text, one very long header, and LO icons. In the American system of measurement (originally developed in England), the fundamental units of length, weight, and time are the foot, pound, and second, respectively. There are also larger and smaller units, which include the ton (2240 lb), the mile (5280 ft), the rod (16 1/2 ft), the yard (3 ft), the inch (1/12 ft), the ounce (1/16 lb), and so on. Such units, whose origins in decisions by British royalty have been forgotten by most people, are quite inconvenient for conversion or doing calculations.</para>
-      <para id="para-00002">Calculations can be centered WW-test without MathType
-        In science, therefore, it is more usual to use the metric system, which has been adopted in virtually all countries except the United States. Its great advantage is that every unit increases by a factor of ten, instead of the strange factors in the American system. The fundamental units of the metric system are:</para>
-
+      <para class="centered-text" id="para-00002">Calculations can be centered WW-test without MathType</para>
+        <para id="para-00013">In science, therefore, it is more usual to use the metric system, which has been adopted in virtually all countries except the United States. Its great advantage is that every unit increases by a factor of ten, instead of the strange factors in the American system. The fundamental units of the metric system are:</para>
+        <list id="list-00001">
+          <item><term class="no-emphasis" id="term-00001">length</term>: 1 meter (m)</item>
+          <item><term class="no-emphasis" id="term-00002">mass</term>: 1 kilogram (kg)</item>
+          <item><term class="no-emphasis" id="term-00003">time</term>: 1 second (s)</item>
+        </list>
       <para id="para-00003">A meter was originally intended to be 1 ten-millionth of the distance from the equator to the North Pole along the surface of Earth. It is about 1.1 yd. A kilogram is the mass that on Earth results in a weight of about 2.2 lb. The second is the same in metric and American units as shown in <link target-id="Figure00_BB_TestFigure"/>.</para>
       <figure id="Figure00_BB_TestFigure">
         <media alt="A map shows shipping routes for Spain and Portugal.">
@@ -26,11 +30,139 @@
             </media>
           <caption/>
           </figure>
-      
-
-
-
     </section>
-    
+        <section id="sect-00002">
+          <title>[H2]Length</title>
+          <para id="para-00005">The most commonly used quantities of length of the metric system are the following.</para>
+          <table id="Table01_01_01" summary="asdf">
+            <title>Financial Accounting versus Managerial Accounting set in Default Table Style</title>
+            <tgroup cols="3">
+              <thead>
+                <row>
+                  <entry>Substage</entry>
+                  <entry>Characteristics</entry>
+                  <entry>Estimated age</entry>
+                </row>
+              </thead>
+              <tbody>
+              <row>
+                <entry>Users of reports</entry>
+                <entry>External users: stockholders, creditors, regulators.</entry>
+                <entry>Internal users: managers, officers, and other employees.</entry>
+              </row>
+              <row>
+                <entry>Internal reports: Job Cost Sheet, Cost of Goods Manufactured, Production Cost Report, etc.</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>table like wow how did this table get so awesome?</entry>
+              </row>
+              <row>
+                <entry>Frequency of reports</entry>
+                <entry>Quarterly; annually</entry>
+                <entry>As frequently as needed</entry>
+              </row>
+              <row>
+                <entry>Purpose of reports</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>Assists the internal users in the planning and control decision making process.</entry>
+              </row>
+              <row>
+                <entry>Focus of reports</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>Assists the internal users in the planning and control decision making process.</entry>
+              </row>
+              <row>
+                <entry>Internal reports: Job Cost Sheet, Cost of Goods Manufactured, Production Cost Report, etc.</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>table like wow how did this table get so awesome?</entry>
+              </row>
+              <row>
+                <entry>Verification of reports</entry>
+                <entry>Monetary</entry>
+                <entry>No independent audits</entry>
+              </row>
+            </tbody>
+            </tgroup>
+            <caption>This table is set as the “Default Style” table from the basic table types.</caption>
+            </table>
+            <para id="para-00006">To convert from the American system, here are a few helpful factors:</para>
+            <list id="list-00002">
+              <item>1 mile = 1.61 km </item>
+              <item>1 inch = 2.54 cm</item>
+            </list>
+        </section>
+        <section id="sect-00003">
+          <title>[H2]Mass</title>
+          <para id="para-00007">Although we don't make the distinction very carefully in everyday life on Earth, strictly speaking the kilogram is a unit of mass (measuring the quantity of matter in a body, roughly how many atoms it has) while the pound is a unit of weight (measuring how strongly Earth's gravity pulls on a body).</para>
+          <para id="para-00008">The most commonly used quantities of mass of the metric system are the following.
+          </para>
+          <table id="Table01_01_02" class="vertically-tight">
+            <title>Financial Accounting versus Managerial Accounting set in Text-Heavy Table Style</title>
+            <tgroup cols="3">
+              <thead>
+                <row>
+                  <entry>Substage</entry>
+                  <entry>Characteristics</entry>
+                  <entry>Estimated age</entry>
+                </row>
+              </thead>
+              <tbody>
+              <row>
+                <entry>Users of reports</entry>
+                <entry>External users: stockholders, creditors, regulators.</entry>
+                <entry>Internal users: managers, officers, and other employees.</entry>
+              </row>
+              <row>
+                <entry>Financial statements: Balance sheet, Income statement, Cash-Flow statement, etc.</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>table like wow how did this table get so awesome?</entry>
+              </row>
+              <row>
+                <entry>boop boop boop boop boop boop boop boop boop boop</entry>
+                <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+                <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+              </row>
+              <row>
+                <entry>Purpose of reports</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>Assists the internal users in the planning and control decision making process.</entry>
+              </row>
+              <row>
+                <entry>I'm a table</entry>
+                <entry>Pertains to company as a whole. Uses GAAP structure. Composed from a multitude or combination of other more individual data.</entry>
+                <entry>Pertains to departments, sections of the business. Very detailed reporting. No GAAP constraints.</entry>
+              </row>
+              <row>
+                <entry>Internal reports: Job Cost Sheet, Cost of Goods Manufactured, Production Cost Report, etc.</entry>
+                <entry>Helps those external users make decisions: credit terms, investment and other decisions.</entry>
+                <entry>table like wow how did this table get so awesome?</entry>
+              </row>
+              <row>
+                <entry>boop boop boop boop boop boop boop boop boop boop</entry>
+                <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+                <entry>boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop boop </entry>
+              </row>
+            </tbody>
+            </tgroup>
+            <caption>This table is set as the “Text-Heavy Style” table from the basic table types.</caption>
+            </table>
+            <para id="para-00009">A weight of 1 lb is equivalent on Earth to a mass of 0.4536 kg, while a weight of 1 oz is produced by a mass of 28.35 g.</para>
+          </section>
+          <section id="sect-00004">
+            <title>WW-test Notes That from Time to Time, Depending on the Title and the Specific Content, Headers Can Be Concise, or They Can Occasionally Be Very Wordy and Long</title>
+            <para id="para-00010">The most commonly used quantities of length of the metric system are the following.</para>
+          </section>
+          <section id="sect-00005">
+            <title>[H2]Temperature</title>
+              <para id="para-00011">Three temperature scales are in general use:</para>
+              <list id="list-00003">
+                <item>Fahrenheit (F); water freezes at 32 °F and boils at 212 °F.</item>
+                <item>Celsius or <footnote id="foot-00001">Celsius is now the name used for centigrade temperature; it has a more modern standardization but differs from the old centigrade scale by less than 0.1°. WW-test notes that this is a footnote.</footnote> (C); water freezes at 0 °C and boils at 100 °C.</item>
+                <item>Kelvin or absolute (K); water freezes at 273 K and boils at 373 K.</item>
+              </list>
+              <para id="para-00012">All molecular motion ceases at about –459 °F = –273 °C = 0 K, a temperature called <emphasis effect="italics">absolute zero</emphasis>. Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “Kelvins,” not Kelvin degrees.)</para> 
+              <para id="para-00014">
+              On the Fahrenheit scale, the difference between the freezing and boiling points of water is 180 degrees. Thus, to convert Celsius degrees or Kelvins to Fahrenheit degrees, it is necessary to multiply by 180/100 = 9/5. To convert from Fahrenheit degrees to Celsius degrees or Kelvins, it is necessary to multiply by 100/180 = 5/9.
+              </para>
+            </section>       
   </content>
 </document>

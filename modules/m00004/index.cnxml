@@ -9,7 +9,7 @@
     <section class="learning-objectives" id="sect-00008">
       <title>Learning Objectives</title>
       <para id="para-00002">By the end of this section, you will be able to</para>
-        <list id="list-00002">
+        <list id="list-00002" list-type="bulleted">
           <item>Describe the method and measures for how infant cognition is studied</item>
           <item>Describe the types of memory and what is known for memory development during this age range</item>
           <item>Explain the major cognitive-developmental theories relevant to early childhood</item>
@@ -145,7 +145,7 @@
       <section id="sect-00010">
         <title>[H2]Let’s Make Some Lists</title>
         <para id="para-00018">Here is a bulleted list:</para>
-        <list id="list-00003">
+        <list id="list-00003" list-type="bulleted">
           <item>Here is the first bulleted item.</item>
           <item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
           <item>Here is the third bulleted item in the list.</item>
@@ -203,16 +203,16 @@
               </thead>
             <tbody>
             <row>
-              <entry><list id="list-00010"><item>Here is the first bulleted item.</item></list></entry>
-              <entry><list id="list-00011"><item>Here is the first bulleted item.</item></list></entry>
+              <entry><list id="list-00010" list-type="bulleted"><item>Here is the first bulleted item.</item></list></entry>
+              <entry><list id="list-00011" list-type="bulleted"><item>Here is the first bulleted item.</item></list></entry>
             </row>
             <row>
-              <entry><list id="list-00012"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
-              <entry><list id="list-00013"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
+              <entry><list id="list-00012" list-type="bulleted"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
+              <entry><list id="list-00013" list-type="bulleted"><item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item></list></entry>
             </row>
             <row>
-              <entry><list id="list-00014"><item>Here is the third bulleted item in the list.</item></list></entry>
-              <entry><list id="list-00015"><item>Here is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
+              <entry><list id="list-00014" list-type="bulleted"><item>Here is the third bulleted item in the list.</item></list></entry>
+              <entry><list id="list-00015" list-type="bulleted"><item>Here is the third bulleted item in the list.<footnote id="foot-00001">This is a footnote. It should appear on the page. It derives from inside a table.</footnote></item></list></entry>
             </row>
           </tbody>
           </tgroup>
@@ -422,7 +422,7 @@
 
 
     <section class="summary" id="sect-00001">
-      <list id="list-00001">
+      <list id="list-00001" list-type="bulleted">
         <item>Infants experience gender socialization through treatment by caregivers and expectations of their behavior</item>
         <item>Infants learn to conform to gender stereotypes and understand how to label their gender by age 3</item>
       </list>
