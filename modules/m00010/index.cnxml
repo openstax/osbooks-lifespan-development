@@ -1,4 +1,4 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document class="appendix" xmlns="http://cnx.rice.edu/cnxml">
   <title>Appendix B: Basic Functions We Expect Could Appear in Any Appendix</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Basic Functions We Expect Could Appear in Any Appendix</md:title>
@@ -6,6 +6,9 @@
     <md:uuid>f23b7e9a-ca39-4e3c-9ea5-0b509d1966fd</md:uuid>
   </metadata>
   <content>
-    <para id="para-00001">temp</para>
+    <section class="column-container" id="sect-00001">
+      <para id="para-00001">temp</para>
+    </section>
+    
   </content>
 </document>

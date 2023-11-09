@@ -1,14 +1,106 @@
-<document xmlns="http://cnx.rice.edu/cnxml">
+<document class="appendix" xmlns="http://cnx.rice.edu/cnxml">
   <title>Appendix A: Glossary</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Glossary</md:title>
     <md:content-id>m00009</md:content-id>
     <md:uuid>4909d311-48f0-40f3-ae58-cbda35b24997</md:uuid>
   </metadata>
-  <content>
+  <content class="appendix">
     
-    <para id="para-00001">temp</para>
-   
-  
-  </content>
+    <section class="column-container" id="sect-00001">
+        <title>A</title>
+        <list id="list-00001">
+          <item><emphasis>avoidable cost</emphasis> cost that goes away when certain alternatives are chosen</item>
+         </list>
+       </section>
+       <section id="sect-00002">
+       <title>C</title>
+       <list id="list-00002">
+         <item><emphasis>conversion costs</emphasis> total of labor and overhead for a product are the costs that “convert” the direct material into the finished product</item>
+        </list>
+      </section>
+      <section id="sect-00003">
+        <title>D</title>
+        <list id="list-00003">
+          <item><emphasis>direct labor</emphasis> labor directly related to the manufacturing of the product.</item>
+          <item><emphasis>direct materials</emphasis> materials directly related to the manufacturing of the product.</item>
+         </list>
+       </section>
+       <section id="sect-00004">
+        <title>E</title>
+        <list id="list-00004">
+          <item><emphasis>expense recognition principle</emphasis> expense recognition principle is the accounting principle prescribing the recognition of expenses in the same period as the related revenues</item>
+         </list>
+       </section>
+       <section id="sect-00005">
+        <title>I</title>
+        <list id="list-00005">
+          <item><emphasis>incremental (differential) analysis</emphasis> type of analysis where only the differences between variables are considered as important to the analysis</item>
+          <item><emphasis>incremental (differential) costs</emphasis> difference between costs for alternatives</item>
+          <item><emphasis>incremental (differential) revenue</emphasis> difference between revenues for alternatives</item>
+          <item><emphasis>indirect labor</emphasis> labor that supports the manufacturing process although not directly.</item>
+          <item><emphasis>indirect materials</emphasis> materials that support the manufacturing process although not directly</item>
+          <item><emphasis>irrelevant costs</emphasis> cost that has no effect on the decision being made</item>
+          <item><emphasis>italics</emphasis> definition goes here with WW-test <emphasis effect="italics">"here"</emphasis> set in italics</item>
+         </list>
+      </section>
+      <section id="sect-00006">
+        <title>J</title>
+        <list id="list-00006">
+          <item><emphasis>job order costing</emphasis> information system that traces the individual costs directly to the final product and not to production departments</item>
+         </list>
+       </section>
+       <section id="sect-00007">
+        <title>M</title>
+        <list id="list-00007">
+          <item><emphasis>manufacturing costs</emphasis> total of all costs expended in the manufacturing process and generally consists of direct material, direct labor, and manufacturing overhead</item>
+          <item><emphasis>manufacturing organizations</emphasis> this is the definition and we are going to make this one longer so we can see how it displays when it goes beyond a single line</item>
+          <item><emphasis>manufacturing overhead</emphasis> costs that are indirectly related to the manufacturing process and include indirect materials, indirect labor, utilities, or depreciation</item>
+          <item><emphasis>merchandising organizations</emphasis> this is the definition</item>
+         </list>
+    </section>
+    <section id="sect-00008">
+      <title>O</title>
+      <list id="list-00008">
+        <item><emphasis>opportunity costs</emphasis> foregone costs resulting from choosing one alternative over another</item>
+      </list>
+     </section>
+     <section id="sect-00009">
+      <title>P</title>
+      <list id="list-00009">
+        <item><emphasis effect="italics"><emphasis effect="bold">Pax Mongolica</emphasis></emphasis> definition goes here WW-test italics in term</item>
+        <item><emphasis>period costs</emphasis> cost associated with time instead of a specific product or transaction</item>
+        <item><emphasis>prime costs</emphasis> direct material and direct labor together are the prime or main costs used in the development of a product</item>
+        <item><emphasis>process costing</emphasis> information system that traces costs to specific departments instead of specific products</item>
+        <item><emphasis>product costs</emphasis> costs used to produce a product and generally include direct material, direct labor, and manufacturing overhead</item>
+      </list>
+    </section>
+    <section id="sect-00010">
+      <title>Q</title>
+      <list id="list-00010">
+        <item><emphasis>qualitative factor</emphasis> component of a decision-making process that cannot be measured numerically</item>
+        <item><emphasis>quantitative factor</emphasis>c omponent of a decision-making process that can be measured numerically</item>
+      </list>
+    </section>
+    <section id="sect-00011">
+      <title>R</title>
+      <list id="list-00011">
+        <item><emphasis>relevant cost</emphasis> cost that influences the decision being made</item>
+        <item><emphasis>relevant revenue</emphasis> revenue that influences the decision being made</item>
+      </list>
+    </section>
+    <section id="sect-00012">
+      <title>S</title>
+      <list id="list-00012">
+        <item><emphasis>service organizations</emphasis> this is the definition</item>
+        <item><emphasis>sunk costs</emphasis> costs that result from prior decisions and therefore have no impact on current decisions</item>
+      </list>
+    </section>
+    <section id="sect-00013">
+    <title>U</title>
+    <list id="list-00013">
+      <item><emphasis>unavoidable cost</emphasis> cost that does not go away regardless of which alternative is chosen</item>
+    </list>
+  </section>
+    </content>
 </document>
