@@ -6,8 +6,9 @@
     <md:uuid>4909d311-48f0-40f3-ae58-cbda35b24997</md:uuid>
   </metadata>
   <content class="appendix">
-    
+
     <section class="column-container" id="sect-00001">
+      <section id="sect-00014">
         <title>A</title>
         <list id="list-00001">
           <item><emphasis>avoidable cost</emphasis> cost that goes away when certain alternatives are chosen</item>
@@ -102,5 +103,6 @@
       <item><emphasis>unavoidable cost</emphasis> cost that does not go away regardless of which alternative is chosen</item>
     </list>
   </section>
+</section>
     </content>
 </document>
