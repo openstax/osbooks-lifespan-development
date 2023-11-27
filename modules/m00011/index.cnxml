@@ -6,6 +6,7 @@
     <md:uuid>13c36ba4-71ad-4b6b-9866-67db16f8e09a</md:uuid>
   </metadata>
   <content class="appendix">
+    <section class="indent-container" id="sect-00001">
     <para id="zip-idm186658720">Anderson, P. J., &amp; Leuzzi, V. (2010). White matter pathology in phenylketonuria. <emphasis effect="italics">Molecular Genetics and Metabolism</emphasis>, <emphasis effect="italics">99</emphasis>, S3–S9.</para>
 
 <para id="fs-id1458667">Arnst, C. (2003, November). Commentary: Getting rational about health-care rationing. <emphasis effect="italics">Bloomberg Businessweek Magazine</emphasis>. http://www.businessweek.com/stories/2003-11-16/commentary-getting-rational-about-health-care-rationing</para>
@@ -58,5 +59,6 @@
 <para id="fs-id1490794">University of Utah Genetic Science Learning Center. (n.d.). What are genetic disorders? http://learn.genetics.utah.edu/content/disorders/whataregd/</para>
 
 <para id="zip-idm220275488">Yudell, M., Roberts, D., DeSalle, R., &amp; Tishkoff, S. (2016). Taking race out of human genetics. <emphasis effect="italics">Science</emphasis>, <emphasis effect="italics">351</emphasis>(6273), 564–565.</para>
+</section>
   </content>
 </document>
