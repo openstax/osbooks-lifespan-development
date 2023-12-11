@@ -1,4 +1,4 @@
-<document class="appendix" xmlns="http://cnx.rice.edu/cnxml">
+<document class="appendix" xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
   <title>Appendix B: Basic Functions We Expect Could Appear in Any Appendix</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Basic Functions We Expect Could Appear in Any Appendix</md:title>
@@ -159,9 +159,9 @@
                 <item>Celsius or <footnote id="foot-00001">Celsius is now the name used for centigrade temperature; it has a more modern standardization but differs from the old centigrade scale by less than 0.1°. WW-test notes that this is a footnote.</footnote> (C); water freezes at 0 °C and boils at 100 °C.</item>
                 <item>Kelvin or absolute (K); water freezes at 273 K and boils at 373 K.</item>
               </list>
-              <para id="para-00012">All molecular motion ceases at about –459 °F = –273 °C = 0 K, a temperature called <emphasis effect="italics">absolute zero</emphasis>. Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “Kelvins,” not Kelvin degrees.)</para> 
+              <para id="para-00012">All molecular motion ceases at about <m:math><m:mrow><m:mo>-</m:mo><m:mn>459</m:mn><m:mtext>°F</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>273</m:mn><m:mtext>°C</m:mtext><m:mo>=</m:mo><m:mn>0</m:mn><m:mi>K</m:mi></m:mrow></m:math>, a temperature called <emphasis effect="italics">absolute zero</emphasis>. Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “Kelvins,” not Kelvin degrees.)</para> 
               <para id="para-00014">
-              On the Fahrenheit scale, the difference between the freezing and boiling points of water is 180 degrees. Thus, to convert Celsius degrees or Kelvins to Fahrenheit degrees, it is necessary to multiply by 180/100 = 9/5. To convert from Fahrenheit degrees to Celsius degrees or Kelvins, it is necessary to multiply by 100/180 = 5/9.
+              On the Fahrenheit scale, the difference between the freezing and boiling points of water is 180 degrees. Thus, to convert Celsius degrees or Kelvins to Fahrenheit degrees, it is necessary to multiply by <m:math><m:mrow><m:mn>180</m:mn><m:mo>/</m:mo><m:mn>100</m:mn><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>/</m:mo><m:mn>5</m:mn></m:mrow></m:math>. To convert from Fahrenheit degrees to Celsius degrees or Kelvins, it is necessary to multiply by <m:math><m:mrow><m:mn>100</m:mn><m:mo>/</m:mo><m:mn>180</m:mn><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>/</m:mo><m:mn>9</m:mn></m:mrow></m:math>.
               </para>
             </section>       
   </content>

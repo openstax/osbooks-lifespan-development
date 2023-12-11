@@ -163,7 +163,7 @@ Skin provides noticeable signs of aging such as wrinkles, age spots, and sagging
     </section>
     <section id="sect-00012">
       <title>[H2]This Section Will Show the Various Features in a Feature Box.</title>
-      <note class="heard" id="note-00005">
+      <note class="what-heard" id="note-00005">
         <title>Sample Feature Box Using Lorem Ipsum British-isms</title>
         <para id="para-00029">
           This is the “What Have You Heard?” FB description from the WEG: This feature will appear at the beginning of each chapter and will address truths and myths about development by posing a few intriguing questions or assumptions, with a brief explanation that will be expanded upon in the chapter narrative. The goal of this feature is to arouse students’ curiosity, encourage them to become aware of preconceived notions, and immediately engage them in the chapter topic.

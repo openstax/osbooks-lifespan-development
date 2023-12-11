@@ -26,7 +26,7 @@
         <para id="para-00009">
           Diabetes is a chronic condition where the pancreas fails to produce enough insulin to break down sugar. <term id="term-00004">Type II diabetes</term> is typically a result of aging and often associated with weight and sedentariness. It has been an increasing problem with over 30,000 middle age adults dying from complications with diabetes in 2020 (CDC, 2020) and disproportionately impacts minority groups. The chronic nature of poorly regulated diabetes causes complications such as kidney failure, retinopathy, and neuropathy, particularly in the lower extremities.
         </para>
-        <note id="note-00001">
+        <note class="it-depends" id="note-00001">
           <title>Feature Box with Art against HEX #FFF7E5 Background</title>
           <para id="para-00010">
             WW-test to assess art output against different feature box background colors. This should be the box with the yellow background. Art: please review output.
@@ -65,7 +65,7 @@
         <para id="para-00011">
           Body composition changes can often be the most apparent signs of aging. Over time, the middle age body begins to lose muscle and increase body fat.  a transition occurs with the body experiencing decreasing muscle to increasing body fat. Age related muscle loss is termed called as sarcopenia. After the age of 50, adults lose 1-2% of muscle each year (Marcell, 2003).
         </para>
-        <note id="note-00002">
+        <note class="intersections-contexts" id="note-00002">
           <title>Sample Feature Box Testing Art against HEX #F0F8F1 Background</title>
           <para id="para-00012">
             WW-test to assess art output against different feature box background colors. This should be the box with the green background. Art: please review output.
@@ -87,8 +87,8 @@
           </para>
         </note>
 
-        <note id="note-00003">
-          <title>Sample Feature Box Testing Art against HEX #FFE5E5 Background</title>
+        <note class="life-hacks" id="note-00003">
+          <title>Sample Feature Box Testing Art against HEX #F2E8F4 Background</title>
           <para id="para-00014">
             WW-test to assess art output against different feature box background colors. This should be the box with the red-pink background. Art: please review output. 
           </para>
@@ -117,7 +117,7 @@
         <note id="note-00004">
           <title>Sample Feature Box Testing Art against HEX #EFF3FA Background</title>
           <para id="para-00016">
-            WW-test to assess art output against different feature box background colors. This should be the box with the blue-gray background. Art: please review output.
+            WW-test to assess art output against different feature box background colors. This should be the box with the blue-gray background. Art: please review output. This is an outdated color that doesn't need to be tested.
           </para>
           <figure id="Figure01_02_Timeline1">
             <media alt="Alt text placeholder">
