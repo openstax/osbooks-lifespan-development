@@ -1,5 +1,5 @@
 <document class="appendix" xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
-  <title>Appendix B: Basic Functions We Expect Could Appear in Any Appendix</title>
+  <title>Basic Functions We Expect Could Appear in Any Appendix</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:title>Basic Functions We Expect Could Appear in Any Appendix</md:title>
     <md:content-id>m00010</md:content-id>
@@ -32,7 +32,7 @@
           </figure>
     </section>
         <section id="sect-00002">
-          <title>[H2]Length</title>
+          <title>Length</title>
           <para id="para-00005">The most commonly used quantities of length of the metric system are the following.</para>
           <table id="Table01_01_01" summary="asdf">
             <title>Financial Accounting versus Managerial Accounting set in Default Table Style</title>
@@ -91,7 +91,7 @@
             </list>
         </section>
         <section id="sect-00003">
-          <title>[H2]Mass</title>
+          <title>Mass</title>
           <para id="para-00007">Although we don't make the distinction very carefully in everyday life on Earth, strictly speaking the kilogram is a unit of mass (measuring the quantity of matter in a body, roughly how many atoms it has) while the pound is a unit of weight (measuring how strongly Earth's gravity pulls on a body).</para>
           <para id="para-00008">The most commonly used quantities of mass of the metric system are the following.
           </para>
@@ -152,17 +152,17 @@
             <para id="para-00010">The most commonly used quantities of length of the metric system are the following.</para>
           </section>
           <section id="sect-00005">
-            <title>[H2]Temperature</title>
+            <title>Temperature</title>
               <para id="para-00011">Three temperature scales are in general use:</para>
               <list id="list-00003">
                 <item>Fahrenheit (F); water freezes at 32 °F and boils at 212 °F.</item>
                 <item>Celsius or <footnote id="foot-00001">Celsius is now the name used for centigrade temperature; it has a more modern standardization but differs from the old centigrade scale by less than 0.1°. WW-test notes that this is a footnote.</footnote> (C); water freezes at 0 °C and boils at 100 °C.</item>
                 <item>Kelvin or absolute (K); water freezes at 273 K and boils at 373 K.</item>
               </list>
-              <para id="para-00012">All molecular motion ceases at about <m:math><m:mrow><m:mo>-</m:mo><m:mn>459</m:mn><m:mtext>°F</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>273</m:mn><m:mtext>°C</m:mtext><m:mo>=</m:mo><m:mn>0</m:mn><m:mi>K</m:mi></m:mrow></m:math>, a temperature called <emphasis effect="italics">absolute zero</emphasis>. Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “Kelvins,” not Kelvin degrees.)</para> 
+              <para id="para-00012">All molecular motion ceases at about <m:math><m:mrow><m:mo>-</m:mo><m:mn>459</m:mn><m:mtext>°F</m:mtext><m:mo>=</m:mo><m:mo>-</m:mo><m:mn>273</m:mn><m:mtext>°C</m:mtext><m:mo>=</m:mo><m:mn>0</m:mn><m:mi>K</m:mi></m:mrow></m:math>, a temperature called <emphasis effect="italics">absolute zero</emphasis>. Kelvin temperature is measured from this lowest possible temperature, and it is the temperature scale most often used in astronomy. Kelvins have the same value as centigrade or Celsius degrees, since the difference between the freezing and boiling points of water is 100 degrees in each. (Note that we just say “Kelvins,” not Kelvin degrees.)</para>
               <para id="para-00014">
               On the Fahrenheit scale, the difference between the freezing and boiling points of water is 180 degrees. Thus, to convert Celsius degrees or Kelvins to Fahrenheit degrees, it is necessary to multiply by <m:math><m:mrow><m:mn>180</m:mn><m:mo>/</m:mo><m:mn>100</m:mn><m:mo>=</m:mo><m:mn>9</m:mn><m:mo>/</m:mo><m:mn>5</m:mn></m:mrow></m:math>. To convert from Fahrenheit degrees to Celsius degrees or Kelvins, it is necessary to multiply by <m:math><m:mrow><m:mn>100</m:mn><m:mo>/</m:mo><m:mn>180</m:mn><m:mo>=</m:mo><m:mn>5</m:mn><m:mo>/</m:mo><m:mn>9</m:mn></m:mrow></m:math>.
               </para>
-            </section>       
+            </section>
   </content>
 </document>
