@@ -15,7 +15,7 @@
           <item>Explain the major cognitive-developmental theories relevant to early childhood</item>
         </list>
     </section>
-    <para id="para-00001">Despite changes in the leading cause of deaths in the middle adulthood age demographic, 
+    <para id="para-00001">Despite changes in the leading cause of deaths in the middle adulthood age demographic,
       <term class="no-emphasis" id="term-00001">cardiovascular disease</term> (CVD) is a steady and consistent number 2. While CVD is not random it can often be unexpected. There are a number of contributing factors related to cardiovascular health.</para>
       <para id="para-00005">WW-TEST notes that this module is testing some art issues (art against feature box shaded backgrounds, PNG art), tables, and lists.</para>
       <section id="sect-00009">
@@ -90,7 +90,7 @@
         <note class="life-hacks" id="note-00003">
           <title>Sample Feature Box Testing Art against HEX #F2E8F4 Background</title>
           <para id="para-00014">
-            WW-test to assess art output against different feature box background colors. This should be the box with the red-pink background. Art: please review output. 
+            WW-test to assess art output against different feature box background colors. This should be the box with the red-pink background. Art: please review output.
           </para>
           <figure id="Figure09_02_Stages3">
             <media alt="Alt text placeholder">
@@ -149,27 +149,27 @@
           <item>Here is the first bulleted item.</item>
           <item>Here is the second bulleted item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
           <item>Here is the third bulleted item in the list.</item>
-        </list> 
+        </list>
         <para id="para-00019">Now the list is complete and we can move onto talking more about history and how useful and important this topic is for college students.</para>
         <para id="para-00020">Here is a numeric list:</para>
         <list list-type="enumerated" number-style="arabic" id="list-00004">
-          <item>Here is the first numbered item.</item> 
+          <item>Here is the first numbered item.</item>
           <item>Here is the second numbered item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
           <item>Here is the third numbered item in the list.</item>
         </list>
         <para id="para-00021">Now the list is complete and we can move onto talking more about history and how useful and important this topic is for college students.</para>
         <para id="para-00022">Here is an alphabetical list:</para>
         <list list-type="enumerated" number-style="upper-alpha" id="list-00005">
-         <item>Here is the first alphabetical item.</item> 
+         <item>Here is the first alphabetical item.</item>
          <item>Here is the second alphabetical item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
          <item>Here is the third alphabetical item in the list.</item>
         </list>
         <para id="para-00023">Now the list is complete and we can move onto talking more about history and how useful and important this topic is for college students.</para>
         <para id="para-00026">Here is a numeric-alphabetical list:</para>
         <list list-type="enumerated" number-style="arabic" id="list-00006">
-          <item>Here is the first numbered item.</item> 
+          <item>Here is the first numbered item.</item>
           <item>Here is the second numbered item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.<list list-type="enumerated" number-style="upper-alpha" id="list-00007">
-            <item>Here is the first alphabetical item.</item> 
+            <item>Here is the first alphabetical item.</item>
             <item>Here is the second alphabetical item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
             <item>Here is the third alphabetical item in the list.</item>
           </list></item>
@@ -178,9 +178,9 @@
         <para id="para-00027">Now the list is complete and we can move onto talking more about history and how useful and important this topic is for college students</para>
         <para id="para-00028">Here is an alphabetical-numeric list:</para>
         <list list-type="enumerated" number-style="upper-alpha" id="list-00008">
-          <item>Here is the first alphabetical item.</item> 
+          <item>Here is the first alphabetical item.</item>
           <item>Here is the second alphabetical item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.<list list-type="enumerated" number-style="arabic" id="list-00009">
-            <item>Here is the first numbered item.</item> 
+            <item>Here is the first numbered item.</item>
             <item>Here is the second numbered item. It is much longer so we can see what happens when items in the list need to wrap onto a second or even a third or even a fourth line.</item>
             <item>Here is the third numbered item in the list.</item>
           </list></item>
@@ -302,7 +302,7 @@
           <caption>This table is set as the “Default Style” table from the basic table types.</caption>
           </table>
           <para id="para-00041">
-            Consider our first thought exercise. You believe education is important. Why? Who has said that to you in the past? How did you come to believe it? These constructs exist everywhere and they inform many decisions that we make, often on a subconscious level. 
+            Consider our first thought exercise. You believe education is important. Why? Who has said that to you in the past? How did you come to believe it? These constructs exist everywhere and they inform many decisions that we make, often on a subconscious level.
           </para>
           <table id="Table01_01_09" summary="Alt text placeholder">
             <title>Typical Number of Feedings per Day and Range of Formula Intake</title>
@@ -360,7 +360,7 @@
             <caption>This table is set as the “Default Style” table from the basic table types.</caption>
             </table>
         <para id="para-00042">
-          Evaluation is a critical part of any project. This involves having measures in place so you can evaluate what you have done. For example, if you want to develop an entrepreneurial vision in the next 3 months, then you should have some goals that relate to how much of the vision should be completed in week 1, week 2, week 3 and so on. Measuring your progress against your plan can keep you on track with the end goal in mind. 
+          Evaluation is a critical part of any project. This involves having measures in place so you can evaluate what you have done. For example, if you want to develop an entrepreneurial vision in the next 3 months, then you should have some goals that relate to how much of the vision should be completed in week 1, week 2, week 3 and so on. Measuring your progress against your plan can keep you on track with the end goal in mind.
         </para>
         <table id="Table01_08_10" summary="Alt text placeholder" class="vertically-tight">
           <title>Typical Number of Feedings per Day and Range of Formula Intake</title>
@@ -416,7 +416,7 @@
       <section id="sect-00013">
         <title>[H2]Comparing Apples and Cheeses</title>
         <para id="para-00043">
-          Let us look at one more example. This time it will be the broader topic of Colonial Latin America, between the Spanish conquest and the independence movements of the 1820s. How would each school of thought approach the topic? 
+          Let us look at one more example. This time it will be the broader topic of Colonial Latin America, between the Spanish conquest and the independence movements of the 1820s. How would each school of thought approach the topic?
         </para>
       </section>
 
@@ -456,22 +456,8 @@
         </exercise>
       </section>
 
-      <section class="reflection-questions" id="sect-00004">
-        <title>Assessments: Reflection Questions</title>
-<exercise id="exer-00024">
-       <problem id="prob-00024">
-       <para id="para-00024"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ03"/></para>
-       </problem>
-     </exercise>
-            <exercise id="exer-00025">
-       <problem id="prob-00025">
-       <para id="para-00025"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ04"/></para>
-       </problem>
-     </exercise>
-      </section>
-
-      <section class="media-questions" id="sect-00005">
-        <title>Assessments: Media Questions</title>
+      <section class="personal-application" id="sect-00005">
+        <title>Assessments: Personal Application</title>
         <exercise id="exer-00034">
           <problem id="prob-00034">
           <para id="para-00034"><link class="os-embed" url="#exercise/marketing-test-1"/></para>
@@ -484,8 +470,8 @@
         </exercise>
       </section>
 
-      <section class="thought-provokers" id="sect-00006">
-        <title>Assessments: Thought Provokers</title>
+      <section class="essay-questions" id="sect-00006">
+        <title>Assessments: Essay Questions</title>
         <exercise id="exer-00036">
           <problem id="prob-00036">
           <para id="para-00036"><link class="os-embed" url="#exercise/polisci1"/></para>
@@ -498,19 +484,6 @@
         </exercise>
       </section>
 
-      <section class="case-study" id="sect-00007">
-        <title>Assessments: Case Study</title>
-        <exercise id="exer-00039">
-          <problem id="prob-00039">
-          <para id="para-00039"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ01"/></para>
-          </problem>
-        </exercise>
-               <exercise id="exer-00040">
-          <problem id="prob-00040">
-          <para id="para-00040"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ02"/></para>
-          </problem>
-        </exercise>
-      </section>
   </content>
 
   <glossary>

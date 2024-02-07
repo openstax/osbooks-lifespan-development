@@ -175,8 +175,8 @@
         </exercise>
       </section>
 
-      <section class="reflection-questions" id="sect-00004">
-        <title>Assessments: Reflection Questions</title>
+      <section class="personal-application" id="sect-00004">
+        <title>Assessments: Personal Application</title>
 <exercise id="exer-00024">
        <problem id="prob-00024">
        <para id="para-00024"><link class="os-embed" url="#exercise/WH-Ch01-Mod01-RQ03"/></para>
@@ -189,8 +189,8 @@
      </exercise>
       </section>
 
-      <section class="media-questions" id="sect-00005">
-        <title>Assessments: Media Questions</title>
+      <section class="essay-questions" id="sect-00005">
+        <title>Assessments: Essay Questions</title>
         <exercise id="exer-00034">
           <problem id="prob-00034">
           <para id="para-00034"><link class="os-embed" url="#exercise/marketing-test-1"/></para>
@@ -199,34 +199,6 @@
                <exercise id="exer-00035">
           <problem id="prob-00035">
           <para id="para-00035"><link class="os-embed" url="#exercise/marketing-test-2"/></para>
-          </problem>
-        </exercise>
-      </section>
-
-      <section class="thought-provokers" id="sect-00006">
-        <title>Assessments: Thought Provokers</title>
-        <exercise id="exer-00036">
-          <problem id="prob-00036">
-          <para id="para-00036"><link class="os-embed" url="#exercise/polisci1"/></para>
-          </problem>
-        </exercise>
-               <exercise id="exer-00037">
-          <problem id="prob-00037">
-          <para id="para-00037"><link class="os-embed" url="#exercise/polisci4"/></para>
-          </problem>
-        </exercise>
-      </section>
-
-      <section class="case-study" id="sect-00007">
-        <title>Assessments: Case Study</title>
-        <exercise id="exer-00039">
-          <problem id="prob-00039">
-          <para id="para-00039"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ01"/></para>
-          </problem>
-        </exercise>
-               <exercise id="exer-00040">
-          <problem id="prob-00040">
-          <para id="para-00040"><link class="os-embed" url="#exercise/BCA-Ch01-Mod01-RQ02"/></para>
           </problem>
         </exercise>
       </section>
