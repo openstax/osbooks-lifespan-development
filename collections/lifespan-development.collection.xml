@@ -8,9 +8,15 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>test subcollection</md:title>
-      <col:content/>
+      <md:title>Social and Emotional Development in Early Childhood (Ages 3 to 6)</md:title>
+      <col:content>
+        <col:module document="m00001"/>
+        <col:module document="m00002"/>
+        <col:module document="m00003"/>
+        <col:module document="m00004"/>
+        <col:module document="m00005"/>
+        <col:module document="m00006"/>
+      </col:content>
     </col:subcollection>
-    <col:module document="m00001"/>
   </col:content>
 </col:collection>
