@@ -117,10 +117,10 @@
     </problem>
     </exercise>
     </section>
-    <section class="indent-container" id="sect-00009">
+    <section class="references" id="sect-00009">
       <title>References</title>
-<!--      <section id="sect-00010">
-        <title>Social and Emotional Development </title>-->
+      <section id="sect-00010">
+        <title>Social and Emotional Development</title>
           <para id="para-00023">American Psychiatric Association. (2022). <emphasis effect="italics">Diagnostic and statistical manual of mental disorders</emphasis> (5<sup>th</sup> ed., text rev.) doi.org/10.1176/appi.books.9780890425787</para>
           <para id="para-00024">Autistic Self Advocacy Network (n.d.). <emphasis effect="italics">FAQ.</emphasis> https://autisticadvocacy.org/about-asan/faq/</para>
           <para id="para-00025">Behavior Analyst Certification Board. (2020). <emphasis effect="italics">Ethics code for behavior analysts.</emphasis> https://bacb.com/wp-content/ethics-code-for-behavior-analysts/</para>
@@ -157,9 +157,9 @@
           <para id="para-00056">Skoufou, A., (2019). Social interaction of preschool children with autism spectrum disorders (ASD)—characteristics and educational approaches. <emphasis effect="italics">International Journal of Economics and Management Studies, 6</emphasis>(6), 28–36.</para>
           <para id="para-00057">Slobodskaya, H. R. (2021). Personality development from early childhood through adolescence. <emphasis effect="italics">Personality and Individual Differences, 172,</emphasis> Article 110596. doi.org/10.1016/j.paid.2020.110596</para>
           <para id="para-00058">Watts, T. W., Duncan, G. J., &amp; Quan, H. (2018). Revisiting the marshmallow test: A conceptual replication investigating links between early delay of gratification and later outcomes. <emphasis effect="italics">Psychological Science, 29</emphasis>(7), 1159–1177. doi.org/10.1177/0956797618761661</para>
-      <!--</section>
+      </section>
       <section id="sect-00011">
-        <title>Identity in Context: Gender Development and Racial Identity</title>-->
+        <title>Identity in Context: Gender Development and Racial Identity</title>
           <para id="para-00059">Anderson, L. A., O’Brien Caughy, M., &amp; Owen, M. T. (2021). “The Talk” and parenting while Black in America: Centering race, resistance, and refuge. <emphasis effect="italics">Journal of Black Psychology, 48</emphasis>(3–4), 475–506. doi.org/10.1177/00957984211034294</para>
           <para id="para-00060">Azmi, N. J., Hassan, I., Ab Rashid, R., Ahmad, Z., Aziz, N. A., &amp; Nasidi, Q. Y. (2021). Gender stereotype in toy advertisements on social networking sites. <emphasis effect="italics">Online Journal of Communication and Media Technologies, 11</emphasis>(4), Article e202122.</para>
           <para id="para-00061">Bem, S. L. (1981). Gender schema theory: A cognitive account of sex typing. <emphasis effect="italics">Psychological Review, 88</emphasis>(4), 354–364.</para>
@@ -185,9 +185,9 @@
           <para id="para-00081">Mueller, J. C. (2017). Producing colorblindness: Everyday mechanism of White ignorance. <emphasis effect="italics">Social Problems, 64</emphasis>(2), 219–233.</para>
           <para id="para-00082">Sun, Chyng-Feng, "Stories matter: Media influence on Asian American identities and interracial relationships" (2002). <emphasis effect="italics">Doctoral Dissertations Available from Proquest</emphasis>. AAI3068596. https://scholarworks.umass.edu/dissertations/AAI3068596</para>
           <para id="para-00083">Umana-Taylor, A. J., Lee, R. M., Rivas-Drake, D., Syed, M. ,Seaton, E., Quintana, S. M., Cross, W. E., Schwartz, S. J., &amp; Yip, T. (2014). Ethnic and racial identity during adolescence and into young adulthood: An integrated conceptualization: Ethnic and racial identity in child development. <emphasis effect="italics">Child Development, 85(</emphasis>1), 21–39.</para>
-    <!--  </section>
+      </section>
       <section id="sect-00012">
-        <title>Families as Context</title>-->
+        <title>Families as Context</title>
           <para id="para-00084">American Academy of Pediatrics. (2018). Effective discipline to raise healthy children. <emphasis effect="italics">Pediatrics, 142</emphasis>(6).</para>
           <para id="para-00085">Anderson, L. R., Hemez, P. F., &amp; Kreider, R. M. (2022). <emphasis effect="italics">Living arrangements of children: 2019</emphasis>. U.S. Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2022/demo/p70-174.pdf</para>
           <para id="para-00086">Baker, A. J. L., &amp; Ben-Ami, N. (2011). Adult recall of childhood psychological maltreatment in “Adult Children of Divorce”: Prevalence and associations with concurrent measures of well-being. <emphasis effect="italics">Journal of Divorce and Remarriage, 52</emphasis>(4), 203–219.</para>
@@ -235,9 +235,9 @@
           <para id="para-00128">Villarejo, S., Garcia, O. F., Alcaide, M., Villarreal, M. E., &amp; Garcia, F. (2024). Early family experiences, drug use, and psychosocial adjustment across the lifespan: Is parental strictness always a protective factor? <emphasis effect="italics">Psychosocial Interventions, 33</emphasis>(1), 15–27. doi.org/10.5093/pi2023a16</para>
           <para id="para-00129">Werchan, D. M., Ku, S., Berry, D., &amp; Blair, C. (2023). Sensitive caregiving and reward responsibility: A novel mechanism linking parenting and executive functions development in early childhood. <emphasis effect="italics">Developmental Science, 26</emphasis>(7).</para>
           <para id="para-00130">Yim, E. P. (2022). Effects of Asian cultural values on parenting style and young children’s perceived competence: A cross-cultural study. <emphasis effect="italics">Frontiers in Psychology, 13</emphasis>.</para>
-     <!--  </section>
+       </section>
        <section id="sect-00014">
-        <title>Social Contexts: Peers, Play, and Friendship</title>-->
+        <title>Social Contexts: Peers, Play, and Friendship</title>
         <para id="para-00139">Armah, A., &amp; Landers-Potts, M. (2021). A review of imaginary companions and their implications for development. <emphasis effect="italics">Imagination, Cognition and Personality</emphasis>, <emphasis effect="italics">41</emphasis>(1), 31–53. doi.org/10.1177/0276236621999324</para>
         <para id="para-00140">Chen, X. (2019). Culture and shyness in childhood and adolescence. <emphasis effect="italics">New Ideas in Psychology, 53,</emphasis> 58–66. doi.org/10.1016/j.newideapsych.2018.04.007</para>
         <para id="para-00141">Gleason, T. R. (2017). The psychological significance of play with imaginary companions in early childhood. <emphasis effect="italics">Learning &amp; Behavior. 45</emphasis>(4), 432–440. doi.org/10.3758/s13420-017-0284-z</para>
@@ -258,9 +258,9 @@
         <para id="para-00156">Volbrecht, M. M. &amp; Goldsmith, H. H. (2010). Early temperamental and family predictors of shyness and anxiety. <emphasis effect="italics">Developmental Psychology, 46</emphasis>(5), 1192–1205. doi.org/10.1037/a0020616</para>
         <para id="para-00157">Warden, D., &amp; MacKinnon, S. (2001). Prosocial children, bullies, and victims: An investigation of their sociometric status, empathy and social problem-solving strategies. <emphasis effect="italics">British Journal of Developmental Psychology, 21</emphasis>(3), 367–385.</para>
         <para id="para-00158">Yiu, W.Y.V., Choi, J.H., Chen, X. (2020). Shyness and adaptation across cultures. In L. A. Schmidt &amp; K. L. Poole (Eds.), <emphasis effect="italics">Adaptive shyness.</emphasis> Springer. doi.org/10.1007/978-3-030-38877-5_11</para>
-       <!--</section>
+       </section>
        <section id="sect-00013">
-      <title>Media Exposure and Literacy</title>-->
+      <title>Media Exposure and Literacy</title>
       <para id="para-00131">Common Sense Media. (2011). <emphasis effect="italics">Zero to Eight: Children’s Media Use in America.</emphasis> https://www.ftc.gov/sites/default/files/documents/public_comments/california-00325%C2%A0/00325-82243.pdf</para>
       <para id="para-00132">Hawkey, E. (2019). Media use in childhood: Evidence-based recommendations for caregivers. <emphasis effect="italics">CYF News.</emphasis></para>
       <para id="para-00133">Holmgren, H. G., Stockdale, L., Shawcroft, J., Coyne, S. M., &amp; Fraser, A. M. (2023). Toddlers and the telly: A latent profile analysis of children’s television time and content and behavioral outcomes one year later in the US. <emphasis effect="italics">Journal of Children and Media,</emphasis> 17(3), 1–20.</para>
@@ -269,7 +269,7 @@
       <para id="para-00136">Precise TV, &amp; Giraffe Insights. (2021). <emphasis effect="italics">Kids and the screen: Changing the channel.</emphasis></para>
       <para id="para-00137">Quinones, G. &amp; Adams, M. (2020) Children’s virtual worlds and friendships during the Covid-19 pandemic. <emphasis effect="italics">Video Journal of Education and Pedagogy, 5,</emphasis> 1–18. https://brill.com/view/journals/vjep/5/1/article-p1_10.xml</para>
       <para id="para-00138">Sanders, T., Parker, P. D., Del Pozo-Cruz, B., Noetel, M., &amp; Lonsdale, C. (2019). Type of screen time moderates effects on outcomes in 4013 children: Evidence from the longitudinal study of Australian children. <emphasis effect="italics">The International Journal of Behavioral Nutrition and Physical Activity, 16</emphasis>(1), 117.</para>
-      <!--</section>-->
+      </section>
     </section>
     </content>
     <glossary>
