@@ -377,8 +377,8 @@
   </section>
   <section class="references" id="sect-0015">
     <title>References</title>
-    <section id="sect-012">
-      <title>Families as Context</title> 
+    <!-- <section id="sect-012">
+      <title>Families as Context</title> -->
         <para id="para-00084">American Academy of Pediatrics. (2018). Effective discipline to raise healthy children. <emphasis effect="italics">Pediatrics, 142</emphasis>(6).</para>
         <para id="para-00085">Anderson, L. R., Hemez, P. F., &amp; Kreider, R. M. (2022). <emphasis effect="italics">Living arrangements of children: 2019</emphasis>. U.S. Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2022/demo/p70-174.pdf</para>
         <para id="para-00086">Baker, A. J. L., &amp; Ben-Ami, N. (2011). Adult recall of childhood psychological maltreatment in “Adult Children of Divorce”: Prevalence and associations with concurrent measures of well-being. <emphasis effect="italics">Journal of Divorce and Remarriage, 52</emphasis>(4), 203–219.</para>
@@ -426,9 +426,9 @@
         <para id="para-00128">Villarejo, S., Garcia, O. F., Alcaide, M., Villarreal, M. E., &amp; Garcia, F. (2024). Early family experiences, drug use, and psychosocial adjustment across the lifespan: Is parental strictness always a protective factor? <emphasis effect="italics">Psychosocial Interventions, 33</emphasis>(1), 15–27. doi.org/10.5093/pi2023a16</para>
         <para id="para-00129">Werchan, D. M., Ku, S., Berry, D., &amp; Blair, C. (2023). Sensitive caregiving and reward responsibility: A novel mechanism linking parenting and executive functions development in early childhood. <emphasis effect="italics">Developmental Science, 26</emphasis>(7).</para>
         <para id="para-00130">Yim, E. P. (2022). Effects of Asian cultural values on parenting style and young children’s perceived competence: A cross-cultural study. <emphasis effect="italics">Frontiers in Psychology, 13</emphasis>.</para>
-       </section>  
-</section>
-        </content>    
+       <!-- </section>  -->
+      </section>
+    </content>    
     <glossary>
     <definition id="def-00001"><term>authoritarian parenting</term>
     <meaning>strict parenting style that focuses on obedience, authority, and following rules</meaning>
