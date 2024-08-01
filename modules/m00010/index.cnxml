@@ -5,5 +5,277 @@
     <md:uuid>7f411f1a-0740-4fc9-9109-1d5c319f3b75</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify typical <term class="no-emphasis" id="term-00001">cognitive milestones</term> of early childhood</item>
+    <item>Describe the major cognitive-developmental theories and perspectives relevant to early childhood</item>
+    <item>Compare the major cognitive-developmental theories and perspectives of early childhood</item>
+    </list>
+    </section>
+    <para id="para-00002">Renae enjoys their work as a preschool teacher. Even on the rough days with tantrums, spilled paint, and bathroom accidents, Renae knows their day-to-day work allows them to witness something extraordinary. During early childhood, the students’ brains will grow, facilitating an expansion of cognitive abilities. By the time these students transition to middle childhood and early elementary school, they’ll be solving increasingly complex cognitive tasks, including jigsaw puzzles, math calculations, and negotiations to acquire a family pet.</para>
+    <para id="para-00003">In this section, you’ll learn about the cognitive milestones expected in early childhood through the lens of various cognitive theories that have had a significant influence on how psychologists view this growth and development. Scientists, scholars, and practitioners use these theoretical lenses as a foundation to understand how children acquire natural skills like language, as well as those that are more culturally nuanced, like learning to be independent versus relying on the guidance of others.</para>
+    <section id="sect-00002">
+    <title>Cognitive Influences and Milestones</title>
+    <para id="para-00004">The developmental patterns observed in young children can help us find new ways to improve cognition and choose early intervention strategies when we observe <term class="no-emphasis" id="term-00002">cognitive deficits</term>. At three years of age, children exhibit a wide range of skill levels. Some speak little and their communication is relatively difficult to understand, whereas others articulate well enough to carry on long conversations with a stranger. Most children who are exposed to math concepts can do basic addition before they turn four, but others will not count to ten until well after entering kindergarten at age five or six.</para>
+    <para id="para-00005">In addition, environmental and epigenetic factors can have a profound effect on the way each person develops. For instance, malnutrition during early childhood can lead to impaired neurodevelopment and cognition, which are associated with deficits in academic achievement (Kirolos et al., 2022). Even an influence that appears unrelated, like emotional deprivation, is associated with changes in the structure of the <term class="no-emphasis" id="term-00003">brain</term> that may lead to impaired cognitive abilities (Sheridan et al., 2022).</para>
+    <para id="para-00006">When considering positive impacts on development, we know that simply talking more to infants and toddlers has a potentially profound influence on their later <term class="no-emphasis" id="term-00004">language</term> use and cognition ([link target-id="OSX_Lifespan_05_03_Convo"/]). In a study that continues to provoke discussion, Hart and Risley (1995) monitored and recorded the number of words that high-, middle-, and low-income parents used when interacting with their children over a two-year period. They found that, on average, high-income parents used twice as many words per hour as their low- and middle-income counterparts, resulting in their children hearing approximately 30 million more words by the age of four. This increase in exposure to language correlated with a significantly larger vocabulary in the children who heard more words.</para>
+    <para id="para-00007">Other research has questioned the methodology of Hart and Risley’s original work and suggested that 30 million words might be an overestimate, finding instead that differences in language by SES may be less about a word gap and more about hearing child-directed speech (Dailey &amp; Bergelson, 2021). Ultimately, parents’ income shouldn’t be considered the deciding factor. Rather, it seems that children with higher language skills have likely heard more words and been spoken to with child-directed speech more often. That is, language exposure, not income, is the strongest predictor of later language skills.</para>
+    <para id="para-00008">Research continues to show a positive association between home literacy and cognition across age, gender, and income (Hutton et al., 2020; Tompkins, 2022). These results reinforce that, though typical developmental milestones are a guide, they represent only one avenue of growth. And “typical” can have several meanings depending on the population considered. Just as a physical milestone like standing leads to walking, then running, then skipping, cognitive tasks show stepped gains in sophistication. Younger children begin counting, then perform addition, then understand more complex math operations. Caregivers and professionals use these types of milestones to ensure expected cognitive growth is occurring as expected (<link target-id="table-00001"/>).</para>
+    <table id="table-00001" summary=" ">
+    <title>Early Childhood Cognitive Milestones</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="middle" align="center">Age in years</entry>
+    <entry valign="middle" align="center">Typical cognitive capabilities</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="middle" align="center">4</entry>
+    <entry valign="middle" align="left">
+    <list id="list-00002">
+    <item>Confidently knows their age, recites their first and last name, and describes who lives with them</item>
+    <item>Uses full sentences of at least five words and can be understood most of the time</item>
+    <item>Understands rudimentary number concepts and names colors and shapes</item>
+    <item>Can organize objects by size and shape</item>
+    <item>Copies letters and shapes</item>
+    <item>Follows a story and predicts what happens next</item>
+    <item>Demonstrates awareness of past and present</item>
+    </list>
+    </entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="center">5</entry>
+    <entry valign="middle" align="left">
+    <list id="list-00003">
+    <item>Recites their address and caregivers’ names and contact information</item>
+    <item>Tells linear stories using complete sentences</item>
+    <item>Counts to ten or more</item>
+    <item>Understands basic concepts of time</item>
+    <item>Recognizes and writes their own name</item>
+    <item>Recognizes letters of the alphabet</item>
+    <item>Describes events that happened to them in the past</item>
+    </list>
+    </entry>
+    </row>
+    <row valign="top">
+    <entry valign="middle" align="center">6</entry>
+    <entry valign="middle" align="left">
+    <list id="list-00004">
+    <item>Relates people to others, such as “Dad’s sister”</item>
+    <item>Speaks using correct grammar most of the time</item>
+    <item>Performs simple addition and subtraction</item>
+    <item>Understands simple jokes and has a sense of humor</item>
+    <item>Writes sentences, though spelling may be incorrect</item>
+    <item>Reads simple stories</item>
+    <item>Describes full episodes of entertainment programs</item>
+    </list>
+    </entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>(source: Zubler et al., 2022)</caption>
+    </table>
+    </section>
+    <section id="sect-00003">
+    <title>Stage Theory of Cognitive Development</title>
+    <para id="para-00009">While it is important to identify typical cognitive milestones, if we want to help children develop, we also need to understand how they grow and achieve these milestones. As noted in [link document=""]Physical and Cognitive Development in Infants and Toddlers[/link], Jean <term class="no-emphasis" id="term-00005">Piaget</term> suggested that the maturation of thought and cognition is the result of an interaction between the developing brain and experiences in the world. Recall that children actively construct their understanding of the world throughout the childhood years via the processes of <term class="no-emphasis" id="term-00006">assimilation</term> and <term class="no-emphasis" id="term-00007">accommodation</term>. When information fits into existing schemas, it is assimilated; when a new way of thinking is necessary, the information is accommodated. These processes take on different forms as cognition matures.</para>
+    <section id="sect-00004">
+    <title>The Sensorimotor Stage</title>
+    <para id="para-00010">During the <term class="no-emphasis" id="term-00008">earlier sensorimotor stage</term> in Piaget’s theory of cognitive development, infants shift focus from their own bodies to the world around them. Initially they lack internal representations of people, objects, or events, but by the end of this stage they have gained a range of skills in internal representation and the ability to act on those representations. These cognitive advancements mark the transition to Piaget's second stage of cognitive development, the <term id="term-00009">preoperational stage</term>, thought to occur from around age two to around age seven. It is called “pre” operational because it is characterized by lack of the logical and reversible mental actions known as operations. When we perform mental arithmetic, for example, we are performing an <term id="term-00010">operation</term> because we are using mental representations such as remembering, comparing, or evaluating. A post-operational child older than seven can mentally imagine “three doubled” or how many players remain on a seven-person team if one leaves, and compare these to understand that both equal six.</para>
+    <para id="para-00011">Preoperational children show remarkable progress in mental representation, demonstrated by their ability to engage in imaginative play (<link target-id="fig-00001"/>). They start to represent their thoughts and ideas using symbols, such as words and images. This is called <term id="term-00011">symbolic representation</term> and enables children to better understand the world around them. They playact, try different roles, and experiment with social interactions. They may use a crayon to represent a rocket blasting off or imagine a row of stuffed animals to be “students” in a pretend classroom. Thanks to rapid growth of language skills, they can represent images and actions that exist only in the imagination, like directing an ocean full of whales while sitting on a cardboard hovercraft. Through language and symbolic representation, children learn to <emphasis effect="italics">think</emphasis> in more sophisticated ways. Piaget used specific terminology to mark these changes, including egocentrism and centration.</para>
+    <figure id="fig-00001">
+    <media alt="Image of a small child squatting and playing with a toy drill.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_Pretend.jpg"/>
+    </media>
+    <caption>During the pre-operational stage, children use their mental representation skills in imaginative play. (credit: “Child with drill toy” by Letta Page/Flickr, CC BY 2.0)</caption>
+    </figure>
+    </section>
+    <section id="sect-00005">
+    <title>Egocentrism</title>
+    <para id="para-00012">According to Piaget, preoperational children have limited logical reasoning abilities because they tend to perceive things from only their current and individual perspective and experience. Thus, they find it challenging to differentiate their own thoughts and ideas from those of others, a phenomenon he called <term id="term-00012">egocentrism</term>. Children may assume others share their perspectives and thoughts, and they can find it amusing to crash toys or bang kitchen utensils, for example, because they may not be aware the noise can disturb others.</para>
+    <para id="para-00013">When out at night, a preoperational child might observe that “the moon is following me” when it seems to move with them. This sense of <term id="term-00013">animism</term>, the belief that objects are alive and possess consciousness, is another egocentric feature. Children may treat inanimate objects as if they have emotions and thoughts, just like themselves. For example, a child may talk to a teddy bear as if it were a living being with feelings (<link target-id="fig-00002"/>). A car that needs repair might "not feel well." A child who is hurt while riding a tricycle or playing with blocks may want to punish the objects because they believe the objects acted intentionally to cause harm.</para>
+    <figure id="fig-00002">
+    <media alt="Image of child holding stuffed bear and seat belting the bear next to them.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_Teddy.jpg"/>
+    </media>
+    <caption>Animism, a feature of egocentric thought, is the belief that some objects are alive and possess consciousness. (credit:</caption>
+    </figure>
+    <para id="para-00014">Following Piaget, several theorists in cognitive psychology and overlapping psychology fields have expanded the understanding of egocentrism and perspective-taking. Two important contributions providing further insight into egocentrism are theory of mind and the false-belief task. The <term id="term-00014">theory of mind</term> is our awareness that our own beliefs and perspectives are different from those of others. This develops in humans and some animals, such as chimpanzees, at various rates (Premack &amp; Woodruff, 1978; Baron-Cohen et al., 1985). A <term id="term-00015">false belief</term> occurs when children too young to possess a theory of mind assume that other people have the same knowledge they possess (Airenti, 2015). In the classic false-belief task experiment, a child observes an individual hiding a toy in one location and then leaving the room (Wimmer &amp; Perner, 1983). After watching a different individual move the toy to another location, the child is asked where the first person would look for the toy. Children who have developed a theory of mind understand that the first person will look in the original location. Younger children, often still in the preoperational stage, typically say the person will look for the toy in the location to which it was moved: they assume the first person’s beliefs are the same as their own (<link target-id="fig-00003"/>).</para>
+    <figure id="fig-00003">
+    <media alt="False Belief actions of: Lisa puts teddy in red box; Lisa leaves; Lisa absent (another child moves teddy to yellow box); Lisa returns; “Where is Lisa going to look for her teddy?” (red and yellow box visible).">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_FalseBel.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>In the false-belief task, researchers are able to observe the current perspective-taking skills of a child based on how they answer the question of where the person will look for the hidden item. (credit:)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00015">Watch this <link url="https://openstax.org/r/104FalseBelief">demonstration of the false-belief task</link> to learn more.</para>
+    </note>
+    <para id="para-00016">At the end of the preoperational stage, children develop the ability to better perceive the perspectives of others, including understanding that others can have different beliefs from their own. Recent research demonstrates that thinking and the ability to understand different beliefs become more sophisticated in early childhood than Piaget originally believed, and that children indeed understand that other people have thoughts of their own (Zhao et al., 2021).</para>
+    <para id="para-00017">To further study how children understand others, Piaget and Inhelder (1969) devised an experiment called the <term class="no-emphasis" id="term-00016">three-mountains task</term> to determine when children begin to decenter (pay attention to multiple points of view). In this setting, the researchers show children a group of plaster mountains and place a doll on a side of the platform opposite to where the child is seated. The child is then shown a series of pictures and asked to choose the one that represents the doll's perspective. At the age of four, children consistently chose the pictures that represented their own viewpoint rather than the doll's. By age seven, however, children were able to correctly identify the doll's view, indicating a decrease in egocentric thinking. The three-mountains task demonstrates a transition from a stage of limited perspective to one that includes the ability to consider another person's point of view. When children begin to think logically in this way, they are engaging in the concrete operations that represent the third stage of Piaget's theory.</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00018">Watch this <link url="https://openstax.org/r/1043MtnTask">demonstration of the three-mountain task</link> to learn more about children’s ability to see others’ perspectives.</para>
+    </note>
+    </section>
+    <section id="sect-00006">
+    <title>Centration</title>
+    <para id="para-00019">Another hallmark of Piaget's preoperational stage is the process of <term id="term-00017">centration</term>, in which a child focuses attention on only one characteristic of an object or situation at a time. Piaget demonstrated this tendency in children through tasks that tested <term id="term-00018">conservation</term>, their understanding that changing the appearance of a substance does not alter mass, number, or volume. For instance, in a liquid conservation task, a child is shown two identical beakers and asked to confirm that they hold the same amount of liquid. Next, the child is instructed to pour the contents of one beaker into a taller, narrower container. When asked which beaker contains more liquid, preoperational children tend to select the taller container because their attention is centered on the height of the liquid. Children may also demonstrate a lack of conservation of mass, length, number, and area. A preschooler may be upset if they have only one cookie instead of two halves like their playmate. But breaking the cookie in half so both children appear to have the same amount is likely to bring satisfaction.</para>
+    <note class="link-to-learning" id="note-00003">
+    <para id="para-00020">Watch this <link url="https://openstax.org/r/104conservation">demonstration of conservation</link> to learn more.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00007">
+    <title>Information Processing Theory</title>
+    <para id="para-00021">The <term class="no-emphasis" id="term-00019">information processing theory</term> views cognitive development as a continuous loop of information processing and storage, as you learned in [link document=""]Physical and Cognitive Development in Infants and Toddlers[/link]. Individuals initially attend to incoming information, which is then processed and organized so that it can be efficiently stored. Memories are continually compared and evaluated against each another, allowing for systematic retrieval of information. More advanced cognitive skills develop when we store new information, compare it with existing memories, and generate appropriate responses.</para>
+    <para id="para-00022">Information processing includes the interrelated processes of <term class="no-emphasis" id="term-00020">executive function</term>, attention, and memory. These cognitive processes play important roles in helping children learn, problem-solve, and adapt to their environment. Recall that executive function includes skills like planning, organizing, decision-making, and impulse control. These also necessitate the use of attention, which is the ability to focus on specific stimuli while ignoring distractions. That is, individuals need to attend to multiple bits of information when they plan, organize, and make decisions.</para>
+    <para id="para-00023">People also need to diminish distractions, a process called <term class="no-emphasis" id="term-00021">inhibitory control</term>, which allows regulation of impulses and focus. These components of information processing begin developing in early childhood when infants have limited attention spans. With time, children become better at sustaining attention as well as shifting efficiently between tasks. In addition, executive function includes actions related to memory.</para>
+    <section id="sect-00008">
+    <title>Memory Development</title>
+    <para id="para-00024">To process information, our memory systems encode, store, and eventually retrieve the information. In this way, information processing theory explains how memory systems help us retain knowledge, recall past experiences, and build a foundation for cognitive advancement and learning.</para>
+    <para id="para-00025">Another major milestone of memory development in early childhood is the ability to hold an <term id="term-00022">autobiographical memory</term>. Autobiographical memories are long-term memories of individual life experiences and events. Our earliest memories often begin to develop in early childhood and continue to improve through adolescence (Harley &amp; Reese, 1999; Bauer &amp; Larkina, 2017). Development of this type of memory can help children recall past experiences, develop self-knowledge, and shape their growing sense of identity over time (Ross et al., 2020; Habermas &amp;. Reese, 2015).</para>
+    <para id="para-00026">Autobiographical memory can be improved and scaffolded by caregivers. When caregivers engage in past-talk conversations, such as helping a child remember a recent family gathering or event, children show improved autobiographical memory, socioemotional skills, and self-regulation (Levya et al., 2019; Wu &amp; Jobson, 2019). For example, a parent may help a four-year-old better recall a grandparent who lives far away by asking, “Do you remember when Grandpa visited and we all went to the pumpkin patch? The pumpkins were so bright and we rode in a truck with hay bales!” Prompts like this can help children improve their autobiographical memory and better remember grandpa before his next visit.</para>
+    </section>
+    <section id="sect-00009">
+    <title>The Continuous Nature of Cognitive Development</title>
+    <para id="para-00027">The information processing theory builds on foundational theories, including Piaget's cognitive stage theory. It provides a model that acknowledges the maturational changes outlined by Piaget, while also incorporating the modern, expanded view that environmental circumstances and executive functions matter. For example, both theories agree that a five-year-old child would not be expected to understand advanced algebra. However, they have different views regarding a child's potential to later learn the complexities of math.</para>
+    <para id="para-00028">Piaget theorized that development consisted of step-like, qualitative changes. In information processing theory, the quantity of information is a significant factor in cognitive growth. Although substantial evidence confirms Piaget’s theory that the order of stages is fixed, children’s progression through them may either be accelerated or delayed (Winstanley, 2023). The social environment, which includes schools and caregivers, also plays an important role.</para>
+    <para id="para-00029">The continuous nature of development, including both qualitative and quantitative changes, is exemplified in nearly everything we learn. For example, our understanding of math is a progression from simply counting to performing elementary arithmetic, to tackling more advanced concepts. However, like upgrading a device to a more powerful processor, maturation allows us to think differently about math as we develop, demonstrating the complementary nature of Piaget’s stages and information processing. We can theorize that thinking matures in a similar way during the development of our understanding of oral language, music, biology, and other subject matters.</para>
+    <para id="para-00030">We also update our processing skills by continually observing and imitating the behavior of others. We see the complementary nature of information processing and learning theories when we look at the way we acquire <term class="no-emphasis" id="term-00023">reading</term> skills. To decode words, we rely on our accumulated knowledge of sounds and meanings. In addition, we are constantly being exposed to new vocabulary, assorted word meanings, and varied sentence structures. Thus, we experience a continual interplay between storage and processing of words, which facilitates our retrieval of previously acquired semantic memories. This cognitive feedback loop allows us to refine and expand our vocabulary, leading to improved reading and comprehension skills. We also grow increasingly proficient at expressing desires and understanding the world, a process that becomes naturally self-reinforcing.</para>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Sociocultural Theory of Cognitive Development</title>
+    <para id="para-00031">You’ve learned that information processing and learning theories complement the individual experiences described by Piaget. In addition, a more modern view of Piaget acknowledges the role of contextual factors in cognitive development (DeVries, 1997).</para>
+    <section id="sect-00011">
+    <title>Social and Cultural Influences on Cognition</title>
+    <para id="para-00032">Lev <term class="no-emphasis" id="term-00024">Vygotsky</term>’s <term id="term-00025">sociocultural theory</term> was the first major cognitive theory to outline the importance of cultural context (Vygotsky, 1978). Unlike Piaget, Vygotsky emphasized the role of social and cultural factors on individual cognitive development (<link target-id="fig-00004"/>). For instance, at a very basic level, the importance of social structure is demonstrated by the finding that children who are consistently cared for by the same available, committed adults perform better cognitively than those who are placed in orphanages (Badakar et al., 2017). And in a classroom setting, children who have collaborative learning opportunities will generally advance more efficiently than those who work only independently (Kraatz et al., 2019).</para>
+    <figure id="fig-00004">
+    <media alt="Venn diagram comparing Piaget’s theory with Vygotsky’s theory, showing differences and overlap.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_VennPiaVyg.jpg"/>
+    </media>
+    <caption>Piaget’s and Vygotsky’s theories of learning take different approaches but have some shared concepts about learning. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00033">However, cultural and societal factors go beyond supervision and peer relationships. They extend to the availability of resources such as books, tutors, mentors, and extra learning opportunities. Think about the ways that children learn to process information differently in varied sociocultural situations, such as living in a war-torn nation versus in an affluent metropolitan suburb in a country with ample resources. Young children needing food or supplies in a warring country may have to think of creative ways to cross bridges or navigate open spaces without being seen. Having a constant visual map of their surroundings is necessary for daily survival. In contrast, children in an affluent suburb are likely to develop visual-spatial skills using toy building blocks or completing school projects.</para>
+    <para id="para-00034">Groups and environments influence the development of other skills—such as using speech and written language, and following social behavior norms—where experiences and access to resources facilitate learning and growth. One pioneering example is known as the “hole-in-the-wall” experiment that began in 1999 with educational researcher Sugata Mitra’s installation of an Internet-connected computer learning station in a wall facing a slum in Kalkaji, Delhi, India (Mitra, 2003). This station provided access to a technology learning tool not readily available to children in this disadvantaged community and allowed researchers to observe how children learn in the absence of supervision or direct instruction. Multiple studies that followed have revealed that groups of children can learn by themselves when given access to similar resources. Over the years of implementing and assessing the impact of these learning stations, children using the stations have independently acquired computer and academic skills as well as improved skills in communication and self-regulation (Mitra, 2003; Mitra &amp; Dangwal, 2017; 2022).</para>
+    </section>
+    <section id="sect-00012">
+    <title>The Zone of Proximal Development</title>
+    <para id="para-00035">A cornerstone of the sociocultural model of learning is that children who initially show less proficiency in a particular activity may not necessarily lack ability (Vygotsky, 1978). Vygotsky emphasized the need to look at a child’s learning potential, rather than just focusing on tasks that have already been mastered (as standardized tests do). Vygotsky called the gap between a child's current skills and knowledge and their potential for learning the <term id="term-00026">zone of proximal development (ZPD)</term> (<link target-id="fig-00005"/>). The ZPD encompasses the activities a child cannot complete alone but can accomplish with the aid of a more skilled adult or peer, often referred to as the “more knowledgeable other” (Huang, 2021).</para>
+    <figure id="fig-00005">
+    <media alt="Vygotsky’s Potential for Learning, showing increasing difficulty starting with: Can do independently (current understanding), moving to: Can do with guidance (ZPD-zone of proximal development), then to Cannot do alone or with guidance (skills beyond reach).">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_04_ZoneProx.jpg"/>
+    </media>
+    <caption>Vygotsky’s zone of proximal development, or ZPD, includes unmastered skills and abilities that can be learned through guidance. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00036">In school especially, children learn complex tasks with the assistance of a more knowledgeable person, namely their teacher or peers (<link target-id="fig-00006"/>). Then, as they become more proficient and develop advanced cognitive abilities, the amount of assistance received from these knowledgeable others gradually decreases. This process of temporary learning support is called <term id="term-00027">scaffolding</term>. Although Vygotsky did not use that term, it has become a fundamental part of social constructivism theory and illustrates the way we transition from collaborative learning to independent learning.</para>
+    <figure id="fig-00006">
+    <media alt="Image of a primary classroom with children and teacher sitting at short, rectangle tables, working on puzzles, coloring, and writing. Other children are in various parts of classroom walking around.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_Classroom.jpg"/>
+    </media>
+    <caption>Kindergarten children learn both independently and, in their zone of proximal development, with various levels of scaffolding or support from teachers and peers. (credit: “kindergarten, in session” by “woodleywonderworks”/Flickr, CC BY 2.0)</caption>
+    </figure>
+    </section>
+    <section id="sect-00013">
+    <title>Observational Learning and Pitching In</title>
+    <para id="para-00037">Another perspective on sociocultural learning was conceptualized by Barbara <term class="no-emphasis" id="term-00028">Rogoff</term>, whose research has shown that children’s cognition develops in part when they observe and contribute to ongoing community and home activities. This way of learning is particularly common in Indigenous communities of the Americas (Coppens et al., 2014; Coppens &amp; Rogoff, 2022). Rather than isolating children from adult work, these communities emphasize collaboration among members of all ages. Children work alongside others by observing, listening, and taking part, such as contributing to tasks such as household work. Immersed in activities, children can experience the freedom to autonomously construct knowledge and support cultural practices.</para>
+    <para id="para-00038">One of Rogoff's important concepts is "pitching in," the practice in which children actively participate in household and community activities from a young age (<link target-id="fig-00007"/>). Children explore the world, practice, play, and are guided by community expectations. Others guide them by example, correct their efforts, tell stories, advise, and explain in context. Rogoff calls this multifaceted approach <term class="no-emphasis" id="term-00029">Learning by Observing and Pitching In</term> (LOPI). She contrasts it with “assembly-line instruction,” which she describes as more controlling and isolating, and characteristic of most Westernized schools (Rogoff et al., 2011). The learning of languages is one area in which we can observe these differences.</para>
+    <figure id="fig-00007">
+    <media alt="Image of adult and child doing laundry together.">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_03_Laundry.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>When children learn by pitching in, they develop necessary skills and gain a sense of responsibility and belongingness. (credit:)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00004">
+    <para id="para-00039">Learn more about <link url="https://openstaxcollege.org">https://tedxsantacruz.org/talks/dr-barbara-rogoff/]Barbara Rogoff’s work</link> on the benefits of letting children collaborate.</para>
+    </note>
+    </section>
+    </section>
+    <section class="summary" id="sect-00014">
+    <title>Section Summary</title>
+    <list id="list-00005">
+    <item>The stage theory of cognitive development and the sociocultural theory of cognitive development share the view that children actively construct their understanding of the world through their experiences.</item>
+    <item>Stage theory asserts that children acquire knowledge through their independent exploration of the environment, while sociocultural theory contends that social interactions and cultural influences play a more significant role in development.</item>
+    <item>The information processing model suggests that cognitive development is an ongoing process of quantitative changes that rely on a feedback loop.</item>
+    <item>Research into learning by observation and “pitching in” add important and complementary elements to the study of cognition in early childhood by demonstrating the ways children learn through environmental experiences with others.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00015">
+    <title>Assessments: Review Questions</title>
+    <exercise id="exer-00001"><problem id="prob-00001"><para id="para-00040"><link class="os-embed" url="#exercise/05-03-LD-RQ01"/></para></problem></exercise>
+    <exercise id="exer-00002"><problem id="prob-00002"><para id="para-00041"><link class="os-embed" url="#exercise/05-03-LD-RQ02"/></para></problem></exercise>
+    <exercise id="exer-00003"><problem id="prob-00003"><para id="para-00042"><link class="os-embed" url="#exercise/05-03-LD-RQ03"/></para></problem></exercise>
+    <exercise id="exer-00004"><problem id="prob-00004"><para id="para-00043"><link class="os-embed" url="#exercise/05-03-LD-RQ04"/></para></problem></exercise>
+    <exercise id="exer-00005"><problem id="prob-00005"><para id="para-00044"><link class="os-embed" url="#exercise/05-03-LD-RQ05"/></para></problem></exercise>
+    </section>
+    <section class="check-understanding" id="sect-00016">
+    <title>Assessments: Check Your Understanding Questions</title>
+    <exercise id="exer-00006"><problem id="prob-00006"><para id="para-00045"><link class="os-embed" url="#exercise/05-03-LD-CU01"/></para></problem></exercise>
+    <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00046"><link class="os-embed" url="#exercise/05-03-LD-CU02"/></para></problem></exercise>
+    </section>
+    <section class="personal-application" id="sect-00017">
+    <title>Assessments: Personal Application Questions</title>
+    <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00047"><link class="os-embed" url="#exercise/05-03-LD-PA01"/></para></problem></exercise>
+    </section>
+    <section class="essay-questions" id="sect-00018">
+    <title>Assessments: Essay Questions</title>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00048"><link class="os-embed" url="#exercise/05-03-LD-EQ01"/></para></problem></exercise>
+    </section>
+    <section class="references" id="sect-00019">
+    <title>References</title>
+    <para id="para-00049">Airenti, G. (2015). Theory of mind: A new perspective on the puzzle of belief ascription. <emphasis effect="italics">Frontiers in Psychology, 6,</emphasis> 1184. https://doi.org/10.3389/fpsyg.2015.01184</para>
+    <para id="para-00050">Badakar, C. M., Thakkar, P. J., Hugar, S. M., Kukreja, P., Assudani, H. G., &amp; Gokhale, N. (2017). Evaluation of the relevance of Piaget’s cognitive principles among parented and orphan children in Belagavi City, Karnataka, India: A comparative study. <emphasis effect="italics">International Journal of Clinical Pediatric Dentistry</emphasis>, <emphasis effect="italics">10</emphasis>(4), 346–350. https://doi.org/10.5005/jp-journals-10005-1463</para>
+    <para id="para-00051">Baron-Cohen, S., Leslie, A. M., &amp; Frith, U. (1985). Does the autistic child have a “theory of mind”? <emphasis effect="italics">Cognition, 21</emphasis>(1), 37–46. https://doi.org/10.1016/0010-0277(85)90022-8</para>
+    <para id="para-00052">Bauer, P. J., &amp; Larkina, M. (2017). Predictors of age-related and individual variability in autobiographical memory in childhood. <emphasis effect="italics">Memory, 27</emphasis>(1), 63–78. https://doi.org/10.1080/09658211.2017.1381267</para>
+    <para id="para-00053">Coppens, A. D., &amp; Rogoff, B. (2022). Cultural variation in the early development of initiative in children’s prosocial helping. <emphasis effect="italics">Social Development, 31</emphasis>(3), 656–678. https://doi.org/10.1111/sode.12566</para>
+    <para id="para-00054">Coppens, A. D., Silva, K. G., Ruvalcaba, O., Alcalá, L., López, A., &amp; Rogoff, B. (2014). Learning by observing and pitching in: Benefits and processes of expanding repertoires. <emphasis effect="italics">Human Development, 57</emphasis>(2–3), 150–161. https://doi.org/10.1159/000356770</para>
+    <para id="para-00055">Dailey, S., &amp; Bergelson, E. (2021). Language input to infants of different socioeconomic statuses: A quantitative meta-analysis. <emphasis effect="italics">Developmental Science, 25</emphasis>(3), Article e13192. https://doi.org/10.1111/desc.13192</para>
+    <para id="para-00056">DeVries, R. (1997). Piaget's social theory. <emphasis effect="italics">Educational Researcher, 26</emphasis>(2). https://doi.org/10.3102/0013189X026002004</para>
+    <para id="para-00057">Habermas, T., &amp; Reese, E. (2015). Getting a life takes time: The development of the life story in adolescence, its precursors and consequences. <emphasis effect="italics">Human Development</emphasis>, <emphasis effect="italics">58</emphasis>(3), 172–201. https://doi.org/10.1159/000437245</para>
+    <para id="para-00058">Harley, K., &amp; Reese, E. (1999). Origins of autobiographical memory. <emphasis effect="italics">Developmental Psychology</emphasis>, <emphasis effect="italics">35</emphasis>(5), 1338–1348. https://doi.org/10.1037//0012-1649.35.5.1338</para>
+    <para id="para-00059">Hart, B., &amp; Risley, T. R. (1995). <emphasis effect="italics">Meaningful differences in the everyday experience of young American children.</emphasis> Paul H. Brookes Publishing Co.</para>
+    <para id="para-00060">Huang, Y. (2021). Comparison and contrast of Piaget and Vygotsky’s theories. In J. Wang, B. Achour, &amp; C. Y. Huang (Eds.), <emphasis effect="italics">Proceedings of the 7<sup>th</sup> International Conference on Humanities and Social Science Research (ICHSSR 2021): Vol. 554</emphasis> (pp. 28–32). Atlantis Press. https://doi.org/10.2991/assehr.k.210519.007</para>
+    <para id="para-00061">Hutton, J. S., Dudley, J., Horowitz-Kraus, T., DeWitt, T., &amp; Holland, S. K. (2020). Associations between home literacy environment, brain white matter integrity and cognitive abilities in preschool‐age children. <emphasis effect="italics">Acta Paediatrica</emphasis>, <emphasis effect="italics">109</emphasis>(7), 1376–1386. https://doi.org/10.1111/apa.15124</para>
+    <para id="para-00062">Kirolos, A., Goyheneix, M., Eliasz, M. E., Chisala, M., Lissauer, S., Gladstone, M., &amp; Kerack, M. (2022). Neurodevelopmental, cognitive, behavioural and mental health impairments following childhood malnutrition: A systematic review. <emphasis effect="italics">BMJ Global Health, 7</emphasis>(7)<emphasis effect="italics">,</emphasis> Article e009330. http://dx.doi.org/10.1136/bmjgh-2022-009330</para>
+    <para id="para-00063">Kraatz, E., Nagpal, M., Lin, T-J., Hsieh, M-Y., Ha, S. Y., Kim, S., &amp; Shin, S. (2019). Teacher scaffolding of social and intellectual collaboration in small groups: A comparative case study. <emphasis effect="italics">Frontiers in Psychology</emphasis>, <emphasis effect="italics">11</emphasis>. https://doi.org/10.3389/fpsyg.2020.587058</para>
+    <para id="para-00064">Leyva, D., Reese, E., Laible, D., Schaughency, E., Das, S., &amp; Clifford, A. (2019). Measuring parents’ elaborative reminiscing: Differential links of parents’ elaboration to children’s autobiographical memory and socioemotional skills. <emphasis effect="italics">Journal of Cognition and Development</emphasis>, <emphasis effect="italics">21</emphasis>(1), 23–45. https://doi.org/10.1080/15248372.2019.1668395</para>
+    <para id="para-00065">Mitra, S. (2003). Minimally invasive education: A progress report on the “hole-in-the-wall” experiments. <emphasis effect="italics">The British Journal of Educational Technology, 34</emphasis>(3), 367–371. https://doi.org/10.1111/1467-8535.00333</para>
+    <para id="para-00066">Mitra, S., &amp; Dangwal, R. (2017). Acquisition of computer literacy skills through self-organizing systems of learning among children in Bhutan and India. <emphasis effect="italics">Prospects, 47</emphasis>, 275–292. https://doi.org/10.1007/s11125-017-9409-6</para>
+    <para id="para-00067">Mitra, S., &amp; Dangwal, R. (2022). Evolution of the “hole-in-the-wall”: A status review. <emphasis effect="italics">Prospects, 52</emphasis>, 209–222. https://doi.org/10.1007/s11125-021-09552-y</para>
+    <para id="para-00068">Piaget, J., &amp; Inhelder, B. (1969). <emphasis effect="italics">The child’s conception of space</emphasis>. W. W. Norton &amp; Company.</para>
+    <para id="para-00069">Premack, D., &amp; Woodruff, G. (1978). Does the chimpanzee have a theory of mind? <emphasis effect="italics">Behavioral and Brain Sciences</emphasis>, <emphasis effect="italics">1</emphasis>(4), 515–526. http://dx.doi.org/10.1017/S0140525X00076512</para>
+    <para id="para-00070">Rogoff, B., Correa-Chávez, M., &amp; Silva, K. G. (2011). Cultural variation in children’s attention and learning. In M. A. Gernsbacher, R. W. Pew, L. M. Hough, &amp; J. R. Pomerantz (Eds.), <emphasis effect="italics">Psychology and the real world: Essays illustrating fundamental contributions to society</emphasis> (pp. 154–163). Worth Publishers. https://psycnet.apa.org/record/2011-19926-020</para>
+    <para id="para-00071">Ross, J., Hutchison, J., &amp; Cunningham, S. J. (2020). The me in memory: The role of the self in autobiographical memory development. <emphasis effect="italics">Child Development, 91</emphasis>(2), e299–e314. https://doi.org/10.1111/cdev.13211</para>
+    <para id="para-00072">Sheridan, M. A., Mukerji, C. E., Wade, M., Humphreys, K. L., Garrisi, K., Goel, S., Patel, K., Fox, N. A., Zeanah, C. H., Nelson, C. A., &amp; McLaughlin, K. A. (2022). Early deprivation alters structural brain development from middle childhood to adolescence. <emphasis effect="italics">Science Advances, 8</emphasis>(40). https://doi.org/10.1126/sciadv.abn4316</para>
+    <para id="para-00073">Tompkins, V. (2022). Relations between the home literacy environment and young children’s theory of mind. <emphasis effect="italics">Cognitive Development</emphasis>, <emphasis effect="italics">62</emphasis>, Article 101179. https://doi.org/10.1016/j.cogdev.2022.101179</para>
+    <para id="para-00074">Vygotsky, L. S. (1978). <emphasis effect="italics">Mind in society: The development of higher psychological processes.</emphasis> Harvard University Press.</para>
+    <para id="para-00075">Wimmer, H., &amp; Perner, J. (1983). Beliefs about beliefs: Representation and constraining function of wrong beliefs in young children’s understanding of deception. <emphasis effect="italics">Cognition, 13</emphasis>(1)<emphasis effect="italics">,</emphasis> 103–128 https://doi.org/10.1016/0010-0277(83)90004-5</para>
+    <para id="para-00076">Winstanley, M. A. (2023). Stages in theory and experiment. Fuzzy-structuralism and Piagetian stages. <emphasis effect="italics">Integrative Psychological and Behavioral Science, 57</emphasis>(1), 151–173. https://doi.org/10.1007/s12124-022-09702-7</para>
+    <para id="para-00077">Wu, Y., &amp; Jobson, L. (2019). Maternal reminiscing and child autobiographical memory elaboration: A meta-analytic review. <emphasis effect="italics">Developmental Psychology, 55</emphasis>(12), 2505–2521. https://doi.org/10.1037/dev0000821</para>
+    <para id="para-00078">Zhao, C., Shang, S., Compton, A. M., Fu, G., &amp; Sai, L. (2021). A longitudinal study of the relations between theory of mind, executive function, and lying in children. <emphasis effect="italics">Frontiers in Psychology</emphasis>, <emphasis effect="italics">12</emphasis>. https://doi.org/10.3389/fpsyg.2021.766891</para>
+    <para id="para-00079">Zubler, J. M., Wiggins, L. D., Macias, M. M., Whitaker, T. M., Shaw, J. S., Squires, J. K., Pajek, J. A., Wolf, R. B., Slaughter, K. S., Broughton, A. S., Gerndt, K. L., Mlodoch, B. J. &amp; Lipkin, P. H. (2022). Evidence-informed milestones for developmental surveillance tools. <emphasis effect="italics">Pediatrics</emphasis>, <emphasis effect="italics">149</emphasis>(3), Article e2021052138. https://doi.org/10.1542/peds.2021-052138</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001"><term>animism</term><meaning>belief that objects are alive and possess consciousness</meaning></definition>
+    <definition id="def-00002"><term>autobiographical memory</term><meaning>memories of our individual life experiences and events</meaning></definition>
+    <definition id="def-00003"><term>centration</term><meaning>tendency for preoperational children to focus on one characteristic of an object or situation at a time</meaning></definition>
+    <definition id="def-00004"><term>conservation</term><meaning>cognitive ability to understand that changing the appearance of a substance does not alter its mass, number, or volume</meaning></definition>
+    <definition id="def-00005"><term>egocentrism</term><meaning>preoperational children’s tendency to have limited logical reasoning abilities because they perceive things from only their own point of view, according to Piaget’s stage theory of cognitive development</meaning></definition>
+    <definition id="def-00006"><term>false belief</term><meaning>children’s belief that other people have the same knowledge they themselves possess</meaning></definition>
+    <definition id="def-00007"><term>operation</term><meaning>logical and reversible mental action</meaning></definition>
+    <definition id="def-00008"><term>preoperational stage</term><meaning>stage in which children begin to represent their thoughts and ideas using symbols such as words and images; the second stage in Piaget’s stage theory of cognitive development</meaning></definition>
+    <definition id="def-00009"><term>scaffolding</term><meaning>process of providing temporary learning support when tasks are just outside a person’s range of ability</meaning></definition>
+    <definition id="def-00010"><term>sociocultural theory of cognitive development</term><meaning>theory of development proposed by Vygotsky that emphasizes the role of social and cultural factors on individual cognitive development</meaning></definition>
+    <definition id="def-00011"><term>symbolic representation</term><meaning>representation of thoughts and ideas using symbols, such as words and images</meaning></definition>
+    <definition id="def-00012"><term>theory of mind</term><meaning>awareness that our beliefs and perspectives are different from other people’s</meaning></definition>
+    <definition id="def-00013"><term>zone of proximal development (ZPD)</term><meaning>range of activities that cannot be completed alone but can be accomplished with the aid of a more skilled adult or peer</meaning></definition>
+    </glossary>
 </document>
