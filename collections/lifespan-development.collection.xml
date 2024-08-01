@@ -8,6 +8,17 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
+      <md:title>Physical and Cognitive Development in Early Childhood (Ages 3 to 6)</md:title>
+      <col:content>
+        <col:module document="m00007"/>
+        <col:module document="m00008"/>
+        <col:module document="m00009"/>
+        <col:module document="m00010"/>
+        <col:module document="m00011"/>
+        <col:module document="m00012"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Social and Emotional Development in Early Childhood (Ages 3 to 6)</md:title>
       <col:content>
         <col:module document="m00001"/>
