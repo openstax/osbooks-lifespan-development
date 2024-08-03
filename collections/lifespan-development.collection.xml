@@ -8,6 +8,30 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
+      <md:title>Chapter 01</md:title>
+      <col:content>
+        <col:module document="m00013"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 02</md:title>
+      <col:content>
+        <col:module document="m00014"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 03</md:title>
+      <col:content>
+        <col:module document="m00015"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chapter 04</md:title>
+      <col:content>
+        <col:module document="m00016"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
       <md:title>Physical and Cognitive Development in Early Childhood (Ages 3 to 6)</md:title>
       <col:content>
         <col:module document="m00007"/>
