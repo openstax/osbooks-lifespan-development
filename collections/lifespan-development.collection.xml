@@ -8,9 +8,14 @@
   </col:metadata>
   <col:content>
     <col:subcollection>
-      <md:title>Chapter 01</md:title>
+      <md:title>Lifespan Psychology and Developmental Theories</md:title>
       <col:content>
         <col:module document="m00013"/>
+        <col:module document="m00017"/>
+        <col:module document="m00018"/>
+        <col:module document="m00019"/>
+        <col:module document="m00020"/>
+        <col:module document="m00021"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
