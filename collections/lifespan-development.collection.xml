@@ -23,18 +23,33 @@
       <md:title>Genetics, Prenatal, and Perinatal Health</md:title>
       <col:content>
         <col:module document="m00014"/>
+        <col:module document="m00023"/>
+        <col:module document="m00024"/>
+        <col:module document="m00025"/>
+        <col:module document="m00026"/>
+        <col:module document="m00027"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Physical and Cognitive Development in Infants and Toddlers (birth to age 2.5 years)</md:title>
       <col:content>
         <col:module document="m00015"/>
+        <col:module document="m00028"/>
+        <col:module document="m00029"/>
+        <col:module document="m00030"/>
+        <col:module document="m00031"/>
+        <col:module document="m00032"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
       <md:title>Social and Emotional Development in Infants and Toddlers (birth to age 2.5 years)</md:title>
       <col:content>
         <col:module document="m00016"/>
+        <col:module document="m00033"/>
+        <col:module document="m00034"/>
+        <col:module document="m00035"/>
+        <col:module document="m00036"/>
+        <col:module document="m00037"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
@@ -57,6 +72,61 @@
         <col:module document="m00004"/>
         <col:module document="m00005"/>
         <col:module document="m00006"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Middle Childhood (ages 7 to 12)</md:title>
+      <col:content>
+        <col:module document="m00038"/>
+        <col:module document="m00039"/>
+        <col:module document="m00040"/>
+        <col:module document="m00041"/>
+        <col:module document="m00042"/>
+        <col:module document="m00043"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Middle Childhood (ages 7 to 12)</md:title>
+      <col:content>
+        <col:module document="m00044"/>
+        <col:module document="m00045"/>
+        <col:module document="m00046"/>
+        <col:module document="m00047"/>
+        <col:module document="m00048"/>
+        <col:module document="m00049"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Adolescence (ages 12 to 18)</md:title>
+      <col:content>
+        <col:module document="m00050"/>
+        <col:module document="m00051"/>
+        <col:module document="m00052"/>
+        <col:module document="m00053"/>
+        <col:module document="m00054"/>
+        <col:module document="m00055"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Adolescence (ages 12 to 18)</md:title>
+      <col:content>
+        <col:module document="m00056"/>
+        <col:module document="m00057"/>
+        <col:module document="m00058"/>
+        <col:module document="m00059"/>
+        <col:module document="m00060"/>
+        <col:module document="m00061"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Early and Emerging Adulthood (ages 18 to 29)</md:title>
+      <col:content>
+        <col:module document="m00062"/>
+        <col:module document="m00063"/>
+        <col:module document="m00064"/>
+        <col:module document="m00065"/>
+        <col:module document="m00066"/>
+        <col:module document="m00067"/>
       </col:content>
     </col:subcollection>
   </col:content>
