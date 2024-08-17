@@ -129,5 +129,71 @@
         <col:module document="m00067"/>
       </col:content>
     </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Early and Emerging Adulthood (ages 18 to 29)</md:title>
+      <col:content>
+        <col:module document="m00068"/>
+        <col:module document="m00069"/>
+        <col:module document="m00070"/>
+        <col:module document="m00071"/>
+        <col:module document="m00072"/>
+        <col:module document="m00073"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Middle Adulthood (ages 30-59)</md:title>
+      <col:content>
+        <col:module document="m00074"/>
+        <col:module document="m00075"/>
+        <col:module document="m00076"/>
+        <col:module document="m00077"/>
+        <col:module document="m00078"/>
+        <col:module document="m00079"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Middle Adulthood (ages 30-59)</md:title>
+      <col:content>
+        <col:module document="m00080"/>
+        <col:module document="m00081"/>
+        <col:module document="m00082"/>
+        <col:module document="m00083"/>
+        <col:module document="m00084"/>
+        <col:module document="m00085"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Physical and Cognitive Development in Late Adulthood (age 60 and beyond)</md:title>
+      <col:content>
+        <col:module document="m00086"/>
+        <col:module document="m00087"/>
+        <col:module document="m00088"/>
+        <col:module document="m00089"/>
+        <col:module document="m00090"/>
+        <col:module document="m00091"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Social and Emotional Development in Late Adulthood (age 60 and beyond)</md:title>
+      <col:content>
+        <col:module document="m00092"/>
+        <col:module document="m00093"/>
+        <col:module document="m00094"/>
+        <col:module document="m00095"/>
+        <col:module document="m00096"/>
+        <col:module document="m00097"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Death, Dying, and Grieving</md:title>
+      <col:content>
+        <col:module document="m00098"/>
+        <col:module document="m00099"/>
+        <col:module document="m00100"/>
+        <col:module document="m00101"/>
+        <col:module document="m00102"/>
+        <col:module document="m00103"/>
+      </col:content>
+    </col:subcollection>
   </col:content>
 </col:collection>
