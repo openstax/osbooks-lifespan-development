@@ -1,5 +1,5 @@
 <document xmlns="http://cnx.rice.edu/cnxml">
-  <title>Physical Health and Growth</title>
+  <title>Physical Health and Growth in Early Childhood</title>
   <metadata xmlns:md="http://cnx.rice.edu/mdml">
     <md:content-id>m00008</md:content-id>
     <md:uuid>91f4d70f-1f96-429d-98cd-9ac94c3874c7</md:uuid>
@@ -23,19 +23,19 @@
     <section id="sect-00003">
     <title>Physical Proportions and Height</title>
     <para id="para-00005">In the United States, on average, children gain between 2 and 3 inches (approximately 5–7.5 cm) in height and 4 to 5 pounds (approximately 1.8–2.25 kg) in weight per year between ages three and six (MedlinePlus, 2022) (<link target-id="fig-00001"/>). A key change during this period is the development of more adult-like body proportions. The head accounts for a steadily decreasing proportion of body length throughout the childhood years (recall the <term class="no-emphasis" id="term-00005">cephalocaudal principle</term>). Legs grow proportionally longer, allowing children to become more mobile, more agile, and better able to balance and coordinate their movements. While three-year-olds tend to have cylindrical body shapes, with little definition between the waist and hips, the average six-year-old has a more hourglass-like shape. This change will eventually become more marked for girls, who will develop wider hips and narrower waists at puberty. At six years of age, the average child in the United States is 45 inches tall (approximately 115 cm) and weighs 45 pounds (approximately 20.4 kg) (Centers for Disease Control and Prevention [CDC], 2023).</para>
-    <figure id="fig-00001">
-    <media alt="Alt text placeholder">
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="Photo of a three year old child being hugged by a six year old child (that is about a head taller than the three year old child).">
     <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_3and6.jpg"/>-->
     <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
     </media>
-    <caption>The relative growth comparison between a three-year-old and six-year old child, such as these siblings, shows some aspects of the physical changes that occur across these early childhood years. (credit:</caption>
+    <caption>The relative growth comparison between a three-year-old and six-year old child, such as these siblings, shows some aspects of the physical changes that occur across these early childhood years. (credit: “Siblings: 3 and 6 years old” by Eric &amp; Laurel Glenn/Flickr, CC BY 4.0)</caption>
     </figure>
     <note class="link-to-learning" id="note-00001">
     <para id="para-00006">See the <link url="https://openstax.org/r/104GrowthStds">World Health Organization (WHO) child growth standards</link> and the <link url="https://openstax.org/r/104GrowthChart">United States Centers for Disease Control and Prevention (CDC) growth charts</link> to learn more. These standards highlight the importance of averages because they show not only how a child is growing in comparison with other children but also whether their own growth is proportional. If a child is far outside the average or out of proportion, this data gives medical professionals more information about the health needs of that child.</para>
     </note>
     <para id="para-00007">Evidence indicates that the full height potential of our <term class="no-emphasis" id="term-00006">genetic inheritance</term> is affected by several environmental influences. Economic disadvantage, physical neglect, disease, and malnutrition can affect biological and epigenetic mechanisms associated with <term class="no-emphasis" id="term-00007">height</term>, which can take several generations to return to the normal range (Bogin, 2013; Lang et al., 2019; Simeone &amp; Alberti, 2014). These influences may partly explain generational variations in height.</para>
     <para id="para-00008">One directly observable consequence of malnutrition is <term id="term-00008">stunting</term>, or impaired growth in height (<link target-id="fig-00002"/>). Stunting, which cannot be reversed and can increase risks for cognitive and physical damage, has become a global concern (De Sanctis et al., 2021; Bhutta et al., 2020). Particularly in war-torn, severely impoverished, and drought-stricken areas, inadequate nutrition is widespread, and stunting is an inherent risk. As a result, an estimated 149 million children under five, or more than 20% of the global under-five population, suffer stunting. In some poor parts of Africa and southern Asia, the proportion rises to nearly half (UNICEF/World Health Organization [WHO]/World Bank Group, 2021).</para>
-    <figure id="fig-00002">
+    <figure id="fig-00002" class="scaled-down">
     <media alt="Chart listing Types of Undernutrition- Stunting: Height is low for age; Underweight: Weight is low for age; Wasting: Weight is low for height; Normal: Height and weight are normal for age.">
     <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_UnderNutr.jpg"/>
     </media>
@@ -45,14 +45,14 @@
     </section>
     <section id="sect-00004">
     <title>Sex Differences in Growth</title>
-    <para id="para-00010">During early childhood, boys start becoming taller and heavier on average than girls. Though still relatively minor, differences are more pronounced than in infancy and toddlerhood. For example, according to the World Health Organization (WHO), the average healthy four-year-old boy is about .75 inch (2 cm) taller and about 2 pounds (1 kg) heavier than the average healthy girl. At this age, girls are already developing more fatty tissue and boys have comparatively more muscle (McCarthy et al., 2014). This variation is partly due to differences in hormone production between the sexes and are probably genetically programmed.</para>
+    <para id="para-00010">During early childhood, boys start becoming taller and heavier on average than girls. Though still relatively minor, differences are more pronounced than in infancy and toddlerhood. For example, according to the World Health Organization (WHO), the average healthy four-year-old boy is about 0.75 inch (2 cm) taller and about 2 pounds (1 kg) heavier than the average healthy girl. At this age, girls are already developing more fatty tissue and boys have comparatively more muscle (McCarthy et al., 2014). This variation is partly due to differences in hormone production between the sexes and are probably genetically programmed.</para>
     <para id="para-00011">Even in the first few months of life, male and female infants appear to store fat differently, perhaps due to different levels of <term class="no-emphasis" id="term-00009">hormone production</term> (Davis et al., 2019). However, sex-related growth changes in early childhood may also be influenced by external factors like diet and exercise. Regardless of how they originate, these developmental differences become more apparent in large motor activities, which we’ll discuss in <link document="m00009"/>. In early childhood, however, physical differences that may exist between boys and girls do not have any major practical applications.</para>
     <para id="para-00012">In any case, the variance <emphasis effect="italics">within</emphasis> each sex is much larger than that <emphasis effect="italics">between</emphasis> the sexes. That is, height and weight vary widely among all boys and among all girls, but the average difference <emphasis effect="italics">between</emphasis> boys and girls is very small. What we consider "normal" heights and weights for both boys and girls also varies. As always, group averages mask large individual differences, and individual variation is normal.</para>
     </section>
     <section id="sect-00005">
     <title>Neurodevelopmental Growth</title>
     <para id="para-00013">The brain both orchestrates and complements the growth of the body. That is, <term class="no-emphasis" id="term-00010">neural growth</term> allows the development and expansion of new competencies, and as experience and practice with competencies increase, the <term class="no-emphasis" id="term-00011">brain</term> responds by growing new connections. This process occurs throughout the lifespan but is particularly pronounced in early childhood. By the age of six, a child’s body weight is only about 30% of the average normal adult weight, but the brain has reached 90 percent of its adult size (Stiles &amp; Jernigan, 2010). The increased mass is accounted for by the growth of axons, dendrites, and synaptic connections that allow for more complex neural and motor processing. A more substantial proportion of the increased brain weight is attributable to increased myelination. This development allows for faster and more coordinated activity, as well as advances in learning and memory (Chevalier et al., 2015; Deoni et al., 2016; Gilmore et al., 2018).</para>
-    <para id="para-00014">For the most part, maturation dictates the timing of <term class="no-emphasis" id="term-00012">myelination</term> and brain development. Recall from [link]Physical and Cognitive Development in Infants and Toddlers[/link] that myelination is the process of wrapping axons in myelin to speed neural transmissions. The myelination of neurons that are essential to early physical development is mostly complete by 40 months of age. However, when life experiences are limited or the environment is highly stressful, myelination and overall brain growth will be slowed.</para>
+    <para id="para-00014">For the most part, maturation dictates the timing of <term class="no-emphasis" id="term-00012">myelination</term> and brain development. Recall from <link document="m00028"/> that myelination is the process of wrapping axons in myelin to speed neural transmissions. The myelination of neurons that are essential to early physical development is mostly complete by 40 months of age. However, when life experiences are limited or the environment is highly stressful, myelination and overall brain growth will be slowed.</para>
     <para id="para-00015">From an early age, the amount of stimulation a child receives has a significant effect on brain structure, weight, and volume (Gilmore et al, 2018; Lawson, 2013; Ziegler et al., 2020). Poor nutrition may also lead to deficits in myelin development and a general decrease in brain mass. However, the brain remains quite plastic in early childhood, and early intervention can often reverse these negative effects (de Faria et al., 2019).</para>
     <para id="para-00016">The brain continues to overproduce dendrites and synapses, which then leads to additional <term class="no-emphasis" id="term-00013">synaptic pruning</term>. This alone tells us that <term class="no-emphasis" id="term-00014">brain plasticity</term> remains strong, and that experiences and opportunities have roles in development. A cross-sectional study with participants ranging in age from newborn to 91 years found that the density of dendrites among children in early childhood was two to three times that of the average adult (Petanjek et al., 2011). This indicates that a wealth of growth and learning are unfolding in early childhood, particularly for children in environments rich with learning and play experiences.</para>
     <para id="para-00017">Growth patterns include <term class="no-emphasis" id="term-00015"><emphasis effect="italics">experience-expectant</emphasis> process</term>es, which are universal and occur in all individuals as part of typical development. They include the brain's being ready to receive and process sensory input, such as vision and language, during critical periods of development. In contrast, <emphasis effect="italics">experience-dependent</emphasis> processes rely on the brain's ability to adapt and rewire in response to specific, individual experiences, such as learning a new language or a musical instrument. These experiences are unique to each person and are influenced by the person’s environment, learning opportunities, and social interactions. Thus, the brain appears programmed to expand.</para>
@@ -61,7 +61,7 @@
     </section>
     <section id="sect-00006">
     <title>Lateralization and Handedness</title>
-    <para id="para-00020">Most people process input from the right side of the body in the left hemisphere of their brain and vice versa. As you may recall from [link]Physical and Cognitive Development in Infants and Toddlers[/link] this organizational characteristic of the brain is known as <term class="no-emphasis" id="term-00016">lateralization</term>. The left hemisphere typically handles language-related tasks such as reading, speaking, and thinking, while the right hemisphere specializes in emotional expression, musical ability, and recognition of visual-spatial relationships used in geometry, art, and navigation.</para>
+    <para id="para-00020">Most people process input from the right side of the body in the left hemisphere of their brain and vice versa. As you may recall from <link document="m00028"/> this organizational characteristic of the brain is known as <term class="no-emphasis" id="term-00016">lateralization</term>. The left hemisphere typically handles language-related tasks such as reading, speaking, and thinking, while the right hemisphere specializes in emotional expression, musical ability, and recognition of visual-spatial relationships used in geometry, art, and navigation.</para>
     <para id="para-00021">Lateralization begins at birth. The hemispheres are independent, and they work together to process experiences and respond. For example, oral communication, a function of the left hemisphere, also relies on right-hemisphere functions such as visualization. Therefore, there is no such thing as being “left-brained” or “right-brained.”</para>
     <para id="para-00022">Handedness is another example of lateralization in action. About 10 percent of children across cultures and continents prefer to use their left hand, a preference linked to differences in brain organization and genes. Whereas about 95 percent of right-handed people show typical lateralization patterns (like language centers in the left hemisphere), only about 75 percent of left-handers do (de Kovel et al., 2019). Though some studies indicate that most children develop an obvious hand preference by six months of age, others find that stable preferences may not appear until age nine or even later (Scharoun &amp; Bryden, 2014). However, by that time, most children have already been required to favor one hand over another in school tasks like coloring, writing, and using a mouse.</para>
     <para id="para-00023">Differences in cognition, artistic expression, and athletic prowess between left-handed and right-handed children are often reported. However, no scientific evidence suggests that these differences exist (McManus, 2019). Nonetheless, children who are left-hand dominant often struggle with products designed for right-handers, such as scissors, seat belts, and school desks. Though we can learn to use our non-dominant hand quite well, hand dominance appears to be highly heritable and unchangeable. Even identical twins, who share the same genes, may favor different hands; each has the same 10 percent chance of being left-handed. This indicates that handedness results from a combination of environmental and genetic influences (Schmitz et al., 2017).</para>
@@ -74,7 +74,7 @@
     <media alt="(a) Image of fruits, meats, dairy and grains. (b) Food Group chart labeling/displaying images of Fruits, Vegetables, Grains (Make half your grains whole), Protein Foods, and Dairy (Choose low-fat or fat-free).">
     <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_BalancedD.jpg"/>
     </media>
-    <caption>A balanced diet includes nutrient-rich foods that contain a variety of carbohydrates, proteins, and fats. (credit a: modification of work , CC BY 2.0; credit b: modification of work “USDA my plate” by US Department of Agriculture/Wikimedia Commons, Public Domain)</caption>
+    <caption>(a) A balanced diet includes nutrient-rich foods that contain a variety of carbohydrates, proteins, and fats representing (b) the main food groups in responsible proportions. (credit a: modification of work “Soy-whey-protein-diet” by Peggy Greb, USDA ARS/Wikimedia Commons, Public Domain; credit b: modification of work “USDA my plate” by US Department of Agriculture/Wikimedia Commons, Public Domain)</caption>
     </figure>
     <section id="sect-00008">
     <title>Macronutrients</title>
@@ -87,7 +87,7 @@
     <section id="sect-00009">
     <title>Healthy Habits</title>
     <para id="para-00030">Parents and caregivers often worry about <emphasis effect="italics">how much</emphasis> their children are eating rather than considering <emphasis effect="italics">what</emphasis> they are eating. Children are quite good at regulating their own nutritional habits if given a chance. Serving less nutritious food (like the children’s meals at many restaurants) because it is easier to get children to eat them generally leads to poor habits. Children who consume a lot of high-fat, sweet, and salty foods may fail to acquire a taste for other flavors. In contrast, adults who model positive eating habits, gently encourage children to try new foods, and avoid arguments over meals have a positive impact on children’s eating behavior (<link target-id="fig-00004"/>). In short, children who are introduced to healthy vegetables and proteins on a regular basis will grow accustomed to them (Cardona Cano et al., 2015; Mahmood et al., 2021; Mazza et al., 2022; Nekitsing et al., 2018).</para>
-    <figure id="fig-00004">
+    <figure id="fig-00004" class="scaled-down-30">
     <media alt="Image of a family seated around a table eating a meal with chopsticks. An adult male is feeding a boy on his lap. An adult female has a girl on her lap.">
     <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_FamDinner.jpg"/>
     </media>
@@ -107,23 +107,23 @@
     </note>
     <para id="para-00033">A significant proportion of U.S. children and families live in a <term id="term-00022">food desert</term>, a geographic area where fresh food is not readily available (<link target-id="fig-00005"/>). These usually lower-income, inner-city or rural areas spark a dependence on unhealthy fast food or frozen prepared food. Residents may therefore rely on the limited offerings of nearby convenience stores or travel long distances for their meals, which can be costly and incur further financial strain. Limited access to affordable and nutritious food can lead to a variety of health problems, including obesity, diabetes, and heart disease (Ziso et al., 2022).</para>
     <figure id="fig-00005">
-    <media alt="U.S. Map indicating areas where no car and no supermarket store is located within a mile. Legend reads: >10 (dark brown), 5.1-10 percent (maroon), 2.5-5 percent (orange), &lt;2.5 percent (yellow), and No data available (tan).">
+    <media alt="U.S. Map. Legend reads: 0 to 10 percent (light pink), 10.1 to 20 percent (orange), 20.1 to 30 percent (dark orange), greater than 30 percent (red), and No data available (gray).">
     <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_FdDesert2.jpg"/>
     </media>
-    <caption>This 2009 map shows the location of food deserts in the United States. The colors indicate the percentage of people in each area who live more than a mile from a supermarket and whose families have no car (credit: modification of work “Data on food deserts” by Carolina Diaz de Villegas and Kiara Rodriguez/Wikimedia Commons, Public Domain)</caption>
+    <caption>This 2015 map shows the location of food deserts in the United States. The colors indicate the percentage of the population in the area with low access to or proximity to grocery stores. (credit: modification of work “Population, Low Access to Store (%), 2015” by USDA Economic Research Service, U.S. Department of Agriculture/ERS, Public Domain)</caption>
     </figure>
     <para id="para-00034">Efforts to increase access to healthy foods include tax incentives to build supermarkets, host farmer's markets, and develop community gardens in underserved areas. Addressing food deserts is an important step in promoting food equity and improving public health outcomes, particularly for vulnerable populations like those who are impoverished or have food allergies that further restrict food choices.</para>
     </section>
     </section>
     <section id="sect-00010">
     <title>Healthy Sleep</title>
-    <para id="para-00035">Early childhood is a critical time to establish healthy <term class="no-emphasis" id="term-00023">sleep habits</term>. Young children need a significant amount of sleep, as well as caring adults to support them with sleep issues <link target-id="fig-00006"/>).</para>
-    <figure id="fig-00006">
-    <media alt="Alt text placeholder">
+    <para id="para-00035">Early childhood is a critical time to establish healthy <term class="no-emphasis" id="term-00023">sleep habits</term>. Young children need a significant amount of sleep, as well as caring adults to support them with sleep issues (<link target-id="fig-00006"/>).</para>
+    <figure id="fig-00006" class="scaled-down-30">
+    <media alt="Photo of adult and child laying on a bed reading a book together.">
     <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_SleepHabit.jpg"/>-->
     <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
     </media>
-    <caption>Adhering to a nighttime routine helps children establish healthy sleep habits. For example, children might get a bath, enjoy a bedtime story with a trusted adult, listen to quiet music, and fall asleep.</caption>
+    <caption>Adhering to a nighttime routine helps children establish healthy sleep habits. For example, children might get a bath, enjoy a bedtime story with a trusted adult, listen to quiet music, and fall asleep. (credit: modification of work “2016-02-08 08.54.29 1” by Wutthichai Charoenburi/Flickr, CC BY 2.0)</caption>
     </figure>
     <section id="sect-00011">
     <title>Sleep Duration</title>
@@ -143,7 +143,7 @@
     <section id="sect-00014">
     <title>Vaccination</title>
     <para id="para-00042">The use of childhood vaccines in countries with high rates of national <term class="no-emphasis" id="term-00025">immunization</term> coverage is responsible for the near-elimination of serious diseases such as polio and measles. Because there are no cures for these ailments, vaccinations are the best defense against severe illness and mortality (<link target-id="fig-00007"/>).</para>
-    <figure id="fig-00007">
+    <figure id="fig-00007" class="scaled-down-30">
     <media alt="Image of child receiving shot in left arm by a masked medical person with a person looking on.">
     <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_05_01_Vaccine.jpg"/>
     </media>
@@ -188,11 +188,12 @@
     <section class="personal-application" id="sect-00019">
     <title>Assessments: Personal Application Questions</title>
     <exercise id="exer-00007"><problem id="prob-00007"><para id="para-00058"><link class="os-embed" url="#exercise/05-01-LD-PA01"/></para></problem></exercise>
+    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00060"><link class="os-embed" url="#exercise/05-01-LD-PA02"/></para></problem></exercise>
     </section>
     <section class="essay-questions" id="sect-00020">
     <title>Assessments: Essay Questions</title>
     <exercise id="exer-00008"><problem id="prob-00008"><para id="para-00059"><link class="os-embed" url="#exercise/05-01-LD-EQ01"/></para></problem></exercise>
-    <exercise id="exer-00009"><problem id="prob-00009"><para id="para-00060"><link class="os-embed" url="#exercise/05-01-LD-EQ02"/></para></problem></exercise></section>
+    </section>
     <section class="references" id="sect-00021">
     <title>References</title>
     <para id="para-00061">Béres, F., Michaletzky, T. V., Csoma, R., &amp; Benczúr, A. A. (2023). Network embedding aided vaccine skepticism detection. <emphasis effect="italics">Applied Network Science</emphasis>, <emphasis effect="italics">8</emphasis>(1). https://doi.org/10.1007/s41109-023-00534-x</para>
