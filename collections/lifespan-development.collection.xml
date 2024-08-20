@@ -31,7 +31,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Physical and Cognitive Development in Infants and Toddlers (birth to age 2.5 years)</md:title>
+      <md:title>Physical and Cognitive Development in Infants and Toddlers (birth to age 3)</md:title>
       <col:content>
         <col:module document="m00015"/>
         <col:module document="m00028"/>
@@ -42,7 +42,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Social and Emotional Development in Infants and Toddlers (birth to age 2.5 years)</md:title>
+      <md:title>Social and Emotional Development in Infants and Toddlers (birth to age 3)</md:title>
       <col:content>
         <col:module document="m00016"/>
         <col:module document="m00033"/>
@@ -141,17 +141,17 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Physical and Cognitive Development in Middle Adulthood (ages 30-59)</md:title>
+      <md:title>Physical and Cognitive Development in Middle Adulthood (ages 30 to 59)</md:title>
       <col:content>
         <col:module document="m00074"/>
         <col:module document="m00075"/>
         <col:module document="m00076"/>
         <col:module document="m00077"/>
-        <col:module document="m00078"/>        
+        <col:module document="m00078"/>
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Social and Emotional Development in Middle Adulthood (ages 30-59)</md:title>
+      <md:title>Social and Emotional Development in Middle Adulthood (ages 30 to 59)</md:title>
       <col:content>
         <col:module document="m00080"/>
         <col:module document="m00081"/>
