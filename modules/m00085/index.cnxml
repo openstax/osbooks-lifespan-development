@@ -121,45 +121,45 @@
     <tbody>
     <row valign="top">
     <entry valign="bottom" align="left">Self-acceptance</entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
+    <entry valign="bottom" align="left"><list id="list-00008"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00009"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00010"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00011"><item/><item/></list></entry>
     </row>
     <row valign="top">
     <entry valign="bottom" align="left">Positive relationships</entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"><list id="list-00003"><item><emphasis effect="italics">Romantic relationships</emphasis></item></list></entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
+    <entry valign="bottom" align="left"><list id="list-00012"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00003"><item><emphasis effect="italics">Romantic relationships</emphasis></item><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00013"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00014"><item/><item/></list></entry>
     </row>
     <row valign="top">
     <entry valign="middle" align="left">Autonomy</entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
+    <entry valign="bottom" align="left"><list id="list-00015"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00016"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00017"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00018"><item/><item/></list></entry>
     </row>
     <row valign="top">
     <entry valign="middle" align="left">Mastery</entry>
-    <entry valign="bottom" align="left"><list id="list-00004"><item><emphasis effect="italics">Academic achievement</emphasis></item></list></entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
+    <entry valign="bottom" align="left"><list id="list-00004"><item><emphasis effect="italics">Academic achievement</emphasis></item><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00019"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00020"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00021"><item/><item/></list></entry>
     </row>
     <row valign="top">
     <entry valign="bottom" align="left">Sense of purpose</entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"><list id="list-00005"><item><emphasis effect="italics">Work</emphasis></item></list></entry>
-    <entry valign="bottom" align="left"> </entry>
+    <entry valign="bottom" align="left"><list id="list-00022"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00023"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00005"><item><emphasis effect="italics">Work</emphasis></item><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00024"><item/><item/></list></entry>
     </row>
     <row valign="top">
     <entry valign="bottom" align="left">Personal growth</entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"> </entry>
-    <entry valign="bottom" align="left"><list id="list-00006"><item><emphasis effect="italics">Wisdom</emphasis></item></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00025"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00026"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00027"><item/><item/></list></entry>
+    <entry valign="bottom" align="left"><list id="list-00006"><item><emphasis effect="italics">Wisdom</emphasis></item><item/></list></entry>
     </row>
     </tbody>
     </tgroup>
