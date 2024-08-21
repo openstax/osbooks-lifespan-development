@@ -5,6 +5,19 @@
     <md:uuid>7f8f1329-98c0-4cc0-80d0-03620b234196</md:uuid>
   </metadata>
   <content class="introduction">
-    <para id="para-00001">PlaceHolder</para>
-  </content>
+    <figure id="fig-00001" class="splash">
+    <media alt="Alt text placeholder">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_14_00_Family.jpg"/>
+    </media>
+    <caption>Middle adulthood is characterized by an expansion of roles and responsibilities at home, work, and in the community. (credit: placeholder)</caption>
+    </figure>
+    <para id="para-00001">It’s Friday afternoon rush hour. Lisha calls her son and asks him to get dinner started. She makes a mental note to remind her daughter to check that her uniform and water bottle are clean and ready for her game tomorrow. She also sets a reminder to make a follow-up oncology appointment for her dad next week. Maybe she can reschedule that client meeting and leave work early to do that next Thursday? Life is busy, and Lisha is tired. But Lisha is grateful that her family can pull together to get through busy weeks like this one, and the last one, and probably the next one. Maybe next year, she can afford to take her family on that big vacation she dreams about in her nonexistent free time. Like many people in middle adulthood, Lisha has a lot on her mind.</para>
+    <list id="list-00001">
+    <item>As one of the longest stages of lifespan development, how does our love and family life evolve and adapt to the changes encountered during middle adulthood?</item>
+    <item>Are there individual, group, or environmental variables that promote health, happiness, and satisfaction amid these changes?</item>
+    <item>What is the “sandwich generation”?</item>
+    <item>Does all this change and responsibility lead to the dreaded “midlife crisis”?</item>
+    </list>
+    <para id="para-00002">In this chapter, find out what the current research says about all these questions and more.</para>
+    </content>    
 </document>
