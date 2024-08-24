@@ -54,7 +54,7 @@
     <entry valign="top" align="left">90+</entry>
     <entry valign="top" align="center">18</entry>
     </row>
-    <row valign="top">
+    <row class="header-row" valign="top">
     <entry valign="top" align="left"><emphasis effect="bold">Sex</emphasis></entry>
     <entry valign="top" align="center"> </entry>
     </row>
