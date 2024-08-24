@@ -5,5 +5,317 @@
     <md:uuid>19ad5ac1-a82a-4f53-80bd-c71d3ac9e233</md:uuid>
   </metadata>
   <content>
-  </content>
-</document>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify the types and characteristics of dementia</item>
+    <item>Describe characteristics, detection, and treatment of <term class="no-emphasis" id="term-00001">Alzheimer’s disease</term></item>
+    </list>
+    </section>
+    <para id="para-00002">Lillian had been a bit absent-minded all her life, so her family and friends didn’t initially pay much attention to her memory lapses as she got older. However, it became obvious over time that Lillian’s cognitive functioning was changing. She’d always had trouble remembering the names of her twelve grandchildren, but now she didn’t always recognize them, thinking they were neighborhood children. She had trouble making grocery lists and keeping track of what she already had, so she often had spoiled food in her refrigerator as a result. After Lillian missed several bill payments and fell victim to a phone scam, her youngest daughter took control of her finances, and the rest of the family worried about whether she could continue to live in her home.</para>
+    <para id="para-00003">So far, you’ve observed that many normative cognitive declines occur in later life but don’t typically interfere with older adults’ ability to function independently. In this section, you will study nonnormative cognitive changes, specifically, types of dementia. Note that some people do not fit neatly into the category of either dementia or normative cognitive decline. The cognitive decline that is more severe than normative but below the threshold for a dementia-related diagnosis is called <term id="term-00002">mild cognitive impairment (MCI)</term>. While many individuals experiencing MCI don’t progress to more severe cognitive decline, having MCI does place an individual at increased risk of later developing dementia (Etgen et al., 2011).</para>
+    <section id="sect-00002">
+    <title>Dementia</title>
+    <para id="para-00004">An umbrella term for a wide variety of conditions characterized by damage to the brain, including cell death, is <term id="term-00003">dementia</term>. This neurological damage can interfere with older adults’ daily functioning and ability to live independently. The specific symptoms vary across individuals and dementia types (National Institute on Aging, 2022). As noted in <link target-id="table-00001"/>, the likelihood of experiencing dementia increases as we get older (Manly et al., 2022; Nianogo et al., 2021). Incidence rates vary somewhat across racial and ethnic groups, with Hispanic and non-Hispanic Black older adults showing higher rates of dementia than White older adults; recent estimates suggest that the percentages of people with dementia in these groups are roughly 14, 19, and 10 percent, respectively (Alzheimer’s Association, 2024). Also, as you’ll learn later, the risk factors for developing dementia may differ across these groups, and women are more likely to experience dementia than men. The reason is unclear but is largely believed to be due to women having a longer life expectancy than men. Other factors, such as lower rates of smoking and cardiovascular disease, may also contribute (Alzheimer’s Association, 2024; Beam et al., 2018; Nianogo et al., 2022; Scheltens et al., 2021; Tahami Monfared et al., 2022). <link target-id="table-00001"/> shows the percentage of individuals who have dementia, divided by age and sex (numbers may not add to 100 due to rounding).</para>
+    <table id="table-00001" summary=" ">
+    <title>Dementia across Ages and by Sex</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Age (years)</entry>
+    <entry valign="top" align="center">Percentage of individuals with dementia (%)</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">65–69</entry>
+    <entry valign="top" align="center">6</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">70–74</entry>
+    <entry valign="top" align="center">8</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">75–79</entry>
+    <entry valign="top" align="center">19</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">80–84</entry>
+    <entry valign="top" align="center">27</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">85–89</entry>
+    <entry valign="top" align="center">21</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">90+</entry>
+    <entry valign="top" align="center">18</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left"><emphasis effect="bold">Sex</emphasis></entry>
+    <entry valign="top" align="center"> </entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Female</entry>
+    <entry valign="top" align="center">62</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Male</entry>
+    <entry valign="top" align="center">38</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>(source: Manly et al., 2022)</caption>
+    </table>
+    <para id="para-00005">Because dementia often develops slowly, identification and diagnosis may not be immediate. Symptoms may come on gradually and go unnoticed for several years before anyone becomes concerned. It may be difficult initially to tell the difference between normal age-related cognitive changes and those that indicate dementia. Also, in the earliest stages of dementia, older adults may be able to compensate for cognitive changes or perform well in front of family and loved ones for short periods of time (Alzheimer’s Association, 2024; Tahami Monfared et al., 2022).</para>
+    <para id="para-00006">If an older adult approaches health-care providers with worries about cognitive declines, or a concerned family member does so on their behalf, the older individual will likely receive a dementia screening assessment testing vocabulary, spatial skills, memory, and language. One such screening is the <term class="no-emphasis" id="term-00004">Mini-Mental State Exam</term> (Folstein et al., 1975), a short assessment with thirty scored components related to a variety of cognitive tasks. A score below twenty-four indicates that someone may be experiencing a cognitive impairment such as dementia (Folstein et al., 1975; Kurlowicz &amp; Wallace, 1999).</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00007">Health-care providers may use the <link url="https://openstax.org/r/104DementiaScrn">Mini-Mental State Examination to screen for dementia</link> in individuals. Individuals losing seven points or more may be experiencing dementia. Note that this assessment is used by trained health-care providers and is not by itself a diagnostic tool.</para>
+    </note>
+    <para id="para-00008">Dementia is often identified by symptoms such as cognitive performance, but additional information is needed before a diagnosis. For example, it is valuable to know whether a person has a history of alcohol abuse or head injuries, the cognitive decline is sudden or abrupt, or the person has a family history of dementia, because this could help establish what type of dementia the person has. Other issues can complicate the diagnosis (<link target-id="fig-00001"/>). For example, depression, Lyme disease, sleep problems, infections, and certain vitamin deficiencies can cause short-term cognitive symptoms similar to dementia, as can the side effects and interactions of multiple medications taken simultaneously. This last is particularly likely to be a problem for older adults, who tend to take more medications than other age groups (Alzheimer’s Association, 2024). In the long term, research suggests that taking many medications simultaneously over time also increases the likelihood of developing dementia (Park et al., 2017).</para>
+    <figure id="fig-00001" class="scaled-down-30">
+    <media alt="An older adult has a conversation with a health-care professional.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_04_DocPatient.jpg"/>
+    </media>
+    <caption>People often turn to their physician if they are concerned about cognitive decline. (credit: modification of work “Airmen mentoring Afghan flight surgeons-medics DVIDS257654” by Staff Sgt. Manuel J. Martinez of United States Air Force/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00009">Several types of dementia exist. They differ somewhat in their cause and symptoms, but all are characterized by cognitive impairment that gets worse over time and represents more than the typical age-related cognitive changes discussed in <link document="m00088"/>. (A useful analogy is cancer; there are many types of cancer that vary in terms of location and cause, but all are caused by uncontrolled growth of cell tissue.) The most common type of dementia is <term class="no-emphasis" id="term-00005">Alzheimer’s disease</term>, which accounts for 50 to 70 percent of dementia cases, followed by vascular dementia and Lewy body dementia (Alzheimer’s Association, 2024; Lethin, 2019; Niaongo et al., 2022; Scheltens et al., 2021; Tahami Monfared et al., 2022). Some individuals can be diagnosed with multiple forms of dementia. Here you will examine each.</para>
+    <section id="sect-00003">
+    <title>Vascular Dementia</title>
+    <para id="para-00010">Vascular dementia is the second most common form of dementia. (Alzheimer’s disease, the most common, is discussed later.) Vascular dementia’s cognitive symptoms and declines are associated with blocked blood flow to the brain, typically the result of a stroke, that results in cell damage or death in the affected part of the brain. There are two major types of <term class="no-emphasis" id="term-00006">stroke</term>.</para>
+    <list id="list-00002">
+    <item>An <term id="term-00007">ischemic stroke</term> occurs when a blood clot prevents an area of the brain from receiving enough blood or oxygen. While ischemic strokes can be fatal, they can also occur as less severe mini-strokes that disrupt blood flow for only a short time, resulting in less severe symptoms that can sometimes go undetected.</item>
+    <item>A <term id="term-00008">hemorrhagic stroke</term> tends to be more severe, often with a sudden onset, and is much more likely to be fatal. A blood vessel in the brain ruptures, resulting in bleeding that deprives an area of the brain of sufficient blood flow and oxygen.</item>
+    </list>
+    <para id="para-00011">All types of strokes are associated with a high risk of <term class="no-emphasis" id="term-00009">vascular dementia</term>; however, not all stroke victims experience it (Kalaria et al., 2016). The cognitive problems associated with vascular dementia can occur suddenly or slowly worsen over time. Their nature varies widely, depending on the area of the brain that was affected; for example, a left-hemisphere stroke is more likely to produce difficulty with speech, because the left hemisphere typically contains the parts of the brain important for language use. Strokes often produce other symptoms, such as problems with balance and motor control and paralysis on one side of the body.</para>
+    <para id="para-00012">Insufficient flow of blood related to heart conditions including heart failure can result in <term id="term-00010">hypoxia</term>, which occurs when lack of oxygen damages body tissues. When this occurs in brain tissue, it can also contribute to vascular dementia (Calabrese et al., 2016). Risk factors for strokes, heart disease, and vascular dementia are all similar and include lack of exercise, an unhealthy diet, smoking, high alcohol consumption, high blood pressure, and high cholesterol. Like the symptoms of stroke, cognitive problems associated with vascular dementia can improve over time if the underlying cause of the stroke or heart condition is addressed and no further damage to the brain occurs. If disruptions in blood flow continue, the dementia will also likely worsen (Alzheimer’s Association, n.d.-a).</para>
+    <note class="life-hacks" id="note-00002">
+    <title>Recognizing Signs of a Stroke</title>
+    <para id="para-00013">A stroke is a medical emergency, and the speed of response matters for many reasons. Stroke victims who are quickly treated in a hospital setting have a better chance of immediate survival and fewer physical limitations afterward (National Heart, Lung, and Blood Institute [NHLBI], 2023; Saver et al., 2013). They also demonstrate better cognitive outcomes.</para>
+    <para id="para-00014">Health-care experts recommend using the acronym FAST (sometimes “BEFAST”) to remember and identify the signs of a stroke. Consider it a medical emergency if you or someone you know experiences any of these common symptoms (Geiger, 2021; NHLBI, 2023):</para>
+    <list id="list-00003">
+    <item>B—Problems with <emphasis effect="italics">balance</emphasis> or coordination</item>
+    <item>E—<emphasis effect="italics">Eye</emphasis> problems such as a sudden onset of blurred or double vision or complete loss of vision</item>
+    <item>F—<emphasis effect="italics">Facial</emphasis> drooping or an uneven facial expression</item>
+    <item>A—<emphasis effect="italics">Arm</emphasis> weakness, numbness, or inability to raise both arms to an equal height</item>
+    <item>S—Hard-to-understand <emphasis effect="italics">speech</emphasis>, slurred speech, or difficulty speaking</item>
+    <item>T—It’s <emphasis effect="italics">time</emphasis> to call for emergency medical services if a person has any one of the previous symptoms</item>
+    </list>
+    <para id="para-00015">These symptoms can often, but not always, be obvious. Women sometimes have different stroke symptoms than men, such as confusion, headache, or chest pain, so unusual sudden symptoms of any type should be addressed quickly even if they don’t initially fit the typical pattern (Ali et al., 2022).</para>
+    </note>
+    </section>
+    <section id="sect-00004">
+    <title>Lewy Body Dementia and Parkinson’s Disease</title>
+    <para id="para-00016"><term class="no-emphasis" id="term-00011">Lewy body dementia</term> is the third most common type of dementia. It’s caused by deposits of a specific protein found in the cortex of the brain (<link target-id="fig-00002"/>). These protein deposits, called Lewy bodies, have been linked to loss of the neurons responsible for producing neurochemicals, such as acetylcholine (which plays a role in attention, learning, and memory) and dopamine (related to our experiencing pleasure, motivation, sleep, and cognition). The most common symptoms of Lewy body dementia are visual hallucinations, difficulty paying attention, and difficulty with thinking and judgment. These tend to change drastically over short periods of time, going from nearly nonexistent to severe and back again without any apparent reason. Other symptoms are related to motor skills and include stiffness, slow movement, and shaking (Orad &amp; Shiner, 2022).</para>
+    <figure id="fig-00002" class="scaled-down">
+    <media alt="(a) An image shows a healthy brain with areas of tissue and a box outlining the hippocampus. (b) An image shows a brain with Lewy body dementia, where the hippocampus is smaller than the first image.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_04_LeweyBrain.jpg"/>
+    </media>
+    <caption>(a) This image shows a healthy brain with the hippocampus outlined in red. (b) In this image of a brain afflicted with Lewy body dementia, notice that the hippocampus (inside the red box) is smaller, indicating that brain tissue has died. (credit a and b: modification of work “MRI Alzheimer Disease and Dementia with Lewy Bodies” by McKeith IG, Boeve BF, Dickson DW, et al./Wikimedia Commons, CC BY 4.0)</caption>
+    </figure>
+    <para id="para-00017">Lewy body dementia is difficult to predict because its cause is unclear. Though the risk increases with age, research has not identified any behavioral or lifestyle risk factors. The condition is progressive and fatal, with no effective treatment or cure.</para>
+    <para id="para-00018"><term class="no-emphasis" id="term-00012">Parkinson’s disease</term> is also characterized by damage to the neurons responsible for dopamine production and shares many of the physical symptoms of Lewy body dementia, such as stiffness, shaking/trembling, and slow movement. Many patients with Parkinson’s disease never develop dementia, however, and others do so only in the disease’s later stages. Parkinson’s disease dementia is considered a type of Lewy body dementia (Huang, 2023; National Institute on Aging, 2021).</para>
+    </section>
+    </section>
+    <section id="sect-00005">
+    <title>Alzheimer’s Disease</title>
+    <para id="para-00019">Estimates indicate that roughly fifty-five million people worldwide have <term id="term-00013">Alzheimer’s disease</term> (Alzheimer’s Association, 2024), the most common form of <term class="no-emphasis" id="term-00014">dementia</term>. Alzheimer’s disease is a progressive and fatal form of dementia that affects memory first, before limiting other cognitive abilities and eventually motor skills. Typical life expectancy varies because people are diagnosed at different stages of the disease, but most live six to ten years after noticeable symptoms develop (Scheltens et al., 2021). Its combination of genetic, environmental, and lifestyle factors make Alzheimer’s disease very difficult to predict. The biggest risk factor is age, especially after eighty years. Generally, a healthy diet, regular exercise, and not smoking can reduce the likelihood of developing the disease (Scheltens et al., 2021).</para>
+    <section id="sect-00006">
+    <title>Characteristics and Diagnosis of Alzheimer’s Disease</title>
+    <para id="para-00020">Currently, the diagnosis of Alzheimer’s disease relies on a combination of clinical observations and medical testing. Professionals can distinguish between a clinical diagnosis based on symptoms and performance on cognitive tests, and a biological diagnosis based on the presence of certain pathological elements in brain tissue. You’ll learn about the latter approach first.</para>
+    <para id="para-00021">The <emphasis effect="italics">amyloid plaques</emphasis> characteristic of the disease are believed to form in the brain due to elevated levels of a naturally occurring protein called <term class="no-emphasis" id="term-00015">amyloid precursor protein</term>. As levels of this protein increase, fragments of it gather between neurons, forming plaques that have been linked to cell death and are also believed to interfere with the functioning of neurons. Within the neurons of people with Alzheimer’s disease, threads of the naturally occurring protein tau become twisted, forming <emphasis effect="italics">neurofibrillary tangles</emphasis> that can interfere with cellular functioning and also contribute to cell death (Alzheimer’s Association, 2024; National Institute on Aging, 2017) (<link target-id="fig-00003"/>). Death of brain tissue in certain areas, especially the <term class="no-emphasis" id="term-00016">hippocampus</term> (Jack et al., 2018), also occurs.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="(a) An image shows plaques between neurons. (b) An image shows twisted strands of protein, neurofibrillary tangles. (c) A micrograph shows plaques. (d) A micrograph shows tangles.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_04_PlaqTangle.jpg"/>
+    </media>
+    <caption>(a) Plaques are clusters of protein fragments that form between neurons. (b) Neurofibrillary tangles are twisted strands of protein. Micrographs show (c) plaques and (d) tangles in the brain of an individual with Alzheimer’s. (credit a and b: ©2023 Alzheimer’s Association. www.alz.org. All rights reserved. Illustrations by Stacy Jannis. Used with permission; credit c: modification of work “Histopathology of amyloid plaque in Alzheimer’s disease – annotated” by Mikael Häggström/Wikimedia Commons, CC0 1.0; credit d: modification of work “Histopathology of neurofibrillary tangles in Alzheimer’s disease – annotated” by Mikael Häggström/Wikimedia Commons, CC0 1.0)</caption>
+    </figure>
+    <para id="para-00022">All these changes appear with increasing frequency in most individuals as they get older. They may be an aspect of primary aging and typically do not interfere with functioning. However, as they increase beyond what’s considered normative, they may produce <term class="no-emphasis" id="term-00017">MCI</term> and eventually Alzheimer’s disease (Ganz et al., 2018; Guillozet et al., 2003; Tahami Monfared et al., 2022), an example of secondary aging. Changes in the body’s insulin response may also be a factor. The risk of type 2 diabetes increases with age, and people with type 2 diabetes consistently show cognitive declines. Some research has thus proposed the existence of “<term class="no-emphasis" id="term-00018">type 3 diabetes</term>” caused by neurons in the brain becoming insulin resistant. However, this is not currently an official medical diagnosis, and it’s unclear whether the association between insulin resistance and dementia is caused by diabetes damaging neurons or whether a variant of the <emphasis effect="italics">APOE4</emphasis> gene, sometimes called the “Alzheimer’s gene,” interferes with the way the brain processes insulin (Janoutová et al., 2022; Zhao et al., 2017).</para>
+    <para id="para-00023">An issue with the biological diagnosis of Alzheimer’s disease is that traditionally, detecting the presence of plaques and tangles required examining the patient’s brain tissue under a microscope, which could be done only at autopsy. Dead brain tissue can be detected on living patients’ brain scans but can be caused by several different factors, so this imaging isn’t specific enough to indicate Alzheimer’s disease (Jack et al., 2024). This is why many cases of Alzheimer’s disease are diagnosed through clinical means. The clinical diagnosis rules out other potential causes like stroke, looks for the presence or absence of certain symptoms like visual hallucinations, and compiles a medical history to check for factors like previous head injuries, chronic alcoholism, or untreated infections, all of which can produce dementia symptoms. This strategy typically leads to a diagnosis of “probable” or “possible” Alzheimer’s disease, but it isn’t always accurate. Up to 30 percent of people with a clinical diagnosis of Alzheimer’s disease don’t have signs of plaques and tangles, and a similar percentage of people with plaques and tangles never develop symptoms of Alzheimer’s disease (Jack et al., 2018). It’s estimated that Alzheimer’s disease may go undiagnosed as much as 50 percent of the time (Alzheimer’s Association, 2024; Tahami Monfared et al., 2022).</para>
+    <para id="para-00024">However, our diagnostic approach may be changing. Technology now exists to identify the presence of amyloid and tau proteins in cerebrospinal fluid, and positron emission tomography scans can locate amyloid plaques in the brain (Alzheimer’s Association, 2024). A blood test to detect amyloid protein is also being developed (Barthélemy et al., 2024; Schindler et al., 2019). Genetic testing can identify people at increased risk for Alzheimer’s disease, and professionals can use that information to closely monitor their cognitive health. In the near future, we may be able to rely more on biological diagnosis of Alzheimer’s disease and achieve more accurate results (Jack et al., 2018; Scheltens et al., 2021).</para>
+    </section>
+    <section id="sect-00007">
+    <title>Types of Alzheimer’s Disease</title>
+    <para id="para-00025">Alzheimer’s disease may exist in different forms. Early-onset disease is a very rare form characterized, as its name suggests, by symptoms that occur earlier than typical, before age sixty-five years and sometimes decades earlier. This version has been associated with specific risk factors, such as having Down syndrome. Other cases have been linked to mutations of three different dominant genes and thus appear to be entirely genetic. Having a parent with this type of early-onset Alzheimer’s disease gives you a 50 percent chance of carrying one of the genes and developing the disease at a younger age than typical. These genetic variations also appear to be more common in Black individuals than in White and Indigenous individuals (Alzheimer’s Association, 2024). While routine genetic screening does not test for the genes, people with a strong family history of Alzheimer’s disease at young ages can be tested to see whether they carry them (National Institute on Aging, 2023).</para>
+    <para id="para-00026">Most cases of Alzheimer’s disease are considered late-onset and occur after age sixty-five years. Risk increases with age, and 80 percent of all Alzheimer’s patients are diagnosed after age eighty years. This form of the disease is more difficult to predict, but it is also associated with a slower progression of symptoms and changes to the brain than early-onset Alzheimer’s disease (Rabinovici, 2019).</para>
+    </section>
+    <section id="sect-00008">
+    <title>Symptoms and Progression of Alzheimer’s Disease</title>
+    <para id="para-00027">Memory problems are usually the first symptom of <term class="no-emphasis" id="term-00019">Alzheimer’s disease</term>, although it can be hard to distinguish them from the typical memory problems associated with normal aging. In general, forgetting things a person has known for a long time, like the names of loved ones or the route home from the store, or having a noticeable increase in forgetfulness is cause for concern. Some research suggests that problems in word recall (remembering the names of objects and people) and orientation (knowing where you are as well as things like the date and season) are specific early indicators of dementia, coming before impairment of other cognitive functions like attention and executive function (Tahami Monfared et al., 2022).</para>
+    <para id="para-00028">Several large-scale research studies are currently trying to better grasp all aspects of Alzheimer’s disease. For example, the Dallas Lifespan Brain Study is studying brain development at a wide range of ages, with the goal of better understanding both the risk factors for and the early development of Alzheimer’s (Chan et al., 2014). Two other examples are the Religious Orders Study (which has a sample of nuns and priests) and the Rush Memory and Aging Project. Both examine cognitive ability, brain health, and other variables in differently aged adults over time. All participants also agree to organ donation after death so that irregularities in the <term class="no-emphasis" id="term-00020">brain</term>, such as plaques and tangles, can be studied and associated with brain activity, cognitive functioning, and a variety of other variables (Bennett et al., 2018).</para>
+    <para id="para-00029">Thanks to these and other efforts, we understand a great deal about the symptoms and progression of Alzheimer’s disease. Several studies have identified neurological changes that occur several years before any symptoms. For example, research using PET scans has been able to identify changes in brain activity four years before participants developed any symptoms. These include a pattern of more activity in the frontal cortex of the brain and less in the temporal and parietal cortexes. The declines in the temporal and parietal cortexes are believed to signal some of the earliest damage to the brain in the Alzheimer’s disease process (<link target-id="fig-00004"/>). Increased activity in the frontal cortex, in turn, is believed to be evidence of <term class="no-emphasis" id="term-00021">neuroplasticity</term>, occurring as healthier parts of the brain compensate for the damaged area (Beason-Held et al., 2013; Choudhury et al., 2023; Raskin et al., 2015).</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="(a) An image shows healthy brain tissue in the cortex and the hippocampus. (b) An image shows a brain with Alzheimer’s disease with less tissue in the cortex and the hippocampus than the first image.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_04_AlzBrain.jpg"/>
+    </media>
+    <caption>You can see the decrease in brain volume in the cortex (outer portions of the brain) and hippocampus (red box) when comparing (a) a healthy brain to (b) a brain with Alzheimer’s disease. (credit a and b: modification of work “MRI Alzheimer Disease and Dementia with Lewy Bodies” by McKeith IG, Boeve BF, Dickson DW, et al./Wikimedia Commons, CC BY 4.0)</caption>
+    </figure>
+    <para id="para-00030">More recent research using magnetic resonance imaging has supported this earlier work, indicating that people eventually diagnosed with Alzheimer’s disease show more loss of neurons in the temporal lobe than in other regions of the brain. Other types of <term class="no-emphasis" id="term-00022">dementia</term> are characterized by other patterns of neuron loss; for example, Lewy body dementia appears to disproportionately affect the parietal lobe (Orad &amp; Shiner, 2022).</para>
+    <para id="para-00031">In other words, before people have any cognitive or behavioral symptoms of Alzheimer’s disease, the brain seems to realize that certain areas are being damaged. As a result, the frontal lobes start working extra hard to pick up the slack, preventing any noticeable changes in cognitive ability. This trend continues until the damage accumulates and the <term class="no-emphasis" id="term-00023">frontal cortex</term> is no longer able to compensate. Eventually, the frontal cortex starts to experience damage from Alzheimer’s disease as well.</para>
+    <para id="para-00032">Indicators of Alzheimer’s disease have been found outside the brain. Research suggests that declines in the sense of smell can predict the level of Alzheimer’s disease–related pathology in the brain, such as the presence of plaques and tangles (Brai et al., 2020; Mi et al., 2023; Wilson et al., 2009). Amyloid that forms plaques has also been found in the retina of the eye, and its presence correlates with the degree of cognitive decline (Koronyo et al., 2023).</para>
+    <para id="para-00033">While changes in the brain, declines in the sense of smell, and the presence of amyloid in the eyes are potentially important clinical indicators of Alzheimer’s disease, they are not the typical changes that families first notice. In early-stage Alzheimer’s disease, individuals may have increased memory problems, such as difficulty finding the right words, forgetting information they recently learned, and more frequently forgetting where they left objects, but typically they can still function independently. The middle stage of the disease is the longest, typically lasting several years during which individuals require some assistance completing daily tasks. Memory problems are more severe, including difficulty remembering information relevant to their personal history. This stage of Alzheimer’s is also linked to general confusion, wandering, sleep difficulty, difficulty with daily tasks such as bathing and dressing, and personality changes.</para>
+    <para id="para-00034">Another symptom common in mid-stage Alzheimer’s disease is <term id="term-00024">sundowning</term>, a tendency for dementia symptoms to worsen in the evening. Individuals tend to become increasingly confused or agitated. They may pace or wander, exhibit increased aggression, and experience hallucinations, typically as night approaches but also throughout the night. Sundowning is frequently reported in institutional settings such as nursing homes. It is not completely understood, and there are a variety of theories about its potential causes (Cipriani et al., 2015). Communicating earlier in the day with loved ones who have dementia could increase the likelihood of having meaningful interactions.</para>
+    <para id="para-00035">The final stage of disease is the most debilitating. People have difficulty communicating or having conversations, they need assistance with ADLs, and they cannot independently care for themselves. Physical abilities also tend to decline, and individuals can lose the ability to walk, sit, or even swallow. Vulnerability to infectious disease such as pneumonia also increases. Due to the severity and scope of these symptoms, end-of-life care such as hospice is often needed (Alzheimer’s Association, n.d.-b).</para>
+    </section>
+    <section id="sect-00009">
+    <title>Treatment and Prevention of Alzheimer’s Disease</title>
+    <para id="para-00036">A great deal of Alzheimer’s research has focused on developing effective treatments, including medications meant to remove amyloid plaques from the brain (Srivastava et al., 2021), since their accumulation is believed to lead to the development of tangles. While most attempts have so far failed, some medications, such as aducanumab (Aduhelm), decrease amyloid plaques and reduce the rate of cognitive decline. Aducanumab was the first medication to receive FDA approval (in 2021). It did not reverse the disease but may have helped those at the earliest stages by slowing its progression. It had been linked to potentially serious side effects, too, including swelling of the brain (Woloshin &amp; Kesselheim, 2022). This was the first medication to try to treat the disease and not just provide symptom management (Beshir et al., 2022; Karran &amp; Strooper, 2022; Wang, 2023).</para>
+    </section>
+    </section>
+    <section class="summary" id="sect-00010">
+    <list id="list-00004">
+    <item>Dementia is a general term to describe a wide variety of conditions that all include damage to the brain.</item>
+    <item>While getting an accurate and specific diagnosis related to dementia is challenging, Alzheimer’s disease is the most common form, followed by vascular dementia.</item>
+    <item>Early-onset Alzheimer’s disease tends to be genetic with a more rapid progression, while late-onset occurs over age sixty-five years but becomes more common over age eighty years, with a slower progression.</item>
+    <item>The progression of Alzheimer’s disease brings increased impairment of cognitive skills, eventually affecting other behaviors such as self-care skills and language.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00011">
+    <title>Assessment: Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00037"><link class="os-embed" url="#exercise/15-04-LD-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00038"><link class="os-embed" url="#exercise/15-04-LD-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00039"><link class="os-embed" url="#exercise/15-04-LD-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00040"><link class="os-embed" url="#exercise/15-04-LD-RQ04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00041"><link class="os-embed" url="#exercise/15-04-LD-RQ05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="check-understanding" id="sect-00012">
+    <title>Assessment: Check Your Understanding Questions</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00042"><link class="os-embed" url="#exercise/15-04-LD-CU01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00043"><link class="os-embed" url="#exercise/15-04-LD-CU02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="personal-application" id="sect-00013">
+    <title>Assessment: Personal Application Questions</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00044"><link class="os-embed" url="#exercise/15-04-LD-PA01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00045"><link class="os-embed" url="#exercise/15-04-LD-PA02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="essay-questions" id="sect-00014">
+    <title>Assessment: Essay Questions</title>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00046"><link class="os-embed" url="#exercise/15-04-LD-EQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="references" id="sect-00015">
+    <title>References</title>
+    <para id="para-00047">Ali, M., van Os, H. J. A., van der Weerd, N., Schoones, J. W., Heymans, M. W., Kruyt, N. D., Visser, M. C., &amp; Wermer, M. J. H. (2022). Sex differences in presentation of stroke: A systematic review and meta-analysis. <emphasis effect="italics">Stroke, 53</emphasis>(2), 345–354. https://doi.org/10.1161/STROKEAHA.120.034040</para>
+    <para id="para-00048">Alzheimer’s Association. (2024). 2024 Alzheimer’s disease facts and figures. <emphasis effect="italics">Alzheimer’s &amp; Dementia: The Journal of the Alzheimer’s Association, 20</emphasis>(5), 3708–3821. https://doi.org/10.1002/alz.13809</para>
+    <para id="para-00049">Alzheimer’s Association. (n.d.-a). Vascular Dementia. https://www.alz.org/alzheimers-dementia/what-is-dementia/types-of-dementia/vascular-dementia</para>
+    <para id="para-00050">Alzheimer’s Association. (n.d.-b). Stages of Alzheimer’s. https://www.alz.org/alzheimers-dementia/stages</para>
+    <para id="para-00051">Barthélemy, N. R., Salvadó, G., Schindler, S. E., He, Y., Janelidze, S., Collij, L. E., Saef, B., Henson, R. L., Chen, C. D., Gordon, B. A., Li, Y., La Joie, R., Benzinger, T. L. S., Morris, J. C., Mattsson-Carlgren, N., Palmqvist, S., Ossenkoppele, R., Rabinovici, G. D., Stomrud, E., Bateman, R. J., &amp; Hansson, O. (2024). Highly accurate blood test for Alzheimer’s disease is similar or superior to clinical cerebrospinal fluid tests. <emphasis effect="italics">Nature Medicine, 30</emphasis>(4), 1085–1095. https://doi.org/10.1038/s41591-024-02869-z</para>
+    <para id="para-00052">Beam, C. R., Kaneshiro, C., Jang, J. Y., Reynolds, C. A., Pedersen, N. L., &amp; Gatz, M. (2018). Differences between women and men in incidence rates of dementia and Alzheimer’s disease. <emphasis effect="italics">Journal of Alzheimer’s Disease</emphasis>, <emphasis effect="italics">64</emphasis>(4), 1077–1083. https://doi.org/10.3233/jad-180141</para>
+    <para id="para-00053">Beason-Held, L. L., Goh, J. O. S., An, Y., Kraut, M. A., O’Brien, R., Ferrucci, L., &amp; Resnick, S. M. (2013). Changes in brain function occur years before the onset of cognitive impairment. <emphasis effect="italics">The Journal of Neuroscience</emphasis>, <emphasis effect="italics">33</emphasis>(46), 18008–18014. https://doi.org/10.1523/jneurosci.1402-13.2013</para>
+    <para id="para-00054">Bennett, D. A., Buchman, A. S., Boyle, P. A., Barnes, L. L., Wilson, R. S., &amp; Schneider, J. A. (2018). Religious orders study and rush memory and aging project. <emphasis effect="italics">Journal of Alzheimer’s Disease</emphasis>, <emphasis effect="italics">64</emphasis>(s1), S161–S189. https://doi.org/10.3233/jad-179939</para>
+    <para id="para-00055">Beshir, S. A., Soorya, A., Parveen, A., Goh, S. S. L., Hussain, N., &amp; Menon, V. B. (2022). Aducanumab therapy to treat Alzheimer’s disease: A narrative review. <emphasis effect="italics">International Journal of Alzheimer’s Disease</emphasis>, <emphasis effect="italics">2022</emphasis>, 1–10. https://doi.org/10.1155/2022/9343514</para>
+    <para id="para-00056">Brai, E., Hummel, T., &amp; Alberi, L. (2020). Smell, an underrated early biomarker for brain aging. <emphasis effect="italics">Frontiers in Neuroscience</emphasis>, 14, 792. https://doi.org/10.3389/fnins.2020.00792</para>
+    <para id="para-00057">Calabrese, V., Giordano, J., Signorile, A., Ontario, M. L., Castorina, S., De Pasquale, C., Eckert, G. P., &amp; Calabrese, E. J. (2016). Major pathogenic mechanisms in vascular dementia: Roles of cellular stress response and hormesis in neuroprotection. <emphasis effect="italics">Journal of Neuroscience Research</emphasis>, <emphasis effect="italics">94</emphasis>(12), 1588–1603. https://doi.org/10.1002/jnr.23925</para>
+    <para id="para-00058">Chan, M. Y., Park, D. C., Savalia, N. K., Petersen, S. E., &amp; Wig, G. S. (2014). Decreased segregation of brain systems across the healthy adult lifespan. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">111</emphasis>(46). https://doi.org/10.1073/pnas.1415122111</para>
+    <para id="para-00059">Choudhury, N., Chen, L., Al-Harthi, L., &amp; Hu, X. T. (2023). Hyperactivity of medial prefrontal cortex pyramidal neurons occurs in a mouse model of early-stage Alzheimer’s disease without β-amyloid accumulation. <emphasis effect="italics">Frontiers in Pharmacology, 14</emphasis>, 1194869. https://doi.org/10.3389/fphar.2023.1194869</para>
+    <para id="para-00060">Cipriani, G., Lucetti, C., Carlesi, C., Danti, S., &amp; Nuti, A. (2015). Sundown syndrome and dementia. <emphasis effect="italics">European Geriatric Medicine</emphasis>, <emphasis effect="italics">6</emphasis>(4), 375–380. https://doi.org/10.1016/j.eurger.2015.03.006</para>
+    <para id="para-00061">Etgen, T., Sander, D., Bickel, H., &amp; Förstl, H. (2011). Mild cognitive impairment and dementia: The importance of modifiable risk factors. <emphasis effect="italics">Deutsches Ärzteblatt International</emphasis>, <emphasis effect="italics">108</emphasis>(44), 743.</para>
+    <para id="para-00062">Folstein, M. F., Folstein, S. E., &amp; McHugh, P. R. (1975). “Mini-mental state”: A practical method for grading the cognitive state of patients for the clinician. <emphasis effect="italics">Journal of Psychiatric Research, 12</emphasis>(3), 189–198. https://doi.org/10.1016/0022-3956(75)90026-6</para>
+    <para id="para-00063">Ganz, A. B., Beker, N., Hulsman, M., Sikkes, S. A., Bank, N. N. B., Scheltens, P., Smit, A. B., Rozemüller, A. J., Hoozemans, J. J. M., &amp; Holstege, H. (2018). Neuropathology and cognitive performance in self-reported cognitively healthy centenarians. <emphasis effect="italics">Acta Neuropathologica Communications</emphasis>, <emphasis effect="italics">6</emphasis>(1). https://doi.org/10.1186/s40478-018-0558-5</para>
+    <para id="para-00064">Geiger, D. (2021). <emphasis effect="italics">Know the signs of stroke—BE FAST</emphasis>. Duke Health. https://www.dukehealth.org/blog/know-signs-of-stroke-be-fast</para>
+    <para id="para-00065">Guillozet, A. L., Weintraub, S., Mash, D. C., &amp; Mesulam, M. (2003). Neurofibrillary tangles, amyloid, and memory in aging and mild cognitive impairment. <emphasis effect="italics">Archives of Neurology</emphasis>, <emphasis effect="italics">60</emphasis>(5), 729. https://doi.org/10.1001/archneur.60.5.729</para>
+    <para id="para-00066">Huang, J. (2023, August 29). <emphasis effect="italics">Dementia with Lewy bodies and Parkinson disease dementia</emphasis>. Merck Manuals Professional Edition. https://www.merckmanuals.com/professional/neurologic-disorders/delirium-and-dementia/dementia-with-lewy-bodies-and-parkinson-disease-dementia</para>
+    <para id="para-00067">Jack, C. R., Jr, Andrews, J. S., Beach, T. G., Buracchio, T., Dunn, B., Graf, A., Hansson, O., Ho, C., Jagust, W., McDade, E., Molineuvo, J. L., Okonkwo, O. C., Pani, L., Rafii, M. S., Scheltens, P., Siemers, E., Snyder, H. M., Sperling, R., Teunissen, C. E., &amp; Carrillo, M. C. (2024). Revised criteria for diagnosis and staging of Alzheimer’s disease: Alzheimer’s Association Workgroup. <emphasis effect="italics">Alzheimer’s &amp; Dementia,</emphasis> 1–27. https://doi.org/10.1002/alz.13859</para>
+    <para id="para-00068">Jack, C. R., Jr, Bennett, D. A., Blennow, K., Carrillo, M. C., Dunn, B., Haeberlein, S. B., Holtzman, D. M., Jagust, W., Jessen, F., Karlawish, J., Liu, E., Molinuevo, J. L., Montine, T., Phelps, C., Rankin, K. P., Rowe, C. C., Scheltens, P., Siemers, E., Snyder, H. M., &amp; Sperling, R. (2018). NIA-AA research framework: Toward a biological definition of Alzheimer’s disease. <emphasis effect="italics">Alzheimer’s &amp; Dementia: The Journal of the Alzheimer’s Association, 14</emphasis>(4), 535–562. https://doi.org/10.1016/j.jalz.2018.02.018</para>
+    <para id="para-00069">Janoutová, J., Machaczka, O., Zatloukalová, A., &amp; Janout, V. (2022). Is Alzheimer’s disease a type 3 diabetes? A review. <emphasis effect="italics">Central European Journal of Public Health, 30</emphasis>(3), 139–143. https://doi.org/10.21101/cejph.a7238</para>
+    <para id="para-00070">Kalaria, R. N., Akinyemi, R., &amp; Ihara, M. (2016). Stroke injury, cognitive impairment and vascular dementia. <emphasis effect="italics">Biochimica Et Biophysica Acta: Molecular Basis of Disease</emphasis>, <emphasis effect="italics">1862</emphasis>(5), 915–925. https://doi.org/10.1016/j.bbadis.2016.01.015</para>
+    <para id="para-00071">Karran, E., &amp; De Strooper, B. (2022). The amyloid hypothesis in Alzheimer disease: New insights from new therapeutics. <emphasis effect="italics">Nature Reviews Drug Discovery</emphasis>, <emphasis effect="italics">21</emphasis>(4), 306–318. https://doi.org/10.1038/s41573-022-00391-w</para>
+    <para id="para-00072">Koronyo, Y., Rentsendorj, A., Mirzaei, N., Regis, G. C., Sheyn, J., Shi, H., Barrón, E., Cook-Wiens, G., Rodriguez, A., Medeiros, R., Paulo, J. A., Gupta, V. B., Kramerov, A. A., Ljubimov, A. V., Van Eyk, J. E., Graham, S., Gupta, V. K., Ringman, J. M., Hinton, D. R., . . . Koronyo-Hamaoui, M. (2023). Retinal pathological features and proteome signatures of Alzheimer’s disease. <emphasis effect="italics">Acta Neuropathologica</emphasis>, <emphasis effect="italics">145</emphasis>(4), 409–438. https://doi.org/10.1007/s00401-023-02548-2</para>
+    <para id="para-00073">Kurlowicz, L., &amp; Wallace, M. (1999). The mini-mental state examination (MMSE). <emphasis effect="italics">Journal of Gerontological Nursing</emphasis>, <emphasis effect="italics">25</emphasis>(5), 8–9.</para>
+    <para id="para-00074">Lethin, C., Hallberg, I. R., Renom-Guiteras, A., Verbeek, H., Saks, K., Stolt, M., Zabalegui, A., Soto-Martin, M., &amp; Nilsson, C. (2019). Prevalence of dementia diagnoses not otherwise specified in eight European countries: a cross-sectional cohort study. <emphasis effect="italics">BMC Geriatrics</emphasis>, <emphasis effect="italics">19</emphasis>(1). https://doi.org/10.1186/s12877-019-1174-3</para>
+    <para id="para-00075">Manly, J. J., Jones, R. N., Langa, K. M., Ryan, L. H., Levine, D. A., McCammon, R. J., Heeringa, S. G., &amp; Weir, D. R. (2022). Estimating the prevalence of dementia and mild cognitive impairment in the US. <emphasis effect="italics">JAMA Neurology</emphasis>, <emphasis effect="italics">79</emphasis>(12), 1242. https://doi.org/10.1001/jamaneurol.2022.3543</para>
+    <para id="para-00076">Mi, Y., Ma, X., Du, S., Du, C., Li, X., Tan, H., Zhang, J., Zhang, Q., Shi, W., Zhang, G., &amp; Tian, Y. (2023). Olfactory function changes and the predictive performance of the Chinese Smell Identification Test in patients with mild cognitive impairment and Alzheimer’s disease. <emphasis effect="italics">Frontiers in Aging Neuroscience, 15</emphasis>, 1068708. https://doi.org/10.3389/fnagi.2023.1068708</para>
+    <para id="para-00077">National Heart, Lung, and Blood Institute (2023). <emphasis effect="italics">Stroke—Symptoms</emphasis>. https://www.nhlbi.nih.gov/health/stroke/symptoms</para>
+    <para id="para-00078">National Institute on Aging. (2017). What happens to the brain in Alzheimer’s disease? https://www.nia.nih.gov/health/what-happens-brain-alzheimers-disease</para>
+    <para id="para-00079">National Institute on Aging. (2021). What is Lewy body dementia? Causes, symptoms, and treatments. https://www.nia.nih.gov/health/what-lewy-body-dementia-causes-symptoms-and-treatments</para>
+    <para id="para-00080">National Institute on Aging. (2022). What is dementia? Symptoms, types, and diagnosis. https://www.nia.nih.gov/health/what-is-dementia#signs</para>
+    <para id="para-00081">National Institute on Aging. (2023). Alzheimer’s disease genetics fact sheet. https://www.nia.nih.gov/health/alzheimers-disease-genetics-fact-sheet</para>
+    <para id="para-00082">Nianogo, R. A., Rosenwohl-Mack, A., Yaffe, K., Carrasco, A., Hoffmann, C. M., &amp; Barnes, D. E. (2022). Risk factors associated with Alzheimer disease and related dementias by sex and race and ethnicity in the US. <emphasis effect="italics">JAMA Neurology, 79</emphasis>(6), 584–591. https://doi.org/10.1001/jamaneurol.2022.0976</para>
+    <para id="para-00083">Orad, R. I., &amp; Shiner, T. (2022). Differentiating dementia with Lewy bodies from Alzheimer’s disease and Parkinson’s disease dementia: An update on imaging modalities. <emphasis effect="italics">Journal of Neurology, 269</emphasis>(2), 639–653. https://doi.org/10.1007/s00415-021-10402-2</para>
+    <para id="para-00084">Park, H. Y., Park, J. W., Song, H. J., &amp; Sohn, H. S. (2017). The association between polypharmacy and dementia: A nested case-control study based on a 12-year longitudinal cohort database in South Korea. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">12</emphasis>(1), e0169463. https://doi.org/10.1371/journal.pone.0169463</para>
+    <para id="para-00085">Rabinovici, G. D. (2019). Late-onset Alzheimer disease. <emphasis effect="italics">CONTINUUM: Lifelong Learning in Neurology</emphasis>, <emphasis effect="italics">25</emphasis>(1), 14–33. https://doi.org/10.1212/con.0000000000000700</para>
+    <para id="para-00086">Raskin, J., Cummings, J., Hardy, J., Schuh, K., &amp; Dean, R. A. (2015). Neurobiology of Alzheimer’s disease: Integrated molecular, physiological, anatomical, biomarker, and cognitive dimensions. <emphasis effect="italics">Current Alzheimer Research, 12</emphasis>(8), 712–722. https://doi.org/10.2174/1567205012666150701103107</para>
+    <para id="para-00087">Saver, J. L., Fonarow, G. C., Smith, E. E., Reeves, M. J., Grau-Sepulveda, M. V., Pan, W., Olson, D. M., Hernandez, A. F., Peterson, E. D., &amp; Schwamm, L. H. (2013). Time to treatment with intravenous tissue plasminogen activator and outcome from acute ischemic stroke. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">309</emphasis>(23), 2480. https://doi.org/10.1001/jama.2013.6959</para>
+    <para id="para-00088">Scheltens, P., De Strooper, B., Kivipelto, M., Holstege, H., Chételat, G., Teunissen, C. E., Cummings, J. L., &amp; van der Flier, W. M. (2021). Alzheimer’s disease. <emphasis effect="italics">The Lancet</emphasis>, <emphasis effect="italics">397</emphasis>(10284), 1577–1590. https://doi.org/10.1016/s0140-6736(20)32205-4</para>
+    <para id="para-00089">Schindler, S. E., Bollinger, J. G., Ovod, V., Mawuenyega, K. G., Li, Y., Gordon, B. A., Holtzman, D. M., Morris, J. C., Benzinger, T. L. S., Xiong, C., Fagan, A. M., &amp; Bateman, R. J. (2019). High-precision plasma β-amyloid 42/40 predicts current and future brain amyloidosis. <emphasis effect="italics">Neurology, 93</emphasis>(17), e1647–e1659. https://doi.org/10.1212/WNL.0000000000008081</para>
+    <para id="para-00090">Srivastava, S., Ahmad, R., &amp; Khare, S. K. (2021). Alzheimer’s disease and its treatment by different approaches: A review. <emphasis effect="italics">European Journal of Medicinal Chemistry</emphasis>, <emphasis effect="italics">216</emphasis>, 113320. https://doi.org/10.1016/j.ejmech.2021.113320</para>
+    <para id="para-00091">Tahami Monfared, A. A., Byrnes, M. J., White, L. A., &amp; Zhang, Q. (2022). Alzheimer’s disease: Epidemiology and clinical progression. <emphasis effect="italics">Neurology and Therapy, 11</emphasis>(2), 553–569. https://doi.org/10.1007/s40120-022-00338-8</para>
+    <para id="para-00092">Wang, Y. (2023). An insider’s perspective on FDA approval of aducanumab. <emphasis effect="italics">Alzheimer’s &amp; Dementia: Translational Research &amp; Clinical Interventions</emphasis>, <emphasis effect="italics">9</emphasis>(2). https://doi.org/10.1002/trc2.12382</para>
+    <para id="para-00093">Wilson, R. S., Arnold, S. E., Schneider, J. A., Boyle, P. A., Buchman, A. S., &amp; Bennett, D. A. (2009). Olfactory impairment in presymptomatic Alzheimer’s disease. <emphasis effect="italics">Annals of the New York Academy of Sciences</emphasis>, <emphasis effect="italics">1170</emphasis>(1), 730–735. https://doi.org/10.1111/j.1749-6632.2009.04013</para>
+    <para id="para-00094">Woloshin, S., &amp; Kesselheim, A. S. (2022). What to know about the Alzheimer drug Aducanumab (Aduhelm). <emphasis effect="italics">JAMA Internal Medicine, 182</emphasis>(8), 892. https://doi.org/10.1001/jamainternmed.2022.1039</para>
+    <para id="para-00095">Zhao, N., Liu, C. C., Van Ingelgom, A. J., Martens, Y. A., Linares, C., Knight, J. A., Painter, M. M., Sullivan, P. M., &amp; Bu, G. (2017). Apolipoprotein E4 impairs neuronal insulin signaling by trapping insulin receptor in the endosomes. <emphasis effect="italics">Neuron, 96</emphasis>(1), 115–129.e5. https://doi.org/10.1016/j.neuron.2017.09.003</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>Alzheimer’s disease</term>
+    <meaning>most common form of dementia; progressive, fatal, and characterized by the presence of amyloid plaques and neurofibrillary tangles in the brain and affecting memory before limiting other cognitive abilities and eventually motor skills</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>dementia</term>
+    <meaning>wide variety of conditions characterized by damage to the brain, including cell death that interferes with daily functioning and ability to live independently</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>hemorrhagic stroke</term>
+    <meaning>event in which a blood vessel in the brain ruptures, resulting in bleeding that deprives an area of the brain of sufficient blood flow and oxygen that can be fatal</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>hypoxia</term>
+    <meaning>condition in which lack of oxygen in body tissue causes damage</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>ischemic stroke</term>
+    <meaning>event in which a blood clot prevents an area of the brain from receiving enough blood or oxygen</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>mild cognitive impairment (MCI)</term>
+    <meaning>cognitive decline that is more severe than normative but below the threshold for a dementia-related diagnosis</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>sundowning</term>
+    <meaning>tendency for dementia symptoms to worsen in the evening</meaning>
+    </definition>
+    </glossary>
+    </document>

@@ -5,5 +5,469 @@
     <md:uuid>edf08bd7-d835-49c0-ad4f-9407d926870e</md:uuid>
   </metadata>
   <content>
-  </content>
-</document>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Understand reasons behind variation in life expectancy</item>
+    <item>Explain the major theories about the <term class="no-emphasis" id="term-00001">physical aging</term> process</item>
+    <item>Describe the physical changes that occur in late adulthood</item>
+    <item>Identify key changes in the <term class="no-emphasis" id="term-00002">brain</term> during <term class="no-emphasis" id="term-00003">late adulthood</term></item>
+    </list>
+    </section>
+    <para id="para-00002">Myra has reached a significant milestone, her ninety-first birthday. She celebrated it with her children, who are in their late sixties, her middle-aged grandchildren, her great-grandchildren (who range from adolescents to emerging adults), and one great-great-grandchild (a particularly rambunctious toddler). Myra’s family is a snapshot of most of the stages of the human lifespan. As her loved ones pore over family photos and videos, they smile and joke about the physical changes they see in each other today compared to the images from twenty or forty years ago.</para>
+    <para id="para-00003">This section on physical aging covers the ways the many different systems in our bodies physically change with time, including muscular, skeletal, sensory, nervous, respiratory, and cardiovascular systems. You’ll consider research on life expectancy as well as theories about how and why people experience changes in later life.</para>
+    <section id="sect-00002">
+    <title>Life Expectancy</title>
+    <para id="para-00004">Human beings know that life does not last forever (<link target-id="fig-00001"/>). Having passed through infancy, childhood, adolescence, and emerging and middle adulthood, everyone will experience late adulthood with declines in physical ability and health, eventually resulting in death. These changes may sound stark, but there are many reasons for optimism.</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="(a) A photo shows Don Celino Villanueva. (b) A photo shows Tekla Juniewicz. (c) A photo shows Henry Allingham.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_Centenar.jpg"/>
+    </media>
+    <caption>Some individuals live for well over 100 years. Among them have been (from left to right): (a) Don Celino Villanueva of Chile, who lived to be 121 years old; (b) Tekla Juniewicz of Poland, who died at 116 years of age; and (c) Henry Allingham of the United Kingdom, who was 114 years old. (credit a: modification of work “28-12-2011 Don Celino Villanueva (cropped)” by tu Foto con el Presidente/Wikimedia Commons, CC BY 2.0; credit b: modification of work “Spotkanie z najstarszą Polką (48440088871) (cropped)” by Kancelaria Premiera/Wikimedia Commons, CC0 1.0; credit c: modification of work “Henry Allingham in June 2006” by Simon Hughes/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00005">Research studying human longevity or <term class="no-emphasis" id="term-00004">life expectancy</term>—the average age to which members of a species or subpopulation within a species will live—has revealed consistent positive trends over a long period of time. In fact, average life expectancy has been steadily increasing worldwide for the past 100 years, from 34.1 years in 1913 to 71.0 years today (Dattani et al., 2023). This dramatic jump is likely due to decreases in infant mortality, improved living conditions, improvements in both quality of and access to health care, preventive measures such as vaccinations, and improved knowledge of health and nutrition. The gap in life expectancy between wealthy regions, which have more resources and more access to health care, and impoverished areas of the world has also decreased over time, although there is still variability. Australia/Oceania has the highest life expectancy of 79.4 years, and Africa has the lowest of 61.7 years (Dattani et al., 2023).</para>
+    <para id="para-00006">In the United States, average life expectancy is around seventy-nine years, and women live six years longer than men on average. (This tendency for women to live longer than men is also observed globally.) A February 2020 report from the U.S. Census Bureau projected that life expectancy will likely continue to increase for the next forty years, surpassing eighty-five years by the year 2060 (Medina et al., 2020) (<link target-id="fig-00002"/>). However, while projections are optimistic, future improvements in life expectancy are not guaranteed, and a variety of factors could influence them. For example, the COVID-19 pandemic was responsible for a global decline in life expectancy, ranging from 1 to 2.5 years (Arias et al., 2022; Dattani et al., 2023). Rising rates of obesity are also associated with lowered life expectancy in both developed and developing nations (Bansal &amp; Jin, 2023).<footnote id="foot-00001">This study (Bansal &amp; Jin, 2023) uses the terms “developed” and “developing.”</footnote></para>
+    <figure id="fig-00002">
+    <media alt="(a) A graph shows U.S. population life expectancy steadily increasing from 1960 to 2019 and projected to increase from 2020 to 2060. (b) A graph shows U.S. life expectancy increasing from 2000 to 2019, then decreasing from 2020 to 2021.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_LifeExMF.jpg"/>
+    </media>
+    <caption>(a) U.S. Census data prior to 2020 show increases in average life expectancy in the United States since 1960 and projections for continued increases until at least 2060. (b) More recent data show a decline in life expectancy, largely believed to be due to the COVID-19 pandemic. (data source a: U.S. Census Bureau; data source b: Center for Disease Control and Prevention; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00007">We also find variations in life expectancy within regions and populations in the same country. For example, in the United States, the richest individuals tend to live more than fourteen years longer than the poorest (Chetty et al., 2016), and differences based on race and ethnicity exist (<link target-id="fig-00003"/>). Socioeconomic status accounts for most of the observed racial and ethnic differences in longevity (For the Health ABC Study, 2012); group differences in financial stability, housing and neighborhood factors, education, community support and safety, health insurance, and access to healthy food and high-quality health care all likely contribute (Kaiser Family Foundation, 2023).</para>
+    <para id="para-00008">Some trends in the data are more difficult to interpret, however. In the United States, while Black residents have the lowest life expectancy at birth, this gap tends to narrow over the lifespan. After surviving to age eighty years, Black Americans tend to live longer than White Americans. This suggests that although Black Americans are disadvantaged in terms of life expectancy for much of the life span, those who reach advanced age may be more resilient than most. Hispanic Americans, in contrast, tend to have longer life expectancies across the entire life span (Arias &amp; Xu, 2020) (<link target-id="fig-00003"/>). Understanding these group differences requires analyzing more factors than just socioeconomic status, for instance, lifestyle differences and genetic risk. Collecting data about people of Asian and Native American heritage in these analyses, a process that has begun only in recent years, would provide a more thorough understanding of life expectancy.</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="A graph shows U.S. life expectancy by race and ethnicity from 2006 to 2018.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_LifeExRace.jpg"/>
+    </media>
+    <caption>Average lifespans in the United States follow the same general trends, but overall expectancy varies by race and ethnicity. (data source: KFF; attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00009">Use the <link url="https://openstax.org/r/104LifespanCalc">Lifespan Calculator</link> to predict your life expectancy.</para>
+    </note>
+    </section>
+    <section id="sect-00003">
+    <title>Types and Theories of Aging</title>
+    <para id="para-00010">Researchers have identified different types of aging based on whether the process is typical or accelerated by disease or environmental influences. They have also developed several theories about what could extend the lifespan and some corresponding behaviors. The process of aging is complicated, so it is unlikely any single theory will describe all its aspects.</para>
+    <section id="sect-00004">
+    <title>Types of Aging</title>
+    <para id="para-00011">The most fundamental type of aging is <term id="term-00005">primary aging</term>, the natural process that has not been accelerated or worsened as a result of disease. Among its characteristics are subtle declines in processing speed and working memory and weakening of the skeletal and muscular systems (Birren &amp; Cunningham, 1985; Othman et al., 2022).</para>
+    <para id="para-00012">Interventions in primary aging would slow the aging process, but little progress to achieve this has been made. Most interventions have instead focused on preventive measures to improve health, allowing individuals to remain in primary aging while delaying issues that would lead to secondary or tertiary aging (Barnes et al., 2021; Cartee et al., 2016; Cornelissen &amp; Otsuka, 2017).</para>
+    <para id="para-00013">Next, <term id="term-00006">secondary aging</term> is accelerated and worsened by disease processes, lifestyle choices, or environmental factors (Birren &amp; Cunningham, 1985; Othman et al., 2022). Rapid cognitive decline as a result of any form of dementia is an example of secondary aging, as are health problems resulting from a poor diet, a sedentary lifestyle, exposure to pollutants, and inadequate access to health care and other resources. This type of aging has been the largest focus of interventional efforts, including medical treatments to slow or reverse disease processes, lifestyle interventions to improve health, and social programs such as Medicaid/Medicare to open access to health-care resources.</para>
+    <para id="para-00014">Finally, <term id="term-00007">tertiary aging</term> describes the more rapid and general declines that may occur in the months and years prior to death (Birren &amp; Cunningham, 1985; Othman et al., 2022). Examples include loss of mobility and <term id="term-00008">terminal decline</term>, the accelerated and nonnormative declines in cognitive ability that can occur one to five years before death (Hülür et al., 2016; Wilson et al., 2020).</para>
+    </section>
+    <section id="sect-00005">
+    <title>Hormonal Stress Theory</title>
+    <para id="para-00015">Some theories and research on aging focus on the diseases and health problems that become more common in later years. One such theory, the <term id="term-00009">hormonal stress theory of aging</term> (also called neuroendocrine theory) (Sapolsky, 1992), proposes that as people get older, <term class="no-emphasis" id="term-00010">stress</term> hormones such as cortisol tend to stay elevated longer after a stressful response than they do at younger ages (<link target-id="fig-00004"/>). These hormones have been correlated with hypertension, diabetes, cognitive decline, and cardiovascular disease (Novais et al., 2017; Thayer et al., 2021; Yiallouris et al., 2019). It’s therefore plausible that age-related increases in exposure to stress hormones could contribute to many of the health problems typically associated with age.</para>
+    <figure id="fig-00004" class="scaled-down-30">
+    <media alt="Graph of hypothalamic-pituitary-adrenal (HPA) resilience shows as age increases, stress hormones stay elevated for a longer period of time (response and recovery) following a challenge stimulus.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_Levels.jpg"/>
+    </media>
+    <caption>As age increases, stress hormones stay elevated for longer periods of time following a stressful response. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00016">While stress hormones have short-term benefits, such as preparing the body for fight-or flight-responses, research has shown that chronic exposure can have a direct negative effect on the health of many bodily systems. For example, <term class="no-emphasis" id="term-00011">cortisol</term> alone has been linked to a variety of health issues, including depression, obesity, fatigue, cardiovascular health, and inflammation. These hormones may also lead to unhealthy behavioral responses, such as losing sleep or overeating during stressful times (O’Connor et al., 2021). Having a history of adverse childhood experiences is also associated with increased risk of negative health outcomes in adulthood, including cardiovascular disease, dementia, and depression (Dagnino et al., 2020; Godoy et al., 2021; Merrick et al., 2019; Tani et al., 2020).</para>
+    </section>
+    <section id="sect-00006">
+    <title>Free Radical Theory</title>
+    <para id="para-00017">The <term id="term-00012">free radical theory</term> focuses on <emphasis effect="italics">free radicals</emphasis>, unstable oxygen molecules that are a by-product of our metabolizing the food we eat. Because they try to bond with other atoms or molecules to become stable, free radicals can cause small amounts of physical damage to tissues or cells as they attempt to stabilize (Ziada et al., 2020).</para>
+    <para id="para-00018">The free radical theory suggests that this damage accumulates as people age, eventually resulting in many of the health problems associated with aging. Some believe we may be able to minimize free radical damage by increasing our intake of antioxidants, substances naturally produced in the body and also common in many fruits and vegetables. Although research supports the free radical theory, research on antioxidants so far is less conclusive (Aversa et al., 2016; Jomova et al., 2023; Ziada et al., 2020).</para>
+    </section>
+    <section id="sect-00007">
+    <title>Cellular Clock Theory</title>
+    <para id="para-00019">The <term id="term-00013">cellular clock theory</term> suggests that our cells can divide to reproduce themselves only a limited number of times. As they reach this number, the body is no longer able to replace old or damaged cells with new ones, theoretically resulting in many of the diseases and declines associated with aging. This idea was first developed by Leonard Hayflick, who discovered that cells could typically divide around forty to sixty times before cell division stops, a constraint sometimes referred to as “the <term class="no-emphasis" id="term-00014">Hayflick limit</term>.” Hayflick suggested that some mechanism in the cell operated as a clock that eventually stopped future divisions (Hayflick, 1977). The idea has led many researchers to conclude that, unless lifespan extending interventions are developed, the maximum human lifespan is around 122 years (Blagosklonny, 2021).</para>
+    <para id="para-00020">What sort of mechanism would act as such a clock? Eventually, a potential answer was found in telomeres. A <term id="term-00015">telomere</term> is the strand of DNA on the tip of each of our chromosomes. Telomeres protect our DNA, rather like the little caps that keep shoelaces from unraveling. However, they become shorter each time a cell divides, eventually becoming too short to serve their protective role, so the cell’s ability to divide ends (Shay &amp; Wright, 2000).</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00021">Watch this <link url="https://openstax.org/r/104Telomeres">brief video about telomeres</link> to learn more about how and why they work.</para>
+    </note>
+    <para id="para-00022">One compelling bit of evidence supporting the cellular clock theory exists in a rare genetic condition called <term class="no-emphasis" id="term-00016">progeria</term>, affecting around one in four million individuals (<link target-id="fig-00005"/>). Progeria causes young children to develop many health problems and features typically associated with age, such as hair loss, joint problems, heart problems, fatigue, and shortness of breath. Their skin and facial features also resemble those of older individuals, and their life expectancy is typically twelve to thirteen years (Hennekam, 2006). One of the characteristics of this condition is shorter-than-typical telomeres (Allsopp et al., 1992; Decker et al., 2009), providing strong evidence that telomeres play a role in the normal physical aging process.</para>
+    <figure id="fig-00005" class="scaled-down-30">
+    <media alt="Illustration identifies the physical symptoms of progeria: alopecia, short stature, large head circumference, lack of eyebrows and eyelashes, small jaw and crowded teeth, shriveled chin, premature heart diseases, swollen and stiff joints, narrow chest, age spots, dry and thin skin.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_Progeria.jpg"/>
+    </media>
+    <caption>In addition to displaying many typical signs of aging, such as stiff joints, children with progeria may also show other physical symptoms, such as a small jaw and a short stature. (credit: placeholder)</caption>
+    </figure>
+    </section>
+    <section id="sect-00008">
+    <title>Wear and Tear Theory</title>
+    <para id="para-00023">Another theory takes a more global and environmental look at physical aging. The <term id="term-00017">wear and tear theory</term> suggests that the use of our bodies results in unrepaired damage that accumulates over time, resulting in aging. However, the idea does not account for the body’s ability to repair and fix damage throughout life (Lipsky &amp; King, 2015), and research does not provide strong support for it. In fact, more active humans (and other animals) generally tend to be healthier and live longer, suggesting that the more we use our bodies, the longer they last, although nobody lives forever (Mitteldorf, 2010; Sattaur et al., 2020).</para>
+    <para id="para-00024">Still, some research has suggested that although wear and tear may not explain the aging process overall, it could explain some age-related problems. For example, athletes who engage in intense levels of activity might be at greater risk for joint problems later in life (Davies et al., 2019). Thus, it’s plausible that joint problems in later life could at least partly be predicted by extreme use and damage, consistent with the wear and tear theory.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Genetic Variability</title>
+    <para id="para-00025">Other research has focused on the idea that our genes may play a role in our physical and biological aging ([link]Figure 15_01_Age70[/link]). Part of this idea is based on our knowledge about diseases that have a genetic component, such as breast cancer, coronary artery disease, and Huntingon’s disease. Inheriting a genetic tendency for one of these conditions can affect a person’s life expectancy and how well they maintain functioning with age. However, many research studies suggest that just the longevity of your close relatives can be predictive of your own life expectancy. One such study demonstrated, in a very large sample of over 20,000 individuals, that having close relatives who survived to the top tenth percentile in longevity was strongly associated with living longer. This relationship did not exist for relatives who were not genetically related, such as spouses and in-laws, suggesting the relationship is largely <term class="no-emphasis" id="term-00018">genetic</term> and not due to shared environments and lifestyles (van den Berg et al., 2019). Some evidence exists that variations in several specific genes, such as the <emphasis effect="italics">APOE</emphasis> gene, are associated with longevity (MedlinePlus, 2022); inheriting these variations may explain the results described earlier. <link target-id="table-00001"/> summarizes the possible causes of biological aging described in this section.</para>
+    <table id="table-00001" summary=" ">
+    <title>Possible Causes of Biological Aging</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Possible cause</entry>
+    <entry valign="top" align="left">Description</entry>
+    <entry valign="top" align="left">Overview</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Hormonal stress</entry>
+    <entry valign="top" align="left">Levels of hormones such as cortisol stay elevated longer with increasing age, resulting in greater exposure as we get older.</entry>
+    <entry valign="top" align="left">This theory identifies factors that contribute to life-threatening conditions such as heart failure in later life.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Free radicals</entry>
+    <entry valign="top" align="left">Unstable molecules called free radicals cause damage that accumulates over the lifespan, resulting in many problems associated with aging.</entry>
+    <entry valign="top" align="left">Some research suggests that free radical damage could be a factor in some age-related declines.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cellular clock</entry>
+    <entry valign="top" align="left">Cells are limited in their ability to divide due to shrinkage of protective telomeres over time. When they can no longer replace themselves, age-related declines result.</entry>
+    <entry valign="top" align="left">This theory has a great deal of support, including conditions such as progeria, in which short telomeres at birth result in a short life expectancy and the presence in childhood of many health problems typically seen in later life.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Wear and tear</entry>
+    <entry valign="top" align="left">The accumulation of unrepaired damage to the body over the lifespan results in the body eventually wearing out.</entry>
+    <entry valign="top" align="left">The body repairs most damage due to injury or use. The theory may, however, effectively predict late-age joint problems from extreme use and damage earlier in life.</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Genetic variability</entry>
+    <entry valign="top" align="left">Certain alleles inherited from relatives may affect how long we live.</entry>
+    <entry valign="top" align="left">Some conditions associated with shorter life expectancy, like coronary artery disease, may be inherited. Also, there may be specific genes associated with longevity.</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Changes in the Body</title>
+    <para id="para-00026">So far, you’ve learned about theories attempting to understand and describe the physical aging process. Now, you’ll learn about the physical changes of aging.</para>
+    <section id="sect-00011">
+    <title>Musculoskeletal Changes and Mobility</title>
+    <para id="para-00027">Our skeletal system is maintained by processes that create new bone tissue while removing old, maintaining bone density for most of the life span with the help of the sex hormones <term class="no-emphasis" id="term-00019">testosterone</term> and <term class="no-emphasis" id="term-00020">estrogen</term>. As levels of these hormones decline with age, however, so does our ability to maintain bone density (Chan &amp; Duque, 2002; Dines &amp; Garovic, 2024). This is especially problematic for women, who experience a large drop in estrogen following menopause (Bonnick, 2006). A condition characterized by extensive loss of bone mass and weakening of the bones, called <term id="term-00021">osteoporosis</term>, is therefore much more common in women than men. Among individuals over age sixty-five years, 27.1 percent of women have osteoporosis compared to 5.7 percent of men (Sarafrazi et al., 2021). Research suggests that the best ways to prevent osteoporosis are to eat a healthy diet with plenty of calcium, vitamin D, and protein; to exercise regularly (<link target-id="fig-00006"/>), especially doing weight-bearing exercise; and to limit smoking and alcohol consumption (National Institute on Aging, 2022).</para>
+    <figure id="fig-00006" class="scaled-down-30">
+    <media alt="A group of older adults are practicing tai chi outside.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_TaiChi.jpg"/>
+    </media>
+    <caption>In addition to a healthy diet and lifestyle, exercise can improve bone health and muscle mass and decrease the risk of osteoporosis in later life. These adults are practicing tai chi. (credit: modification of work “‘TAI-CHI’ exercises performed early mornings in Malacca” by Rudolph A. Furtado/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00028">While osteoporosis is a loss of <term class="no-emphasis" id="term-00022">bone mass</term>, <term id="term-00023">sarcopenia</term> is a loss of <term class="no-emphasis" id="term-00024">muscle mass</term> that also occurs later in life. Generally, adults can expect to lose around 3 to 8 percent of muscle mass per decade after age thirty years. While this gradual decline is not very noticeable, it does accelerate after age sixty years (Volpi et al., 2004). Getting plenty of exercise including aerobic exercise and resistance training, consuming adequate amounts of protein, and maintaining adequate caloric intake have all been associated with decreasing age-related muscle loss. Research has shown that weight-training programs significantly increased strength and muscle power, even among individuals ages ninety years and older (Cadore et al., 2014). Other research has demonstrated similar benefits for yoga, which has the added benefit of increasing flexibility (Green et al., 2019; Jeter et al., 2014). Research such as this suggests that while muscle loss is normative in later years, it is also reversible, and even the oldest individuals can gain strength and muscle with intentional efforts.</para>
+    <para id="para-00029">The loss of both muscle and bone mass can be a problematic combination. Weaker bones and muscles can hamper the ability to walk and increase the chance of falling. With less muscle protecting weaker bones, falls can often result in fractures and other serious injuries (Colón et al., 2018). Additionally, weakened bones can actually break and cause a fall (Hamdy, 2017). An older adult may need to be inactive for many weeks while a broken bone heals, but inactivity can accelerate losses in both muscle and bone mass, making it more difficult to regain mobility after recovery. Fortunately, weight-training and yoga interventions, such as the ones described earlier, have been found to improve balance and reduce the risk of falling in addition to increasing muscle and bone mass and flexibility (Cadore et al., 2014; Green et al., 2019; Jeter et al., 2014).</para>
+    </section>
+    <section id="sect-00012">
+    <title>Sensory Changes</title>
+    <para id="para-00030">Decline in our visual acuity, the extent to which we can see clearly at a distance, typically begins in middle adulthood when the lens in our eye stiffens (Sjöstrand et al., 2011). As a result, many individuals who never had vision problems eventually need prescription glasses. It is also typical to struggle to see things at close range as we age. This condition, called <term id="term-00025">presbyopia</term>, requires many middle-aged and older adults to use reading glasses.</para>
+    <para id="para-00031">Another eye condition that becomes common with age is the development of <term id="term-00026">cataract</term>s, cloudy areas on the typically clear lens of the eye caused by a buildup of protein. Cataracts result in blurry, less clear vision and impaired color vision, but they can be successfully treated with outpatient surgery (<link target-id="fig-00007"/>). The condition called <term id="term-00027">age-related macular degeneration</term> is characterized by blurring and potential loss of vision in the center of the field of vision as a result of damage to the <term id="term-00028">macula</term>, the central part of the retina. Peripheral vision is typically maintained. Much less common than cataracts, macular degeneration is also more difficult to treat and is the leading cause of severe vision loss later in life. While there is no cure, some forms can be medically treated with injections (American Optometric Association, n.d.; Ashraf &amp; Souka,2017; Hernández-Zimbrón et al., 2018).</para>
+    <figure id="fig-00007">
+    <media alt="Three versions of the same photo show how unaffected vision is clear, vision with cataracts is blurry and hazy, and vision with AMD is blurry with loss of vision in the center. An illustration shows parts of the eye affected by these conditions.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_CatAMD.jpg"/>
+    </media>
+    <caption>The top images show how vision is affected by cataracts and by macular degeneration. The bottom illustration shows the parts of the eye affected by each condition. (credit top left: modification of work “Eye disease simulation, cataract” by National Eye Institute, National Institutes of Health/Wikimedia Commons, Public Domain; credit top middle: modification of work “Eye disease simulation, normal vision” by National Eye Institute, National Institutes of Health/Wikimedia Commons, Public Domain; credit top right: modification of work “Eye disease simulation, age-related macular degeneration” by National Eye Institute, National Institutes of Health/Wikimedia Commons, Public Domain; credit bottom: attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    <para id="para-00032">Another condition common in later life, <term id="term-00029">glaucoma</term>, is typically associated with increased pressure inside the eye and resulting damage to the optic nerve, which can bring about permanent vision loss if not treated (Casson et al., 2012). This vision loss takes the form of “tunnel vision,” in which central vision is unaffected but peripheral vision is damaged (<link target-id="fig-00008"/>). While some forms are genetic, most cases of glaucoma are difficult to predict and have been associated with environmental factors such as smoking. Generally, the risk increases considerably after age sixty years, although people with a family history of glaucoma or other risk factors can experience the disorder at much earlier ages, even in childhood (Doucette et al., 2015). Treatment typically consists of medicated eye drops and, if needed, surgery (Weinreb et al., 2014).</para>
+    <para id="para-00033">Another vision-related condition common in advanced age is <term id="term-00030">dry eye syndrome</term>, which occurs when our eyes don’t produce enough tears. This is a primary aging change but can also be affected by hormonal changes, medications, and high blood pressure. Dry eye syndrome affects 20 percent of people over the age of eighty years (Sharma &amp; Hindman, 2014).</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="A photo showing unaffected, clear vision, and a photo showing how vision affected by glaucoma damages peripheral vision so only the center is clear.">
+    <!-- <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_Glaucoma.jpg"/> -->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>Caption: Glaucoma results in damaged peripheral vision. (credit: placeholder)</caption>
+    </figure>
+    <para id="para-00034">While it does not typically result in structural damage, it is still problematic because it has been associated with occasional blurry vision, pain, and sleep disturbances (Guo &amp; Akpek, 2020).</para>
+    <para id="para-00035">Our hearing also undergoes normative declines associated with age, called <term id="term-00031">presbycusis</term>. Presbycusis is not an overall decrease in the volume at which we hear sound in the environment. Instead, our ability to hear high-pitched tones is affected first (Huang &amp; Tang, 2010). Many factors, including genetics, may play a role in its severity, but one of the most common predictors of hearing loss in older age is repeated or extreme exposure to loud noise throughout life (Huang &amp; Tang, 2010). This type of <term class="no-emphasis" id="term-00032">hearing loss</term> can also occur at younger ages when there is a lot of exposure to loud noise, even among adolescents. A sample of seventeen-year-olds provided self-reported data about hearing issues, had objective hearing tests, and reported their music-listening behaviors with earbuds. Those who listened for longer durations and at louder volumes had more self-reported hearing problems and scored lower on hearing tests, even at this young age (Widén et al., 2017).</para>
+    <para id="para-00036">More recent data indicate that approximately one billion people between the ages of twelve and thirty-four years are at risk of hearing loss caused by listening to music at unsafe levels, either through devices like earbuds or at loud venues like concerts or clubs, and that this hearing loss is not only permanent but also accelerates late-life hearing loss (Dillard et al., 2022). Similar patterns are noted for people who spend a lot of time playing video games (Dillard et al., 2024). This research demonstrates not only that hearing loss can start much earlier in life but also that damage accumulates over time.</para>
+    <note class="life-hacks" id="note-00003">
+    <title>Assessing and Protecting Your Hearing</title>
+    <para id="para-00037">As you read about the damage that listening to loud music can do to your hearing, did you find yourself thinking about your own listening habits as well as other noise exposure in your own life? If you have serious concerns about your hearing, you should be tested by a professional. Still, there are ways to get a general indication about whether you have experienced any age-related hearing loss, even at a young age.</para>
+    <para id="para-00038">You can find online hearing tests that play high-pitched tones of different frequencies that represent what can typically be heard by those under twenty-four, under thirty, under forty, and under fifty years of age. If you find yourself unable to hear the pitches typically heard among your age group, it could be an indication that you have experienced more age-related hearing loss than is typical for your age. If you continue on this trajectory, you may experience more hearing loss and at a younger age than most.</para>
+    <para id="para-00039">While this type of hearing loss is permanent, you can do things to minimize future loss, such as listening to music at lower volumes, wearing earplugs when attending loud concerts or clubs, and generally reducing your exposure to loud noise.</para>
+    <para id="para-00040">You can also use technology to measure your exposure to loud noises. If you have an Apple Watch, you can download the Noise App, which measures the sound levels in your environment and notifies you if it’s getting dangerously loud. The National Institute for Occupational Safety and Health Sound Level Meter App is similar, but for iPhones. Apps for Android phones are also available. If you have an iPhone or Apple Watch and want to participate in research that helps further understanding of noise exposure and hearing, the University of Michigan Apple Hearing Study is an interesting option. You can also learn more about your own exposure to sound and how it may be affecting your health.</para>
+    </note>
+    <para id="para-00041">Gender is also correlated with hearing loss in later life. On average, men have more hearing loss than women, a result believed to be partially related to hormonal differences and possibly even differences in the functioning of the <term class="no-emphasis" id="term-00033">cochlea</term>, a snail-shaped fluid-filled chamber in the inner ear that transforms sound vibrations into electrical impulses sent to the brain for interpretation (Nolan, 2020). But this tendency varies across cultures, suggesting that it is also influenced by lifestyle and work-related differences in exposure to loud noise; men are more likely to work in noisy settings such as construction and more likely to engage in behaviors such as smoking that are associated with increased hearing loss (Cornelius et al., 2022; Jung et al., 2024; von Gablenz et al., 2020). Older adults who have avoided loud noise throughout their lives may experience only subtle declines.</para>
+    <para id="para-00042">Other age-related changes in the ear are not hearing related. A condition called <term id="term-00034">vertigo</term> causes dizziness or the sensation of moving when still. Vertigo is experienced in 30 percent of those sixty years of age and older (Fernández et al., 2015). It can have multiple causes, the most common being a buildup of calcium crystals in the ear canal. Treatments depend on the cause and severity and include medications and the Epley maneuver, a series of head movements intended to relocate the calcium deposits (Dommaraju &amp; Perera, 2016).</para>
+    <para id="para-00043">Many issues unrelated to age, such as allergies, COVID-19, colds, and the flu, can result in short-term losses of smell and taste. Still, some age-related declines in these senses do occur, and while they’re not dangerous, they can lead to problems like reduced enjoyment of food. Older adults who take less pleasure in food may eat less and can develop unintended weight loss and malnutrition (National Institute on Aging, 2020).</para>
+    <para id="para-00044">Research findings about changes in the sense of touch have been inconsistent, but our sensitivity to pain, temperature, and vibration does tend to decline with age (Wickremaratchi &amp; Llewelyn, 2006). However, older adults are much more likely to report chronic or long-lasting pain as a serious problem that limits their functioning, quality of life, and social involvement. These reports are likely due to the increased prevalence of conditions, especially muscular and skeletal issues such as arthritis and sciatica, that contribute to joint, neck, and back discomfort (Domenichiello &amp; Ramsden, 2019).</para>
+    </section>
+    <section id="sect-00013">
+    <title>Skin and Hair Changes</title>
+    <para id="para-00045">Other physical changes include the aging of the skin, which becomes thinner and drier and loses elasticity and fat, making wrinkles more common. Injuries such as bruises and cuts can appear more pronounced and take longer to heal as we get older. Age spots and even <term class="no-emphasis" id="term-00035">skin cancer</term> can also become more common.</para>
+    <para id="para-00046">Some changes are inevitable. Yet there is a great deal of diversity in the extent to which people experience age-related changes in the skin, some of which is strongly linked to environmental exposure throughout the lifespan. Skin dryness can be prevented by staying hydrated, applying moisturizers, and avoiding very dry climates, but the most influential factor in keeping your skin looking young and avoiding problems such as wrinkles, skin cancer, and <term class="no-emphasis" id="term-00036">age spots</term> is to limit sun exposure throughout your life (<link target-id="fig-00009"/>). This means consistently using sunscreen, wearing ultraviolet-protective clothing, and avoiding suntanning and sunburns (National Institute on Aging, 2017).</para>
+    <figure id="fig-00009" class="scaled-down-30">
+    <media alt="Two older adults are shown sitting on a beach in bathing suits, exposing their skin to the sun.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_15_01_SeniorSun.jpg"/>
+    </media>
+    <caption>Exposure to the sun, especially without sunscreen, can accelerate aging of the skin. (credit: modification of work “Beach Couple” by Nick Page/Flickr, CC BY 2.0)</caption>
+    </figure>
+    <para id="para-00047">As you can likely guess, the two most prominent age-related changes to hair are thinning and graying. Graying is due to a loss of melanin production in the hair follicle. Both genetic factors and racial differences play a part. For example, the onset of graying typically ranges from the midthirties for White individuals to the mid-forties for Black individuals. Some environmental factors, such as sun exposure, contribute as well (Maymone et al., 2021). Hair loss is also thought to be strongly genetic. While both men and women can experience thinning hair with age, it is more common and severe among men, with 60 percent of men over age thirty years reporting <term class="no-emphasis" id="term-00037">hair loss</term>. Men whose fathers and maternal grandfathers experienced hair loss are at the greatest risk. Age is also independently related to hair loss; older individuals experience more hair loss regardless of their family history (Chumlea et al., 2004).</para>
+    </section>
+    <section id="sect-00014">
+    <title>Heart, Lung, and Bladder Changes</title>
+    <para id="para-00048">Less visually obvious are physical changes to the cardiovascular system, including stiffening and hardening of the arteries, which results in increasing rates of <term class="no-emphasis" id="term-00038">hypertension</term> (high blood pressure). Plaque buildup inside the artery walls, often the product of a high-cholesterol diet, also increases with age and can limit blood flow. Problems such as these can damage and weaken the heart, potentially leading to heart failure (National Institute on Aging, 2018). In the United States, <term class="no-emphasis" id="term-00039">heart disease</term> is the most common cause of death for people over age forty-five years, and the percentage of deaths from heart disease increases with age (Xu et al., 2021).</para>
+    <para id="para-00049">Men and women sometimes have different symptoms of heart disease; for example, women having a heart attack are more likely than men to have symptoms such as nausea and jaw pain without any chest pain (Lichtman et al., 2018), meaning that they often wait longer to get treatment and are likely to experience more heart damage as a result. Monitoring blood pressure and cholesterol, eating a healthy diet, and engaging in cardiovascular exercise are all important factors in maintaining a healthy cardiovascular system.</para>
+    <para id="para-00050">The efficiency of our respiratory system tends to peak around our midtwenties and then slowly declines (Sharma &amp; Goodwin, 2006). Not noticeable for much of adulthood, these declines become more consequential in later life. For example, bone loss can make the ribs less elastic and less capable of expanding and contracting as we breathe. Combined with other changes in the lungs, this loss decreases <term class="no-emphasis" id="term-00040">lung capacity</term> as we age (American Lung Association, 2023). Coughs also become weaker, limiting our ability to clear unwanted particles from the lungs (Lowery et al., 2013). The lungs are also more susceptible to infections such as the flu, COVID-19, and pneumonia, which can develop into much more serious conditions in older adults thanks to the declining functioning of the immune system (American Lung Association, 2023).</para>
+    <para id="para-00051">Another physical change relates to the bladder and bladder control. Urinary incontinence can occur at any age but becomes increasingly common in later life. It is a product of urinary muscles not working appropriately due to a variety of reasons, such as weakening muscles, overactive bladder muscles, damage associated with chronic health problems, and the shifting of organs around the bladder. Incontinence can be more common among men, since men can also be affected by inflammation or enlargement of the prostate. Medical treatment and several behavioral options such as pelvic muscle/Kegel exercises are available, depending on the cause of the incontinence (National Institute on Aging, 2022).</para>
+    </section>
+    <section id="sect-00015">
+    <title>Sleep Changes</title>
+    <para id="para-00052">The amount of sleep recommended and the average amount of sleep we get both decrease across the lifespan. Older adults should get about 7 to 8 hours of sleep per night (Chaput et al., 2018). Our circadian rhythm also shifts forward as we get older. As a result, most people find themselves going to bed earlier and waking up earlier than when they were younger (Newsom &amp; DeBanto, 2023). Chronic pain, dementia, and other health problems can bring sleeping challenges for older adults. Around half of older adults report frequent sleep problems, such as difficulty falling asleep and increased sleep disturbances after falling asleep. These problems have been correlated with mortality, increased risk of falls and other accidents, and declines in cognitive functioning (Crowly, 2011; Sivertsen et al., 2021).</para>
+    </section>
+    </section>
+    <section id="sect-00016">
+    <title>Changes in the Brain</title>
+    <para id="para-00053">The <term class="no-emphasis" id="term-00041">brain</term> undergoes several normative changes as we age. After the age of forty years, its actual volume decreases by 5 percent every ten years, a decline that may speed up after age seventy years and that seems more pronounced in men than women. While this decreasing volume likely has many contributing factors, it may be due more to shrinking neurons, fewer synapses, and decreases in the volume of blood in the brain than to actual cell death (Peters, 2006; Sele et al., 2021).</para>
+    <para id="para-00054">The brain’s <term class="no-emphasis" id="term-00042">cortex</term>, responsible for cognitive processes such as memory, problem-solving, and decision-making, is also growing thinner. Recent research suggests the process begins around the age of four years (Fjell et al., 2015), so thinning later in life continues a trend that has lasted most of the life span. This thinning trend may sound like a negative change, but much of it is associated with lifelong synaptic pruning, in which the brain gets rid of synapses and neurons that are no longer needed, thereby increasing its efficiency. Still, some research suggests that an accelerated thinning of the cortex can be associated with decreased cognitive ability (Fjell et al., 2015; Shaw et al., 2016).</para>
+    <para id="para-00055">Another factor contributing to decreasing brain volume is the loss of <term class="no-emphasis" id="term-00043">white matter</term>. White matter is the inner portion of the brain, which consists of millions of axons, each covered with a fatty myelin sheath, giving a white appearance. While white matter was historically thought to be unimportant in brain function, it is now believed to allow different regions of the brain to communicate and may also play a role in learning (Fields, 2008). While the myelin on our neurons continues to develop until the midtwenties, it then becomes relatively stable before starting to deteriorate after the age of forty years (Peters, 2006).</para>
+    <para id="para-00056">The loss of myelin may have more implications than reducing brain volume. The primary purpose of myelin on nerve cells is to insulate the axon, resulting in increases in speed and efficiency of the neuron. Research has found that the slowing of the brain in later life, seen in lower processing speed, for instance, can be accounted for by age-related declines in white matter (Kerchner et al., 2012).</para>
+    <para id="para-00057">Another change in the brain occurs in the hippocampi, the regions of the brain within each of the two temporal lobes that assist in the formation and retention of new memories. Structural changes occur that are associated with age-related memory declines (Yassa et al., 2011).</para>
+    <para id="para-00058">The brain also has mechanisms to preserve and assist its functioning despite these age-related changes. Neuroplasticity, or the brain’s ability to change in response to challenges or new experiences, typically decreases with age (Calabrese et al., 2013; Sorrells et al., 2018), and for a very long time, it was thought that we developed only new synaptic connections, not new neurons, after birth. However, some research suggests the brain in later life is able to create new neurons, including in areas important for memory, like the hippocampus (Moreno-Jiménez et al., 2019). Some research examining <term class="no-emphasis" id="term-00044">neuroplasticity</term> in older mice revealed that physical activity and exposure to an enriched environment resulted in the creation of new hippocampal neurons (Kempermann et al., 2002; Liu &amp; Nusslock, 2018). This research is still somewhat controversial (because it examines animal models and not humans), but these findings are consistent with research suggesting that older adults who live an active lifestyle with cognitive stimulation experience less cognitive decline and, in some cases, restoration of function following neurological impairment (Han et al., 2022; Stillman et al., 2020).</para>
+    <para id="para-00059">Other research has revealed increased functioning of the <term class="no-emphasis" id="term-00045">frontal lobe</term>s in some older adults. The frontal lobes are responsible for many of our higher-level cognitive processes, such as decision-making and planning. Older adults who have increased activity in the frontal cortex tend to perform better on cognitive tasks. This increase in frontal lobe activity could thus be an example of neuroplasticity compensating for other declines in brain function (Goh &amp; Park, 2009).</para>
+    </section>
+    <section class="summary" id="sect-00017">
+    <list id="list-00002">
+    <item>Possible causes to explain why people physically age focus on the effects of stress hormones, telomeres, free radicals, bodily wear and tear, and genetic variability.</item>
+    <item>Muscle and bone mass decline throughout much of adulthood but more noticeably in later years.</item>
+    <item>Declines in sensory functions such as vision and hearing may be problematic in later life.</item>
+    <item>Several changes to the brain have been linked to decreased cognitive functioning in older age.</item>
+    <item>Exercise plays an important role in minimizing age-related declines in muscle mass, bone mass, and cognitive ability.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00018">
+    <title>Assessment: Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00060"><link class="os-embed" url="#exercise/15-01-LD-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00061"><link class="os-embed" url="#exercise/15-01-LD-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00062"><link class="os-embed" url="#exercise/15-01-LD-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00063"><link class="os-embed" url="#exercise/15-01-LD-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="check-understanding" id="sect-00019">
+    <title>Assessment: Check Your Understanding Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00064"><link class="os-embed" url="#exercise/15-01-LD-CU01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00065"><link class="os-embed" url="#exercise/15-01-LD-CU02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="personal-application" id="sect-00020">
+    <title>Assessment: Personal Application Questions</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00066"><link class="os-embed" url="#exercise/15-01-LD-PA01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00067"><link class="os-embed" url="#exercise/15-01-LD-PA02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="essay-questions" id="sect-00021">
+    <title>Assessment: Essay Questions</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00068"><link class="os-embed" url="#exercise/15-01-LD-EQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="references" id="sect-00022">
+    <title>References</title>
+    <para id="para-00069">Allsopp, R. C., Vaziri, H., Patterson, C., Goldstein, S., Younglai, E. V., Futcher, A. B., Greider, C. W., &amp; Harley, C. B. (1992). Telomere length predicts replicative capacity of human fibroblasts. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">89</emphasis>(21), 10114–10118. https://doi.org/10.1073/pnas.89.21.10114</para>
+    <para id="para-00070">American Lung Association. (2023). <emphasis effect="italics">Your aging lungs</emphasis>. https://www.lung.org/blog/your-aging-lungs</para>
+    <para id="para-00071">American Optometric Association. (n.d.). Senior vision: Over 60 years of age. https://www.aoa.org/healthy-eyes/eye-health-for-life/senior-vision?sso=y</para>
+    <para id="para-00072">Arias, E., Tejada-Vera, B., Kochanek, K. D., &amp; Ahmad, F. B. (2022). <emphasis effect="italics">Provisional life expectancy estimates for 2021. Vital Statistics Rapid Release; no 23.</emphasis> National Center for Health Statistics. https://dx.doi.org/ 10.15620/cdc:118999</para>
+    <para id="para-00073">Arias, E., &amp; Xu, J. (2020). United States life tables, 2018. <emphasis effect="italics">National Vital Statistics Reports: From the Centers for Disease Control and Prevention, National Center for Health Statistics, National Vital Statistics System</emphasis>, <emphasis effect="italics">69</emphasis>(12), 1–45. https://pubmed.ncbi.nlm.nih.gov/33270553/</para>
+    <para id="para-00074">Ashraf, M., &amp; Souka, A. (2017). Aflibercept in age-related macular degeneration: Evaluating its role as a primary therapeutic option. <emphasis effect="italics">Eye</emphasis>, <emphasis effect="italics">31</emphasis>(11), 1523–1536. https://doi.org/10.1038/eye.2017.81</para>
+    <para id="para-00075">Aversa, R., Petrescu, R. V. V., Apicella, A., &amp; Petrescu, F. I. (2016). One can slow down the aging through antioxidants. <emphasis effect="italics">American Journal of Engineering and Applied Sciences, 9</emphasis>(4), 1112–1126. https://doi.org/10.3844/ajeassp.2016.1112.1126</para>
+    <para id="para-00076">Bansal, S., &amp; Jin, Y. (2023). Heterogeneous effects of obesity on life expectancy: A global perspective. <emphasis effect="italics">Annual Review of Resource Economics, 15</emphasis>, 433–554. https://doi.org/10.1146/annurev-resource-022823-033521</para>
+    <para id="para-00077">Barnes, J. N., Pearson, A. G., Corkery, A. T., Eisenmann, N. A., &amp; Miller, K. B. (2021). Exercise, arterial stiffness, and cerebral vascular function: Potential impact on brain health. <emphasis effect="italics">Journal of the International Neuropsychological Society, 27</emphasis>(8), 761–775. https://doi.org/10.1017/S1355617721000394</para>
+    <para id="para-00078">Birren, J. E., &amp; Cunningham, W. R. (1985). Research on the psychology of aging: Principles, concepts and theory. In J. E. Birren &amp; K. W. Schaie (Eds.), <emphasis effect="italics">Handbook of the Psychology of Aging</emphasis> (2nd ed.). Van Nostrand Reinhold Company.</para>
+    <para id="para-00079">Blagosklonny, M. V. (2021). No limit to maximal lifespan in humans: How to beat a 122-year-old record. <emphasis effect="italics">Oncoscience</emphasis>, <emphasis effect="italics">8</emphasis>, 110–119. https://doi.org/10.18632/oncoscience.547</para>
+    <para id="para-00080">Bonnick, S. L. (2006). Osteoporosis in men and women. <emphasis effect="italics">Clinical Cornerstone</emphasis>, <emphasis effect="italics">8</emphasis>(1), 28–39. https://doi.org/10.1016/s1098-3597(06)80063-3</para>
+    <para id="para-00081">Cadore, E. L., Casas-Herrero, A., Zambom-Ferraresi, F., Idoate, F., Millor, N., Gómez, M., Rodríguez-Mañas, L., &amp; Izquierdo, M. (2014). Multicomponent exercises including muscle power training enhance muscle mass, power output, and functional outcomes in institutionalized frail nonagenarians. <emphasis effect="italics">AGE 36</emphasis>, 773–785. https://doi.org/10.1007/s11357-013-9586-z</para>
+    <para id="para-00082">Calabrese, F., Guidotti, G., Racagni, G., &amp; Riva, M. A. (2013). Reduced neuroplasticity in aged rats: A role for the neurotrophin brain-derived neurotrophic factor. <emphasis effect="italics">Neurobiology of Aging</emphasis>, <emphasis effect="italics">34</emphasis>(12), 2768–2776. https://doi.org/10.1016/j.neurobiolaging.2013.06.014</para>
+    <para id="para-00083">Cartee, G. D., Hepple, R. T., Bamman, M. M., &amp; Zierath, J. R. (2016). Exercise promotes healthy aging of skeletal muscle. <emphasis effect="italics">Cell Metabolism, 23</emphasis>(6), 1034–1047. http://dx.doi.org/10.1016/j.cmet.2016.05.007</para>
+    <para id="para-00084">Casson, R. J., Chidlow, G., Wood, J. P. M., Crowston, J. G., &amp; Goldberg, I. (2012). Definition of glaucoma: Clinical and experimental concepts. <emphasis effect="italics">Clinical and Experimental Ophthalmology</emphasis>, <emphasis effect="italics">40</emphasis>(4), 341–349. https://doi.org/10.1111/j.1442-9071.2012.02773.x</para>
+    <para id="para-00085">Chan, G., &amp; Duque, G. (2002). Age-related bone loss: Old bone, new facts. <emphasis effect="italics">Gerontology</emphasis>, <emphasis effect="italics">48</emphasis>(2), 62–71. https://doi.org/10.1159/000048929</para>
+    <para id="para-00086">Chaput, J. P., Dutil, C., &amp; Sampasa-Kanyinga, H. (2018). Sleeping hours: What is the ideal number and how does age impact this? <emphasis effect="italics">Nature and Science of Sleep</emphasis>, <emphasis effect="italics">10</emphasis>, 421–430. https://doi.org/10.2147/nss.s163071</para>
+    <para id="para-00087">Chetty, R., Stepner, M., Abraham, S., Lin, S., Scuderi, B., Turner, N., Bergeron, A., &amp; Cutler, D. M. (2016). The Association between Income and Life Expectancy in the United States, 2001-2014. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">315</emphasis>(16), 1750–1766. https://doi.org/10.1001/jama.2016.4226</para>
+    <para id="para-00088">Chumlea, W. C., Rhodes, T., Girman, C. J., Johnson-Levonas, A., Lilly, F. R. W., Wu, R., &amp; Guo, S. S. (2004). Family history and risk of hair loss. <emphasis effect="italics">Dermatology</emphasis>, <emphasis effect="italics">209</emphasis>(1), 33–39. https://doi.org/10.1159/000078584</para>
+    <para id="para-00089">Colón, C. J. P., Molina-Vicenty, I. L., Frontera-Rodríguez, M., García-Ferré, A., Rivera, B. P., Cintrón-Vélez, G., &amp; Frontera-Rodríguez, S. (2018). Muscle and bone mass loss in the elderly population: Advances in diagnosis and treatment. <emphasis effect="italics">Journal of Biomedicine</emphasis>, <emphasis effect="italics">3</emphasis>, 40–49. https://doi.org/10.7150/jbm.23390</para>
+    <para id="para-00090">Cornelissen, G., &amp; Otsuka, K. (2017). Chronobiology of aging: A mini-review. <emphasis effect="italics">Gerontology, 63</emphasis>(2), 118–128. https://doi.org/10.1159/000450945</para>
+    <para id="para-00091">Cornelius, M. E., Loretan, C. G., Wang, T. W., Jamal, A., &amp; Homa, D. M. (2022). Tobacco product use among adults – United States, 2020. <emphasis effect="italics">Morbidity and Mortality Weekly Report, 71</emphasis>(11), 397–405. https://doi.org/10.15585/mmwr.mm7111a1</para>
+    <para id="para-00092">Crowley, K. (2011). Sleep and sleep disorders in older adults. <emphasis effect="italics">Neuropsychology Review</emphasis>, <emphasis effect="italics">21</emphasis>, 41–53. https://doi.org/10.1007/s11065-010-9154-6</para>
+    <para id="para-00093">Dagnino, P., Ugarte, M. J., Morales, F., González, S., Saralegui, D., &amp; Ehrenthal, J. C. (2020). Risk factors for adult depression: Adverse childhood experiences and personality functioning. <emphasis effect="italics">Frontiers in Psychology, 11</emphasis>, 594698. https://doi.org/10.3389/fpsyg.2020.594698</para>
+    <para id="para-00094">Dattani, S, Rodés-Guirao, L, Ritchie, H., Ortiz-Ospina, E., &amp; Roser, M. (2023). Life expectancy. OurWorldInData.org. https://ourworldindata.org/life-expectancy</para>
+    <para id="para-00095">Davies, M. A. M., Kerr, Z. Y., DeFreese, J. D., Arden, N. K., Marshall, S. W., Guskiewicz, K. M., Padua, D. A., &amp; Pietrosimone, B. (2019). Prevalence of and risk factors for total hip and knee replacement in retired National Football League athletes. <emphasis effect="italics">American Journal of Sports Medicine</emphasis>, <emphasis effect="italics">47</emphasis>(12), 2863–2870. https://doi.org/10.1177/0363546519870804</para>
+    <para id="para-00096">Decker, M. L., Chavez, E., Vulto, I., &amp; Lansdorp, P. M. (2009). Telomere length in Hutchinson-Gilford Progeria Syndrome. <emphasis effect="italics">Mechanisms of Ageing and Development</emphasis>, <emphasis effect="italics">130</emphasis>(6), 377–383. https://doi.org/10.1016/j.mad.2009.03.001</para>
+    <para id="para-00097">Dillard, L. K., Arunda, M. O., Lopez-Perez, L., Martinez, R. X., Jiménez, L., &amp; Chadha, S. (2022). Prevalence and global estimates of unsafe listening practices in adolescents and young adults: A systematic review and meta-analysis. <emphasis effect="italics">BMJ Global Health, 7</emphasis>, e010501. https://doi.org/10.1136/bmjgh-2022-010501</para>
+    <para id="para-00098">Dillard, L. K., Mulas, P., Der, C., Fu, X., &amp; Chadha, S. (2024). Risk of sound-induced hearing loss from exposure to video gaming or esports: A systematic scoping review: <emphasis effect="italics">BMJ Public Health, 2</emphasis>(1), e000253. https://doi.org/10.1136/bmjph-2023-000253</para>
+    <para id="para-00099">Dines, V. A., &amp; Garovic, V. D. (2024). Menopause and chronic kidney disease. <emphasis effect="italics">Nature Reviews Nephrology</emphasis>, <emphasis effect="italics">20</emphasis>, 4–5. https://doi.org/10.1038/s41581-023-00717-w</para>
+    <para id="para-00100">Domenichiello, A. F., &amp; Ramsden, C. E. (2019). The silent epidemic of chronic pain in older adults. <emphasis effect="italics">Progress in Neuro-psychopharmacology &amp; Biological Psychiatry</emphasis>, <emphasis effect="italics">93</emphasis>, 284–290. https://doi.org/10.1016/j.pnpbp.2019.04.006</para>
+    <para id="para-00101">Dommaraju, S., &amp; Perera, E. (2016). An approach to vertigo in general practice. <emphasis effect="italics">PubMed</emphasis>, <emphasis effect="italics">45</emphasis>(4), 190–194. https://pubmed.ncbi.nlm.nih.gov/27052132</para>
+    <para id="para-00102">Doucette, L. P., Rasnitsyn, A., Seifi, M., &amp; Walter, M. A. (2015). The interactions of genes, age, and environment in glaucoma pathogenesis. <emphasis effect="italics">Survey of Ophthalmology</emphasis>, <emphasis effect="italics">60</emphasis>(4), 310–326. https://doi.org/10.1016/j.survophthal.2015.01.004</para>
+    <para id="para-00103">Fernández, L., Breinbauer, H. A., &amp; Delano, P. H. (2015). Vertigo and dizziness in the elderly. <emphasis effect="italics">Frontiers in Neurology</emphasis>, <emphasis effect="italics">6</emphasis>. https://doi.org/10.3389/fneur.2015.00144</para>
+    <para id="para-00104">Fields, R. D. (2008). White matter in learning, cognition and psychiatric disorders. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">31</emphasis>(7), 361–370. https://doi.org/10.1016/j.tins.2008.04.001</para>
+    <para id="para-00105">Fjell, A. M., Grydeland, H., Krogsrud, S. K., Amlien, I., Rohani, D. A., Ferschmann, L., Storsve, A. B., Tamnes, C. K., Sala-Llonch, R., Due-Tønnessen, P., Bjørnerud, A., Sølsnes, A. E., Håberg, A. K., Skranes, J., Bartsch, H., Chen, C.-H., Thompson, W. K., Panizzon, M. S., Kremen, W. S., . . . Walhovd, K. B. (2015). Development and aging of cortical thickness correspond to genetic organization patterns. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">112</emphasis>(50), 15462–15467. https://doi.org/10.1073/pnas.1508831112</para>
+    <para id="para-00106">For the Health ABC Study. (2012). Racial differences in mortality in older adults: Factors beyond socioeconomic status. <emphasis effect="italics">Annals of Behavioral Medicine</emphasis>, <emphasis effect="italics">43</emphasis>(1), 29–38. https://doi.org/10.1007/s12160-011-9335-4</para>
+    <para id="para-00107">Godoy, L. C., Frankfurter, C., Cooper, M., Lay, C., Maunder, R., &amp; Farkouh, M. E. (2021). Association of adverse childhood experiences with cardiovascular disease later in life: A review. <emphasis effect="italics">JAMA Cardiology, 6</emphasis>(2), 228–235. https://doi.org/10.1001/jamacardio.2020.6050</para>
+    <para id="para-00108">Goh, J. O., &amp; Park, D. C. (2009). Neuroplasticity and cognitive aging: The scaffolding theory of aging and cognition. <emphasis effect="italics">Restorative Neurology and Neuroscience</emphasis>, <emphasis effect="italics">27</emphasis>(5), 391–403. https://doi.org/10.3233/rnn-2009-0493</para>
+    <para id="para-00109">Green, E., Huynh, A., Broussard, L., Zunker, B., Matthews, J., Hilton, C. L., &amp; Aranha, K. (2019). Systematic review of yoga and balance: Effect on adults with neuromuscular impairment. <emphasis effect="italics">The American Journal of Occupational Therapy, 73</emphasis>(1), 7301205150p1-7301205150p11. https://doi.org/10.5014/ajot.2019.028944</para>
+    <para id="para-00110">Guo, L., &amp; Akpek, E. K. (2020). The negative effects of dry eye disease on quality of life and visual function. <emphasis effect="italics">Turkish Journal of Medical Sciences</emphasis>, <emphasis effect="italics">50</emphasis>(10), 1611–1615. https://doi.org/10.3906/sag-2002-143</para>
+    <para id="para-00111">Hamdy, R. C. (2017). Fractures and repeated falls. <emphasis effect="italics">Journal of Clinical Densitometry, 20</emphasis>(3), 425–431. https://doi.org/10.1016/j.jocd.2017.06.009</para>
+    <para id="para-00112">Han, Y., Yuan, M., Guo, Y.-S., Shen, X.-Y., Gao, Z.-K., &amp; Bi, X. (2022). The role of enriched environment in neural development and repair. <emphasis effect="italics">Frontiers in Cellular Neuroscience, 16</emphasis>, 890666. https://doi.org/10.3389/fncel.2022.890666</para>
+    <para id="para-00113">Hayflick, L., &amp; Finch, C. E. (1977). The cellular basis for biological aging. <emphasis effect="italics">Handbook of the Biology of Aging</emphasis>, 159–186.</para>
+    <para id="para-00114">Hennekam, R. C. M. (2006). Hutchinson–Gilford progeria syndrome: Review of the phenotype. <emphasis effect="italics">American Journal of Medical Genetics Part A</emphasis>, <emphasis effect="italics">140A</emphasis>(23), 2603–2624. https://doi.org/10.1002/ajmg.a.31346</para>
+    <para id="para-00115">Hernández-Zimbrón, L. F., Zamora-Alvarado, R., Ochoa-De la Paz, L., Vélez-Montoya, R., Zenteno, E., Gulías-Cañizo, R., Quiróz-Mercado, H., &amp; González-Salinas, R. (2018). Age-related macular degeneration: New paradigms for treatment and management of AMD. <emphasis effect="italics">Oxidative Medicine and Cellular Longevity</emphasis>, <emphasis effect="italics">2018</emphasis>, 1–14. https://doi.org/10.1155/2018/8374647</para>
+    <para id="para-00116">Huang, Q., &amp; Tang, J. (2010). Age-related hearing loss or presbycusis. <emphasis effect="italics">European Archives of Oto-rhino-laryngology</emphasis>, <emphasis effect="italics">267</emphasis>(8), 1179–1191. https://doi.org/10.1007/s00405-010-1270-7</para>
+    <para id="para-00117">Hülür, G., Ram, N., &amp; Gerstorf, D. (2016). Terminal decline of function. In V. L. Bengtson &amp; R. A. Settersten Jr. (Eds.), <emphasis effect="italics">Handbook of theories of aging</emphasis> (3rd ed.). https://www.researchgate.net/profile/Gizem-Hueluer/publication/307628702_Terminal_decline_of_function/links/5d2df42e299bf1547cbc9390/Terminal-decline-of-function.pdf</para>
+    <para id="para-00118">Jeter, P. E., Nkodo, A.-F., Moonaz, S. H., &amp; Dagnelie, G. (2014). A systematic review of yoga for balance in a healthy population. <emphasis effect="italics">Journal of Alternative and Complementary Medicine, 20</emphasis>(4), 221–232. https://doi.org/10.1089/acm.2013.0378</para>
+    <para id="para-00119">Jomova, K., Raptova, R., Alomar, S. Y., Alwasel, S. H., Nepovimova, E., Kuca, K., &amp; Valko, M. (2023). Reactive oxygen species, toxicity, oxidative stress, and antioxidants: Chronic diseases and aging. <emphasis effect="italics">Archives of Toxicology, 97</emphasis>, 2499–2574. https://doi.org/10.1007/s00204-023-03562-9</para>
+    <para id="para-00120">Jung, S.-H., Lee, Y. C., Shivakumar, M., Kim, J., Yun, J.-S., Park, W.-Y., Won, H.-H., Penn Medicine Biobank, &amp; Kim, D. (2024). Association between genetic risk and adherence to healthy lifestyle for developing age-related hearing loss. <emphasis effect="italics">BMC Medicine, 22</emphasis>, 141. https://doi.org/10.1186/s12916-024-03364-5</para>
+    <para id="para-00121">Kaiser Family Foundation. (2023). <emphasis effect="italics">What is driving widening racial disparities in life expectancy?</emphasis> https://www.kff.org/racial-equity-and-health-policy/issue-brief/what-is-driving-widening-racial-disparities-in-life-expectancy/</para>
+    <para id="para-00122">Kempermann, G., Gast, D., &amp; Gage, F. H. (2002). Neuroplasticity in old age: Sustained fivefold induction of hippocampal neurogenesis by long-term environmental enrichment. <emphasis effect="italics">Annals of Neurology</emphasis>, <emphasis effect="italics">52</emphasis>(2), 135–143. https://doi.org/10.1002/ana.10262</para>
+    <para id="para-00123">Kerchner, G. A., Racine, C. A., Hale, S., Wilheim, R., Laluz, V., Miller, B. L., &amp; Kramer, J. H. (2012). Cognitive processing speed in older adults: Relationship with white matter integrity. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">7</emphasis>(11), e50425. https://doi.org/10.1371/journal.pone.0050425</para>
+    <para id="para-00124">Lichtman, J. H., Leifheit, E. C., Safdar, B., Bao, H., Krumholz, H. M., Lorenze, N. P., Daneshvar, M., Spertus, J. A., &amp; D’Onofrio, G. (2018). Sex differences in the presentation and perception of symptoms among young patients with myocardial infarction: Evidence from the VIRGO study (Variation in Recovery: Role of Gender on Outcomes of Young AMI Patients). <emphasis effect="italics">Circulation, 137</emphasis>(8), 781–790. https://doi.org/10.1161/CIRCULATIONAHA.117.031650</para>
+    <para id="para-00125">Lipsky, M. S., &amp; King, M. (2015). Biological theories of aging. <emphasis effect="italics">Disease-a-month</emphasis>, <emphasis effect="italics">61</emphasis>(11), 460–466. https://doi.org/10.1016/j.disamonth.2015.09.005</para>
+    <para id="para-00126">Liu, P. Z., &amp; Nusslock, R. (2018). Exercise-mediated neurogenesis in the hippocampus via BDNF. <emphasis effect="italics">Frontiers in Neuroscience, 12</emphasis>, 52. https://doi.org/10.3389/fnins.2018.00052</para>
+    <para id="para-00127">Lowery, E. M., Brubaker, A. L., Kuhlmann, E., &amp; Kovacs, E. J. (2013). The aging lung. <emphasis effect="italics">Clinical Interventions in Aging, 8,</emphasis> 1489–1496. https://doi.org/10.2147/cia.s51152</para>
+    <para id="para-00128">Maymone, M. B. C., Laughter, M., Pollock, S., Khan, I., Marques, T., Abdat, R., Goldberg, L. J., &amp; Vashi, N. A. (2021). Hair aging in different races and ethnicities. <emphasis effect="italics">The Journal of Clinical and Aesthetic Dermatology</emphasis>, <emphasis effect="italics">14</emphasis>(1), 38–44. https://europepmc.org/article/MED/33584967</para>
+    <para id="para-00129">Medina, L., Sabo, S., &amp; Vespa, J. (2020). <emphasis effect="italics">Living longer: Historical and projected life expectancy in the United States, 1960 to 2060.</emphasis> U.S. Department of Commerce, U.S. Census Bureau. https://www.census.gov/content/dam/Census/library/publications/2020/demo/p25-1145.pdf</para>
+    <para id="para-00130">MedlinePlus (2022). <emphasis effect="italics">Is longevity determined by genetics?</emphasis> National Library of Medicine. https://medlineplus.gov/genetics/understanding/traits/longevity/</para>
+    <para id="para-00131">Merrick, M. T., Ford, D. C., Ports, K. A., Guinn, A. S., Chen, J., Klevens, J., Metzler, M., Jones, C. M., Simon, T. R., Daniel, V. M., Ottley, P., &amp; Mercy, J. A. (2019). Vital signs: Estimated proportion of adult health problems attributable to adverse childhood experiences and implications for prevention—25 states, 2015–2017. <emphasis effect="italics">Morbidity and Mortality Weekly Report, 68</emphasis>(44), 999–1005. https://doi.org/10.15585/mmwr.mm6844e1</para>
+    <para id="para-00132">Mitteldorf, J. (2010). Aging is not a process of wear and tear. <emphasis effect="italics">Rejuvenation Research</emphasis>, <emphasis effect="italics">13</emphasis>(2–3), 322–326. https://doi.org/10.1089/rej.2009.0967</para>
+    <para id="para-00133">Moreno-Jiménez, E. P., Flor-García, M., Terreros-Roncal, J., Rábano, A., Cafini, F., Pallas-Bazarra, N., Ávila, J., &amp; Llorens-Martín, M. (2019). Adult hippocampal neurogenesis is abundant in neurologically healthy subjects and drops sharply in patients with Alzheimer’s disease. <emphasis effect="italics">Nature Medicine, 25</emphasis>, 554–560. https://doi.org/10.1038/s41591-019-0375-9</para>
+    <para id="para-00134">National Institute on Aging. (2017). Skin care and aging. https://www.nia.nih.gov/health/skin-care-and-aging</para>
+    <para id="para-00135">National Institute on Aging. (2018). Heart health and aging. https://www.nia.nih.gov/health/heart-health-and-aging</para>
+    <para id="para-00136">National Institute on Aging. (2020). How smell and taste change as you age. https://www.nia.nih.gov/health/smell-and-taste</para>
+    <para id="para-00137">National Institute on Aging. (2022). Urinary incontinence in older adults. https://www.nia.nih.gov/health/urinary-incontinence-older-adults</para>
+    <para id="para-00138">Newsom, R., &amp; DeBanto, J. (2023, September 19). <emphasis effect="italics">Aging and sleep</emphasis>. Sleep Foundation. https://www.sleepfoundation.org/aging-and-sleep</para>
+    <para id="para-00139">Nolan, L. S. (2020). Age-related hearing loss: Why we need to think about sex as a biological variable. <emphasis effect="italics">Journal of Neuroscience Research, 98</emphasis>(9), 1705–1720. https://doi.org/10.1002/jnr.24647</para>
+    <para id="para-00140">Novais, A., Monteiro, S., Roque, S., Correia-Neves, M., &amp; Sousa, N. (2017). How age, sex and genotype shape the stress response. <emphasis effect="italics">Neurobiology of Stress</emphasis>, <emphasis effect="italics">6</emphasis>, 4456. https://doi.org/10.1016/j.ynstr.2016.11.004</para>
+    <para id="para-00141">O’Connor, D. B., Thayer, J. F., &amp; Vedhara, K. (2021). Stress and health: A review of psychobiological processes. <emphasis effect="italics">Annual Review of Psychology</emphasis>, <emphasis effect="italics">72</emphasis>, 663–688. https://doi.org/10.1146/annurev-psych-062520-122331</para>
+    <para id="para-00142">Othman, Z., Abdul Halim, A. S., Azman, K. F., Ahmad, A. H., Zakaria, R., Sirajudeen, K. N. S., Wijaya, A., &amp; Ahmi, A. (2022). Profiling the research landscape on cognitive aging: A bibliometric analysis and network visualization. <emphasis effect="italics">Frontiers in Aging Neuroscience, 14</emphasis>, 876159. https://doi.org/10.3389/fnagi.2022.876159</para>
+    <para id="para-00143">Peters, R. (2006). Ageing and the brain. <emphasis effect="italics">Postgraduate Medical Journal</emphasis>, <emphasis effect="italics">82</emphasis>(964), 84–88. https://doi.org/10.1136/pgmj.2005.036665</para>
+    <para id="para-00144">Sapolsky, R. M. (1992). <emphasis effect="italics">Stress, the aging brain, and the mechanisms of neuron death</emphasis>. MIT Press.</para>
+    <para id="para-00145">Sarafrazi, N., Wambogo, E. A., &amp; Shepherd, J. A. (2021). <emphasis effect="italics">Osteoporosis or low bone mass in older adults: United States, 2017</emphasis>–<emphasis effect="italics">2018</emphasis>. U.S. Department of Health and Human Services, U.S. Department of Health and Human Services, Centers for Disease Control and Prevention. https://doi.org/10.15620/cdc:103477</para>
+    <para id="para-00146">Sattaur, Z., Lashley, L. K., &amp; Golden, C. J. (2020). Wear and tear theory of aging. <emphasis effect="italics">Essays in developmental psychology</emphasis>. Available at: https://nsuworks.nova.edu/cps_facbooks/732</para>
+    <para id="para-00147">Sele, S., Liem, F., Mérillat, S., &amp; Jäncke, L. (2021). Age-related decline in the brain: A longitudinal study on inter-individual variability of cortical thickness, area, volume, and cognition. <emphasis effect="italics">NeuroImage</emphasis>, <emphasis effect="italics">240</emphasis>, 118370. https://doi.org/10.1016/j.neuroimage.2021.118370</para>
+    <para id="para-00148">Sharma, A., &amp; Hindman, H. B. (2014). Aging: A predisposition to dry eyes. <emphasis effect="italics">Journal of Ophthalmology</emphasis>, <emphasis effect="italics">2014</emphasis>, 1–8. https://doi.org/10.1155/2014/781683</para>
+    <para id="para-00149">Sharma, G., &amp; Goodwin, J. (2006). Effect of aging on respiratory system physiology and immunology. <emphasis effect="italics">Clinical Interventions in Aging</emphasis>, <emphasis effect="italics">1</emphasis>(3), 253–260. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2695176/</para>
+    <para id="para-00150">Shaw, M. E., Abhayaratna, W. P., Sachdev, P. S., Anstey, K. J., &amp; Cherbuin, N. (2016). Cortical thinning at midlife: The PATH through life study. <emphasis effect="italics">Brain Topography</emphasis>, <emphasis effect="italics">29</emphasis>, 875–884. https://doi.org/10.1007/s10548-016-0509-z</para>
+    <para id="para-00151">Shay, J. W., &amp; Wright, W. E. (2000). Hayflick, his limit, and cellular ageing. <emphasis effect="italics">Nature Reviews Molecular Cell Biology</emphasis>, <emphasis effect="italics">1</emphasis>, 72–76. https://doi.org/10.1038/35036093</para>
+    <para id="para-00152">Sivertsen, B., Pallesen, S., Friborg, O., Nilsen, K. B., Bakke, Ø. K., Goll, J. B., &amp; Hopstock, L. A. (2021). Sleep patterns and insomnia in a large population-based study of middle-aged and older adults: The Tromsø study 2015–2016. <emphasis effect="italics">Journal of Sleep Research, 30</emphasis>(1), e13095. https://doi.org/10.1111/jsr.13095</para>
+    <para id="para-00153">Sjöstrand, J., Laatikainen, L., Hirvelä, H., Popovic, Z., &amp; Jonsson, R. (2011). The decline in visual acuity in elderly people with healthy eyes or eyes with early age-related maculopathy in two Scandinavian population samples. <emphasis effect="italics">Acta Ophthalmologica</emphasis>, <emphasis effect="italics">89</emphasis>(2), 116–123. https://doi.org/10.1111/j.1755-3768.2009.01653.x</para>
+    <para id="para-00154">Sorrells, S. F., Paredes, M. F., Cebrian-Silla, A., Sandoval, K., Qi, D., Kelley, K. W., James, D., Mayer, S., Chang, J., Auguste, K. I., Chang, E. F., Gutierrez, A. J., Kriegstein, A. R., Mathern, G. W., Oldham, M. C., Huang, E. J., Garcia-Verdugo, J. M., Yang, Z., &amp; Alvarez-Buylla, A. (2018). Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults. <emphasis effect="italics">Nature, 555</emphasis>, 377–381. https://doi.org/10.1038/nature25975</para>
+    <para id="para-00155">Stillman, C. M., Esteban-Cornejo, I., Brown, B., Bender, C. M., &amp; Erickson, K. I. (2020). Effects of exercise on brain and cognition across age groups and health states. <emphasis effect="italics">Trends in Neurosciences</emphasis>, <emphasis effect="italics">43</emphasis>(7), 533–543. https://doi.org/10.1016/j.tins.2020.04.010</para>
+    <para id="para-00156">Tani, Y., Fujiwara, T., &amp; Kondo, K. (2020). Association between adverse childhood experiences and dementia in older Japanese adults. <emphasis effect="italics">JAMA Network Open, 3</emphasis>(2), e1920740. https://doi.org/10.1001/jamanetworkopen.2019.20740</para>
+    <para id="para-00157">Thayer, J. F., Mather, M., &amp; Koenig, J. (2021). Stress and aging: A neurovisceral integration perspective. <emphasis effect="italics">Psychophysiology, 58</emphasis>(7), e13804. https://doi.org/10.1111/psyp.13804</para>
+    <para id="para-00158">van den Berg, N., Rodríguez-Girondo, M., van Dijk, I. K., Mourits, R. J., Mandemakers, K., Janssens, A. A. P. O., Beekman, M., Smith, K. R., &amp; Slagboom, P. E. (2019). Longevity defined as top 10% survivors and beyond is transmitted as a quantitative genetic trait. <emphasis effect="italics">Nature Communications</emphasis>, <emphasis effect="italics">10</emphasis>, 35. https://doi.org/10.1038/s41467-018-07925-0</para>
+    <para id="para-00159">Volpi, E., Nazemi, R., &amp; Fujita, S. (2004). Muscle tissue changes with aging. <emphasis effect="italics">Current Opinion in Clinical Nutrition and Metabolic Care, 7</emphasis>(4), 405–410. https://doi.org/10.1097/01.mco.0000134362.76653.b2</para>
+    <para id="para-00160">von Gablenz, P., Hoffmann, E., &amp; Holube, I. (2020). Gender-specific hearing loss in German adults aged 18 to 84 years compared to US-American and current European studies. <emphasis effect="italics">PLOS ONE</emphasis>, <emphasis effect="italics">15</emphasis>(4), e0231632. https://doi.org/10.1371/journal.pone.0231632</para>
+    <para id="para-00161">Weinreb, R. N., Aung, T., &amp; Medeiros, F. A. (2014). The pathophysiology and treatment of glaucoma. <emphasis effect="italics">JAMA</emphasis>, <emphasis effect="italics">311</emphasis>(18), 1901. https://doi.org/10.1001/jama.2014.3192</para>
+    <para id="para-00162">Wickremaratchi, M. M., &amp; Llewelyn, J. G. (2006). Effects of ageing on touch. <emphasis effect="italics">Postgraduate Medical Journal</emphasis>, <emphasis effect="italics">82</emphasis>(967), 301–304. https://doi.org/10.1136/pgmj.2005.039651</para>
+    <para id="para-00163">Widén, S., Båsjö, S., Möller, C., &amp; Kähäri, K. (2017). Headphone listening habits and hearing thresholds in Swedish adolescents. <emphasis effect="italics">Noise Health</emphasis>, <emphasis effect="italics">19</emphasis>(88), 125–132. https://doi.org/10.4103/nah.nah_65_16</para>
+    <para id="para-00164">Wilson, R. S., Yu, L., Leurgans, S. E., Bennett, D. A., &amp; Boyle, P. A. (2020). Proportion of cognitive loss attributable to terminal decline. <emphasis effect="italics">Neurology, 94</emphasis>(1), e42–e50. https://doi.org/10.1212/WNL.0000000000008671</para>
+    <para id="para-00165">Xu, J. Q., Murphy, S. L., Kochanek, K. D., and Arias, E. (2021). Deaths: Final data for 2019. <emphasis effect="italics">National Vital Statistics Reports, 70</emphasis>(8). National Center for Health Statistics. https://dx.doi.org/10.15620/cdc:106058</para>
+    <para id="para-00166">Yassa, M. A., Mattfeld, A. T., Stark, S. M., &amp; Stark, C. E. (2011). Age-related memory deficits linked to circuit-specific disruptions in the hippocampus. <emphasis effect="italics">Proceedings of the National Academy of Sciences of the United States of America</emphasis>, <emphasis effect="italics">108</emphasis>(21), 8873–8878. https://doi.org/10.1073/pnas.1101567108</para>
+    <para id="para-00167">Yiallouris, A., Tsioutis, C., Agapidaki, E., Zafeiri, M., Agouridis, A. P., Ntourakis, D., &amp; Johnson, E. O. (2019). Adrenal aging and its implications on stress responsiveness in humans. <emphasis effect="italics">Frontiers in Endocrinology, 10</emphasis>. https://doi.org/10.3389/fendo.2019.00054</para>
+    <para id="para-00168">Ziada, A. S., Smith, M.-S. R., &amp; Côté, H. (2020). Updating the free radical theory of aging. <emphasis effect="italics">Frontiers in Cell and Developmental Biology</emphasis>, <emphasis effect="italics">8</emphasis>. https://doi.org/10.3389/fcell.2020.575645</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>age-related macular degeneration</term>
+    <meaning>blurring and potential loss of vision in the center of the field of vision as a result of damage to the central part of the retina (macula)</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>cataract</term>
+    <meaning>cloudy area on the typically clear lens of the eye caused by a buildup of protein</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>cellular clock theory</term>
+    <meaning>theory that our cells can divide to reproduce themselves only a limited number of times, and as they reach this number, the body is no longer able to replace old or damaged cells with new ones</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>dry eye syndrome</term>
+    <meaning>eye condition that occurs when our eyes don’t produce enough tears</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>free radical theory</term>
+    <meaning>theory that free radicals, unstable oxygen molecules that are a by-product of food metabolization, damage our tissues or cells, and this damage accumulates as people get older</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>glaucoma</term>
+    <meaning>vision impairment caused by increased pressure inside the eye and resulting damage to the optic nerve</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>hormonal stress theory of aging (also, neuroendocrine theory)</term>
+    <meaning>theory that as we age, stress hormones stay elevated longer after a stressful response, potentially contributing to aging-associated health problems like hypertension and diabetes</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>macula</term>
+    <meaning>central part of the retina in the eye</meaning>
+    </definition>
+    <definition id="def-00009">
+    <term>osteoporosis</term>
+    <meaning>condition characterized by extensive loss of bone mass and weakening of the bones in later life</meaning>
+    </definition>
+    <definition id="def-00010">
+    <term>presbycusis</term>
+    <meaning>age-related hearing decline that starts with the inability to hear high-pitch frequencies</meaning>
+    </definition>
+    <definition id="def-00011">
+    <term>presbyopia</term>
+    <meaning>age-related decline in vision due to stiffening of the lens that results in more difficulty seeing things that are close</meaning>
+    </definition>
+    <definition id="def-00012">
+    <term>primary aging</term>
+    <meaning>natural healthy aging process that has not been accelerated or worsened as a result of disease</meaning>
+    </definition>
+    <definition id="def-00013">
+    <term>sarcopenia</term>
+    <meaning>loss of muscle mass that occurs in later life</meaning>
+    </definition>
+    <definition id="def-00014">
+    <term>secondary aging</term>
+    <meaning>aging that has been accelerated and worsened by disease processes, lifestyle choices, or environmental factors</meaning>
+    </definition>
+    <definition id="def-00015">
+    <term>telomere</term>
+    <meaning>protective strand of DNA on the tip of each of our chromosomes that becomes shorter each time a cell divides until the cell is no longer able to divide any more</meaning>
+    </definition>
+    <definition id="def-00016">
+    <term>terminal decline</term>
+    <meaning>accelerated and nonnormative declines in cognitive ability that can occur one to five years before death</meaning>
+    </definition>
+    <definition id="def-00017">
+    <term>tertiary aging</term>
+    <meaning>more rapid and general declines that may occur in the months and years prior to death</meaning>
+    </definition>
+    <definition id="def-00018">
+    <term>vertigo</term>
+    <meaning>condition that causes dizziness or the sensation of moving when still</meaning>
+    </definition>
+    <definition id="def-00019">
+    <term>wear and tear theory</term>
+    <meaning>theory that the use of our bodies results in unrepaired damage that accumulates over time, resulting in aging</meaning>
+    </definition>
+    </glossary>
+    </document>
