@@ -5,5 +5,538 @@
     <md:uuid>0cc80e53-51ac-40f4-a7a0-7cb939dd56da</md:uuid>
   </metadata>
   <content>
-  </content>
-</document>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Describe chromosomes, genes, and DNA</item>
+    <item>Discuss the connection between <term class="no-emphasis" id="term-00001">genetic inheritance</term> and <term class="no-emphasis" id="term-00002">genotype</term></item>
+    <item>Identify common inherited and <term class="no-emphasis" id="term-00003">genetic disorder</term>s</item>
+    <item>Describe the ways genes and environments interact</item>
+    </list>
+    </section>
+    <para id="para-00002">To say that Arjun is outgoing or extraverted would be an understatement. He thrives on time spent with others—loud parties, packed professional conferences, and crowded sports bars. His brother Ajay is more introverted and prefers quiet meals with his partner or a close friend, reading, and solo hikes. Despite their differences in personality, Arjun and Ajay have a strong physical resemblance. Their parents often wonder how their children can look so similar but have such distinct personalities when they have the same biological parents and grew up in the same home.</para>
+    <para id="para-00003">To understand how human development occurs and how similarities and differences like those observed by Arjun and Ajay’s parents arise, we need to grasp the role of genetic inheritance (nature), environment and experiences (nurture), and the interplay between genetic and environmental effects (nurture and nature). In this section, you’ll learn about the connections between chromosomes, DNA, and genes, genetic inheritance, inherited and genetic disorders, and the way our genetics and environments jointly contribute to the similarities and individual differences observed across human development.</para>
+    <section id="sect-00002">
+    <title>Chromosomes, DNA, and Genes</title>
+    <para id="para-00004">The first step in grasping the way our genetics influence development is to understand chromosomes, DNA, and genes and the way each functions within a cell, the focus of the field of molecular genetics.</para>
+    <para id="para-00005">Cells duplicate themselves through a process of cell division called <term id="term-00004">mitosis</term>, which allows organisms to grow and replace old or damaged cells. Mitosis accounts for the replication of most types of cells in the body and ensures that each new cell includes all forty-six chromosomes, organized in twenty-three pairs located in the cell nucleus. A <term id="term-00005">chromosome</term> is a rodlike structure in the cell nucleus, composed of long molecules of DNA. <term id="term-00006">DNA (deoxyribonucleic acid)</term> molecules contain an individual’s genetic information; they coil around each other to form a double helix, a twisted ladderlike structure (<link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001" class="scaled-down">
+    <media alt="Illustration of the inside of a cell with chromosomes and a nucleus and an enlarged chromosome with attached DNA helix.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_ChromeDNA.jpg"/>
+    </media>
+    <caption>Chromosomes are located in the nucleus of the cell and are made up of the double-helix molecule of DNA. Genes are segments of the DNA sequence, made up of the nucleic acid bases that provide the instructions for all the cells in the body. (credit: placeholder)</caption>
+    </figure>
+    <para id="para-00006">A human sex cell—the reproductive cell called a <term id="term-00007">gamete</term>, holds only twenty-three chromosomes, one from each pair of parental chromosomes. These cells require a different type of cell division called meiosis. During <term id="term-00008">meiosis</term>, a sex cell, whether an <term class="no-emphasis" id="term-00009">ovum</term> in a female or a <term class="no-emphasis" id="term-00010">sperm</term> cell in a male, splits into two new cells that each also contain only twenty-three chromosomes. Thus, gametes contain only half the genetic information of each parent, ensuring that after fertilization of the ovum, the resulting offspring will have a total of forty-six chromosomes, twenty-three from the biological mother and twenty-three from the biological father. Which particular chromosomes these are is largely random; eight million different combinations are possible, contributing to the wide genetic variation seen among humans.</para>
+    <para id="para-00007">A nonsex cell, called an <term id="term-00011">autosome</term>, is what is present in pairs one through twenty-two. However, the twenty-third pair, the sex chromosomes, may look the same or different (<link target-id="fig-00002"/>). The sex chromosomes are called the X and Y chromosomes, based on their shapes. The combination of these chromosomes determines the child’s sex at conception: XX for a biological female and XY for a biological male.</para>
+    <para id="para-00008">Females have two X chromosomes, so each of their ova contains an X chromosome in the twenty-third position; males have both X and Y chromosomes, so each of their sperm cells contains one or the other. Therefore, the sperm cell determines the baby’s sex.</para>
+    <figure id="fig-00002">
+    <media alt="Image of a full set of twenty-three pairs of chromosomes, labeled 1-22 and the last one labeled X.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_Chromosomes.jpg"/>
+    </media>
+    <caption>This image shows a full set of twenty-three pairs of chromosomes. Chromosomes one through twenty-two are the autosomes, and the chromosomes at the bottom right show the pairing for a biological female (XX) at conception. (credit: modification of work “Figure 7. Localization of Alu Sequences in Nuclei of Fibroblasts and Lymphocytes” by Andreas Blozer et al/PLOS Biology, CC BY 2.0)</caption>
+    </figure>
+    <para id="para-00009">The most commonly occurring twenty-third chromosome pairings are XX and XY (National Organization for Rare Disorders, n.d.; Genetic and Rare Diseases Information Center, n.d.). However, errors may occur during cell division that result in <term class="no-emphasis" id="term-00012">aneuploidy</term>, an atypical number of autosomal or sex chromosomes that may result in various syndromes (Gottlieb et al., 2023; Skuse et al., 2018) (<link target-id="table-00001"/>).</para>
+    <table id="table-00001" summary=" ">
+    <title>Types of Sex Chromosomes Combinations</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Sex chromosome combinations</entry>
+    <entry valign="top" align="left">Medical terminology</entry>
+    <entry valign="top" align="left">Prevalence</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">XX</entry>
+    <entry valign="top" align="left">Biological female</entry>
+    <entry valign="top" align="left">Majority</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XY</entry>
+    <entry valign="top" align="left">Biological male</entry>
+    <entry valign="top" align="left">Majority</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XO</entry>
+    <entry valign="top" align="left">Turner syndrome</entry>
+    <entry valign="top" align="left">1 in 2,500 females</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XXY</entry>
+    <entry valign="top" align="left">Klinefelter syndrome</entry>
+    <entry valign="top" align="left">1 in 500 to 1,000 males</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XXX</entry>
+    <entry valign="top" align="left">Trisomy X</entry>
+    <entry valign="top" align="left">1 in 1,000 females</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XYY</entry>
+    <entry valign="top" align="left">XYY syndrome</entry>
+    <entry valign="top" align="left">1 in 1,000 males</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">XXYY</entry>
+    <entry valign="top" align="left">XXYY syndrome</entry>
+    <entry valign="top" align="left">1 in 18,000 to 50,000 male births</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00010">We carry our genetic inheritance in the genes that make up our chromosomes. A <term id="term-00013">gene</term> is a segment of <term class="no-emphasis" id="term-00014">DNA</term> that contains the instructions for making proteins that regulate the structure and functioning of the body. It’s estimated that humans have between 20,000 and 25,000 genes (National Human Genome Research Institute, 2022). The rungs of the chromosome’s ladderlike structure, which house the DNA sequence, consist of four nucleic acid bases: guanine (G), adenine (A), thymine (T), and cytosine (C). These nucleic acids pair up in specific ways (Klug et al., 2016). However, not all of our genes code for proteins; some regulate gene expression, or how genes work and interact with each other.</para>
+    <para id="para-00011">The complete sequence of an organism’s DNA is called its <term id="term-00015">genome</term>. Each human being shares about 99.9 percent of their genome with all other humans on the planet; the remaining 0.01 percent contributes to the differences we observe in physical and behavioral differences, as well as the variations in our risk of developing certain types of diseases (Duello et al., 2021; National Human Genome Research Institute, 2022).</para>
+    </section>
+    <section id="sect-00003">
+    <title>Genetic Inheritance</title>
+    <para id="para-00012">Have you ever wondered why you share some physical characteristics with your biological parents but not others? Maybe you have your mother’s freckles, or perhaps a different eye color than either of your parents. How do these similarities and differences occur?</para>
+    <para id="para-00013">Recall that humans receive twenty-three chromosomes each from their biological parents’ sperm and ovum. During fertilization, these chromosomes fuse to create one cell with twenty-three pairs of chromosomes, each carrying two copies of each gene. The particular composition of the genes we inherit makes up our unique <term id="term-00016">genotype</term>, which cannot be directly observed. Some genes have slightly different alternate forms, called an <term id="term-00017">allele</term>, and the specific alleles in our genotype can lead to differences in gene expression (National Human Genome Research Institute, 2022). These differences, in turn, result in a different <term id="term-00018">phenotype</term>, or set of characteristics that can be observed, such as hair or eye color. Biological parents may both give their child the same allele, or each parent may contribute a different allele.</para>
+    <para id="para-00014">The genes for certain traits, such as eye color, have both dominant and recessive alleles. If an allele is dominant, we need to inherit only one copy of it for the <term id="term-00019">dominant trait</term>, such as brown eyes, to be observed. However, we need two copies of a recessive allele, such as that for blue eyes, for the <term id="term-00020">recessive trait</term> to be observed. This pattern of inheritance is called the recessive/dominant pattern. If a child inherits the same eye color alleles from both parents, the child is considered <term id="term-00021">homozygous</term> for this trait. The child who inherits different eye color alleles from both parents is <term id="term-00022">heterozygous</term> for this trait (<link target-id="fig-00003"/>).</para>
+    <figure id="fig-00003" class="scaled-down">
+    <media alt="Illustration of possible pairings of chromosomes – Homozygous (BB), Heterozygous (Bb, bB), and Homozygous (bb).">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_Heterozyg.jpg"/>
+    </media>
+    <caption>B denotes the dominant allele for brown eyes, and b denotes the recessive one for blue eyes. Each pairing represents a different probability of inheriting eye color. There is a 25 percent chance of inheriting homozygous alleles resulting in brown eyes (BB), a 50 percent chance of inheriting heterozygous alleles (Bb/bB) resulting in brown eyes, and a 25 percent chance of inheriting homozygous alleles resulting in blue eyes (bb). (credit: modification of work “Heterozygous” by Darryl Leja, National Human Genome Research Institute/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00015">Another inheritance pattern for traits such as hair texture, skin color, and height demonstrates incomplete or partial dominance, which occurs when an individual is heterozygous for a particular trait and neither allele is completely dominant or recessive. The result is <term id="term-00023">incomplete dominance</term>, resulting in an intermediate phenotype in which both alleles are expressed (<link target-id="fig-00004"/>). For instance, if one parent is homozygous for curly hair and the other is homozygous for straight hair, incomplete dominance will result in the child’s having wavy hair, because alleles for both straight and curly hair are simultaneously expressed (Omoto &amp; Lurquin, 2004).</para>
+    <figure id="fig-00004" class="scaled-down">
+    <media alt="Illustrating showing hair combinations possible in offspring from parent with Curly hair and Straight hair reproducing. Combinations could include: Curly hair, Wavy hair, and Straight hair.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_IncDom.jpg"/>
+    </media>
+    <caption>If one parent is homozygous for curly hair and the other is homozygous for straight hair, their child will have wavy hair; this is a case of incomplete dominance. (credit: modification of work “ABO system codominance” by National Institutes of Health/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00016">For other traits, a codominant inheritance pattern holds. With a <term id="term-00024">codominant trait</term>, an individual inherits both alleles of a gene, and each is fully expressed (National Human Genome Research Institute, 2024). For example, the ABO blood group has three alleles, A, B, and O, all encoded by the same gene. A child will inherit one of these alleles from each parent, which results in one of four possible phenotypes (A, B, AB, or O), commonly known as your blood type (Dean, 2005) (<link target-id="fig-00005"/>).</para>
+    <figure id="fig-00005" class="scaled-down">
+    <media alt="Illustrating showing blood type combinations possible in offspring from parent with blood type A (AO) and B (BO) reproducing. Combinations could include: blood type A (AO), AB (AB), B (BO), O (OO).">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_CoDom.jpg"/>
+    </media>
+    <caption>A child whose biological parents are heterozygous for the A, B, O blood type alleles (AO and BO in this example) will have equal probabilities of expressing any of the four blood type phenotypes (A, AB, B, or O). (credit: modification of work “ABO system codominance” by National Institutes of Health/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00017">Another factor that can influence the way genes are expressed is whether they are located on the X chromosome, meaning they are X-linked (<link target-id="fig-00006"/>). For example, the genes identified for red-green colorblindness, a recessive trait, are located on the X chromosome. Biological males are more frequently affected than biological females by recessive X-linked traits such as red-green colorblindness. Females need to receive the recessive allele for this trait from both biological parents, whereas males need to receive it only from their biological mother.</para>
+    <figure id="fig-00006">
+    <media alt="Illustration depicts combinations of not affected, carrier, and affected children resulting from parents with Father not affected and Mother carries genes as well as Father affected and Mother not affected.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_SexTraits.jpg"/>
+    </media>
+    <caption>Females who carry or inherit one X-linked red-green colorblind allele will not express the trait and are referred to as carriers. Males who carry or inherit the X-linked red-green colorblind allele and females who carry or inherit two copies will express the trait. (credit: modification of work “ABO system codominance” by National Institutes of Health/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00018">The traits described rely on one or a few genes, but the vast majority of physical, behavioral, and health traits are a type of <term id="term-00025">polygenic trait</term>, meaning they are governed by multiple genes. Together, the effects of all the individual genes add up to create the observed phenotype. Scientists are beginning to identify which combinations of genes are associated with a range of complex traits and diseases such as cognitive ability, major depressive disorder, type 2 diabetes, and coronary heart disease (Tam et al., 2019). Not all the phenotypic variation we observe is accounted for by genes, however; environmental factors also contribute to the expression of a trait. Complex traits and diseases are likely a result of <term id="term-00026">multifactorial inheritance</term>; that is, their occurrence depends on both genetic and environmental factors.</para>
+    <para id="para-00019">In addition, a single gene can influence multiple traits and produce a variety of phenotypic outcomes, a characteristic referred to as <term id="term-00027">pleiotropy</term> (<link target-id="fig-00007"/>). For example, PKU (phenylketonuria) is a single gene recessive disorder. This mutation results in the ineffective metabolism of phenylalanine (found in milk and other foods), bringing about a variety of issues if untreated, such as cognitive disability, eczema, and delayed growth (Elhawary et al., 2022; Targum &amp; Lang, 2010). Another type of pleiotropic effect occurs when genes referred to as generalist genes affect different but related phenotypes. For example, the same genetic variants are shared across verbal and nonverbal cognitive abilities (Bearden &amp; Glahn, 2017), and shared genetic variants are indicated across several psychiatric disorders (Cross-Disorder Group of the Psychiatric Genomics Consortium, 2019).</para>
+    <figure id="fig-00007" class="scaled-down">
+    <media alt="Chart depicting (a) Polygenic Effects (Gene 1, Gene 2, Gene 3 combining into a Trait) and (b) Pleiotropic Effects (Single gene splitting into Trait 1, Trait 2, Trait 3).">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_Pleiotropy.jpg"/>
+    </media>
+    <caption>(a) Polygenic effects are observed when the products of several genes are combined to create a particular phenotype. Conversely, (b) pleiotropy effects occur when the products of a particular gene affect multiple phenotypes. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Inherited and Genetic Disorders</title>
+    <para id="para-00020">Genes contribute to all aspects of human development, functioning, and trait expression, including inherited and genetic disorders. There are three main types of genetic disorders: single-gene disorders, chromosomal disorders, and multifactorial inherited disorders.</para>
+    <para id="para-00021">A <term id="term-00028">single-gene disorder</term> occurs in a single gene and can happen in two ways: (1) Individuals may inherit a pair of recessive alleles responsible for a disorder, or (2) mutations to the DNA sequence can result spontaneously, from errors during cell division or from exposure to environmental toxins or other hazards such as x-rays or pollution. Mutations occur when the DNA sequence of a gene is altered in a variety of ways but most commonly is altered by a change in a single nucleic acid base pairing substitution. Examples of single-gene disorders include PKU, Tay-Sachs disease, cystic fibrosis, and sickle cell anemia (<link target-id="table-00002"/>).</para>
+    <para id="para-00022">A <term id="term-00029">chromosomal disorder</term> is due to errors during cell division and result in structural or numerical abnormalities. Structural abnormalities occur when sections within a chromosome are deleted, duplicated, or inverted (a section of the chromosome flips its orientation), or when sections are rearranged within or across the chromosome pairs. Numerical abnormalities happen during cell division and result in one of the twenty-three chromosome pairs containing only one chromosome (<emphasis effect="italics">monosomy</emphasis>) or having an extra chromosome (<emphasis effect="italics">trisomy</emphasis>). For example, individuals with Down syndrome will have three twenty-first chromosomes rather than two (<link target-id="fig-00008"/>). Because each chromosome contains a large number of genes, deviation in chromosome number (more or less than two) will affect a range of characteristics.</para>
+    <figure id="fig-00008" class="scaled-down">
+    <media alt="Illustration chromosomes depicting an extra chromosome at the 21st chromosome.">
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_Trisomy21.jpg"/>
+    </media>
+    <caption>Down syndrome is characterized by trisomy, the presence of an extra chromosome, on the twenty-first chromosome. The additional genetic material can affect physical and cognitive development and bring a higher risk of thyroid and/or heart disease. (credit: modification of work “Down Syndrome Karyotype” by National Human Genome Research Institute/Wikimedia Commons, Public Domain)</caption>
+    </figure>
+    <para id="para-00023">A disorder resulting from <term id="term-00030">multifactorial inheritance</term> occurs when both polygenic effects (controlled by many genes) and environmental effects contribute to a phenotype. Studies have identified several genes that contribute to the risk of developing type 2 diabetes, heart disease, obesity, autism spectrum disorder, and anxiety disorders (Dickerson &amp; Dickerson, 2023; Genovese, &amp; Butler, 2023; Li et al., 2024; National Human Genome Research Institute, 2020b). Many of these disorders are also influenced by multiple genes and a range of environmental influences, such as the prenatal environment, nutrition, socioenvironmental experiences, and environmental conditions.</para>
+    <para id="para-00024">Known inherited and genetic disorders can be screened for before pregnancy, prenatally, and shortly after birth. You will learn about the more common prenatal screening methods later in the chapter. <link target-id="table-00002"/> offers an overview of some of these disorders.</para>
+    <table id="table-00002" summary=" ">
+    <title>Examples of Inherited and Genetic Disorders</title>
+    <tgroup cols="4">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <colspec colnum="4" colname="c4"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Disorder</entry>
+    <entry valign="top" align="left">Prevalence</entry>
+    <entry valign="top" align="left">Symptom description</entry>
+    <entry valign="top" align="left">Treatments</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Phenylketonuria (PKU)</entry>
+    <entry valign="top" align="left">1 in 10,000 to 15,000 live births</entry>
+    <entry valign="top" align="left">Range of intellectual disability, eczema, lighter skin due to pigment defects</entry>
+    <entry valign="top" align="left">Limit on foods containing phenylalanine; nutritional supplements</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Tay-Sachs disease</entry>
+    <entry valign="top" align="left">1 in 320,000 live births; more frequent in people of central or eastern European Jewish descent</entry>
+    <entry valign="top" align="left">Fatal progressive neurological disorder, muscle degeneration, blindness</entry>
+    <entry valign="top" align="left">No current treatments</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Cystic fibrosis</entry>
+    <entry valign="top" align="left">1 in 3,200 live births; people of European ancestry at highest risk</entry>
+    <entry valign="top" align="left">Thick, sticky mucus that clogs the lungs; vulnerability to pulmonary infections</entry>
+    <entry valign="top" align="left">Treatments to manage symptoms, prevent complications</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Sickle cell anemia</entry>
+    <entry valign="top" align="left">1 in 365 live births; Black and African Americans at greatest risk</entry>
+    <entry valign="top" align="left">Sickle-shaped red blood cells; anemia; acute chest pain; pain episodes; organ damage</entry>
+    <entry valign="top" align="left">Treatments to manage symptoms, recently approved cell-based gene therapy</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Fragile X syndrome</entry>
+    <entry valign="top" align="left">1 in 7,000 male and 1 in 11,000 female live births</entry>
+    <entry valign="top" align="left">Mild to moderate learning disabilities; distractibility and impulsivity</entry>
+    <entry valign="top" align="left">Early intervention, special education, treatment for attention deficit hyperactivity symptoms</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Down syndrome</entry>
+    <entry valign="top" align="left">1 in 1,000 live births</entry>
+    <entry valign="top" align="left">Range of intellectual disabilities; unique facial features; poor muscle tone; possible heart, digestion, or hearing problems</entry>
+    <entry valign="top" align="left">Physical, occupational, speech, and educational therapy; medical intervention as needed</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>(sources: Centers for Disease Control and Prevention, 2024a, 2024b; Elhawary et al., 2022; National Human Genome Research Institute, 2013, 2014, 2020a; Ramani &amp; Sankaran, 2023; U.S. Food and Drug Administration, 2023)</caption>
+    </table>
+    </section>
+    <section id="sect-00005">
+    <title>Links Between Genes and Environments</title>
+    <para id="para-00025">Genetic research has helped us understand human traits that rely on one or two genes. However, most human traits, such as personality, are more complex and result from a combination of genetic (nature) and environmental (nurture) influences. Understanding how, and how much, genes and environments influence gene expression together is the focus of the field of <term id="term-00031">behavioral genetics</term>. As mentioned in <link document="m00018"/>, <term class="no-emphasis" id="term-00032">heritability estimate</term>s indicate the degree to which genetics contribute to individual differences for a trait within a population. A high heritability estimate, near 100 percent, indicates that genetic effects explain a lot of variability within a population; a low heritability, closer to 0 percent, indicates that most of the variability is environmental (Mayhew &amp; Meyre, 2017) (<link target-id="table-00003"/>).</para>
+    <para id="para-00026">The goal of behavioral genetics is to explain 100 percent of the observed variance for a trait. When we interpret a heritability estimate, we also know to what degree environmental influences account for differences in a trait. For example, the heritability of intelligence is 50 percent, which tells us that genetics explains half the observed differences in this complex trait, and the remaining 50 percent is due to environmental effects. Note that heritability is a population statistic and cannot be applied to a specific individual. In other words, heritability can’t tell you how much your intelligence is due to the specific genes you inherited. Consider the examples in <link target-id="table-00003"/>.</para>
+    <table id="table-00003" summary=" ">
+    <title>Heritability Estimates for Common Human Traits</title>
+    <tgroup cols="2">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Trait</entry>
+    <entry valign="top" align="left">Heritability</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">Height</entry>
+    <entry valign="top" align="left">80–90 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Blood pressure</entry>
+    <entry valign="top" align="left">30–70 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Intelligence</entry>
+    <entry valign="top" align="left">50 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Big Five personality traits</entry>
+    <entry valign="top" align="left">40–60 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Autism spectrum disorder</entry>
+    <entry valign="top" align="left">64–91 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Depression</entry>
+    <entry valign="top" align="left">37 percent</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">Alcohol dependence</entry>
+    <entry valign="top" align="left">50 percent</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    <caption>(sources: Doris, 2010; Plomin &amp; von Stumm, 2018; Power &amp; Pluess, 2015; Schrempft et al., 2018; Sullivan et al., 2000; Tick et al., 2015; Verhulst et al., 2014)</caption>
+    </table>
+    <para id="para-00027">With heritability, we can understand the magnitude of individual genetic and environmental effects on a complex trait. But how do genes and environments work together to create the range of phenotypes observed for traits like personality or depression? The answer involves exploring the way genetic and environmental effects are intertwined via gene and environment interactions (G × E), gene and environment correlations (rGE), and epigenetic effects.</para>
+    <section id="sect-00006">
+    <title>Epigenetics</title>
+    <para id="para-00028">As you learned in <link document="m00018"/>, <term class="no-emphasis" id="term-00033">epigenetics</term> investigates the way environments, experiences, and behaviors influence the expression of inherited genes without altering the DNA sequence of those genes (National Human Genome Research Institute, 2022). How do epigenetic effects influence gene expression? One common way <term class="no-emphasis" id="term-00034">gene expression</term> is regulated is by the addition and removal of chemical tags through the process of <term id="term-00035">DNA methylation</term> (<link target-id="fig-00009"/>). When methyl groups are added to the nucleotide base(s) of the gene, it prevents expression or silences the gene. Conversely, when a methyl group is removed from the nucleotide base(s) of the gene, it increases gene expression (Moore et al., 2012; Villicaña &amp; Bell, 2021).</para>
+    <figure id="fig-00009" class="scaled-down-30">
+    <media alt="Alt text placeholder">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_DNAMethyl.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>During DNA methylation, methyl groups are added to or removed from the nucleotide bases, influencing gene expression. (credit: placeholder)</caption>
+    </figure>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00029">Watch this <link url="https://openstax.org/r/104Epigentics">TED-Ed brief overview of epigenetics</link> to learn more.</para>
+    </note>
+    <para id="para-00030">Epigenetic effects can be activated by chemical and environmental exposures (lead, air and water pollutants, PCBs, BPA), diet and food availability (lack of folate, prenatal malnutrition), lifestyle habits (smoking, high alcohol consumption, stress, exercise), and a range of drug treatments (Toraño et al., 2016). These can occur throughout the lifespan and are linked to increased risks for chronic illness and disease and development of mental and physical health issues. Early studies of epigenetic effects examined the records of children whose mothers were pregnant during the Dutch famine of 1944–1945 during World War II (Heijmans et al., 2008). Prenatal exposure to the famine was linked to a greater risk for the development of type 2 diabetes and heart disease later in life (De Rooij et al., 2021). The children of mothers exposed to prenatal famine were larger at birth, while the children of fathers exposed to prenatal famine were heavier in adulthood (De Rooij et al., 2021). These studies indicate that epigenetic effects may be transmitted to future generations.</para>
+    <para id="para-00031">More recent investigations have focused on the effects of early childhood stress exposure. In children who had experienced earlier traumatic events, often called adverse childhood experiences, epigenetic effects were observed in areas of the brain that control the stress response. These children were more reactive to stress, even low levels, and more prone to depression and anxiety due to the epigenetic changes identified (Turecki &amp; Meaney, 2016). Whether epigenetic effects are passed to the next generation in humans is just beginning to be examined. Although the chemical tags connected to epigenetic effects are usually removed during gamete production, research suggests some can be passed to future generations in animals (Gillette et al., 2018).</para>
+    <para id="para-00032">Regardless of whether epigenetic effects are passed to the next generation, providing health services and nutritional support to pregnant individuals, infants, and toddlers can reduce preventable illnesses with long-lasting implications that occur through epigenetic mechanisms (National Scientific Council on the Developing Child, 2010). For example, access to health care and nutritional resources may increase resilience and defray health care–related costs of long-term physical and mental health issues caused by epigenetic changes due to exposure to toxins such as lead, and nutritional interventions to prevent diabetes and cardiovascular disease, or reverse epigenetic effects, in some cases (Abraham et al., 2023; Bekdash, 2024).</para>
+    </section>
+    <section id="sect-00007">
+    <title>Genotype and Environment Interplay</title>
+    <para id="para-00033">Another way genes and environments work together to create a <term class="no-emphasis" id="term-00036">phenotype</term> is through a <term id="term-00037">genotype × environment interaction</term>. In these events, the effect of the genotype (nature) on a phenotype (observed trait) depends on our environment (nurture). In other words, some genes will have an effect only under certain environmental conditions.</para>
+    <para id="para-00034">A classic example of a genotype × environment interaction is PKU (Widaman, 2009). Recall that <term class="no-emphasis" id="term-00038">PKU</term> is a recessive disorder but will negatively affect development only if a low-phenylalanine diet isn’t followed. A genetic risk (two affected alleles) must interact with a high-risk environment (a high-phenylalanine diet) for the PKU phenotype to occur. Other gene × environment interaction models indicate that some genotypes may show differential susceptibility, which means they are sensitive to both protective and risk environments. A group of adolescent males with the short allele of a certain gene associated with serotonin reported more depressive episodes when experiencing lower family support, and fewer episodes with more family support. However, this interaction was not found for the long allele of this gene (Li et al., 2013).</para>
+    <para id="para-00035">As mentioned in <link document="m00013"/>, there are several types of <term class="no-emphasis" id="term-00039">genotype-environment correlation</term>s, which indicates that our genes and environments are not randomly distributed but are instead connected. This model of gene and environment interplay suggests that our genes play a role in shaping our environments and experiences. Three types of genotype-environments (rGEs) are evident across the lifespan: passive, evocative, and active (Plomin et al., 1977; Scarr &amp; McCartney, 1983).</para>
+    <list id="list-00002">
+    <item>A <term id="term-00040">passive genotype-environment correlation</term> occurs when biological parents provide both the genes and environment for children. Therefore, children inherit a genotype that covaries, or varies in correlation with, their family’s environment. For example, if your inherited genes predispose you for musical ability, and you are raised by biologically related caregivers, you are also likely to be provided a family environment that supports musicality. For example, the father already had a drum set and the mother regularly plays piano. This type of genotype-environment correlation is observed during infancy and early childhood when children have little control over their environment.</item>
+    <item>An <term id="term-00041">evocative (or reactive) genotype-environment correlation</term> is evident when an individual’s genetically influenced traits or behaviors evoke a response from those around them. In other words, people evoke environmental effects that covary with their genetic predispositions. For example, your inclination for musical ability will likely be noticed by your music teacher, who works with you on challenging music pieces and encourages you to try out for the school orchestra. Evocative genotype-environment correlations steadily occur across our lifespan, from infancy through late adulthood.</item>
+    <item>An <term id="term-00042">active genotype-environment correlation</term> is present when our genes influence the experiences and environments we seek out or select to match our genetic predispositions. In other words, people construct environments that covary with their genotypes. This effect is also referred to as <term class="no-emphasis" id="term-00043">niche picking</term>, which means we actively choose the environment (niche) where we feel most comfortable. You recognize your musical ability and select environments and experiences that allow you to pursue personal and professional opportunities connected to music. Active genotype-environments increase over the lifespan as individuals gain more control over their environment.</item>
+    </list>
+    <para id="para-00036">The interplay between genes and environment is challenging to disentangle. For any given human behavior, multiple connections and mutual influences between genotypes and environments work together to create the similarities and differences observed across human behavior (<link target-id="fig-00010"/>).</para>
+    <figure id="fig-00010" class="scaled-down-30">
+    <media alt="Alt text placeholder">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_02_01_IndivGen.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>Three types of genotype-environments are evident across the lifespan: passive, evocative, and active. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
+    </figure>
+    </section>
+    </section>
+    <section class="summary" id="sect-00008">
+    <list id="list-00003">
+    <item>Humans have forty-six paired chromosomes after receiving twenty-three, half of each pair, from each biological parent.</item>
+    <item>Genes are portions of the DNA sequence containing instructions for the body to make proteins that regulate our development.</item>
+    <item>Our genotype is our unique combination of individual genes, and our phenotype is the way these genes express themselves physically and behaviorally.</item>
+    <item>Recessive genes exert their influence only in the absence of a dominant gene.</item>
+    <item>Different types of genetic inheritance (recessive/dominant, incomplete dominance, codominance) determine the way the genes we inherit are expressed.</item>
+    <item>Most traits are influenced by numerous genes, and some genes influence multiple traits as well.</item>
+    <item>Sometimes errors occur during cell division that can cause inherited genetic disorders, such as sickle cell anemia or Down syndrome.</item>
+    <item>Genes and environments mutually influence gene expression, and our phenotype is observed through epigenetic effects and gene-environment interactions.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00009">
+    <title>Assessment: Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00037"><link class="os-embed" url="#exercise/02-01-LD-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00038"><link class="os-embed" url="#exercise/02-01-LD-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00039"><link class="os-embed" url="#exercise/02-01-LD-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00040"><link class="os-embed" url="#exercise/02-01-LD-RQ04"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00041"><link class="os-embed" url="#exercise/02-01-LD-RQ05"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="check-understanding" id="sect-00010">
+    <title>Assessment: Check Your Understanding Questions</title>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00042"><link class="os-embed" url="#exercise/02-01-LD-CU01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00043"><link class="os-embed" url="#exercise/02-01-LD-CU02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="personal-application" id="sect-00011">
+    <title>Assessment: Personal Application Questions</title>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00044"><link class="os-embed" url="#exercise/02-01-LD-PA01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00045"><link class="os-embed" url="#exercise/02-01-LD-PA02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00046"><link class="os-embed" url="#exercise/02-01-LD-PA03"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="essay-questions" id="sect-00012">
+    <title>Assessment: Essay Questions</title>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00047"><link class="os-embed" url="#exercise/02-01-LD-EQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00012">
+    <problem id="prob-00012">
+    <para id="para-00048"><link class="os-embed" url="#exercise/02-01-LD-EQ02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="references" id="sect-00013">
+    <title>References</title>
+    <para id="para-00049">Abraham, M. J., El Sherbini, A., El-Diasty, M., Askari, S., &amp; Szewczuk, M. R. (2023). Restoring epigenetic reprogramming with diet and exercise to improve health-related metabolic diseases. <emphasis effect="italics">Biomolecules</emphasis>, <emphasis effect="italics">13</emphasis>(2), Article 318. https://doi.org/10.3390/biom13020318</para>
+    <para id="para-00050">Bearden, C. E., &amp; Glahn, D. C. (2017). Cognitive genomics: Searching for the genetic roots of neuropsychological functioning. <emphasis effect="italics">Neuropsychology, 31</emphasis>(8), 1003–1019. https://doi.org/10.1037/neu0000412</para>
+    <para id="para-00051">Bekdash R. A. (2024). Epigenetics, nutrition, and the brain: Improving mental health through diet. <emphasis effect="italics">International Journal of Molecular Sciences</emphasis>, <emphasis effect="italics">25</emphasis>(7), Article 4036. https://doi.org/10.3390/ijms25074036</para>
+    <para id="para-00052">Cross-Disorder Group of the Psychiatric Genomics Consortium (2019, December 12). Genomic relationships, novel loci, and pleiotropic mechanisms across eight psychiatric disorders. <emphasis effect="italics">Cell</emphasis>, <emphasis effect="italics">179</emphasis>(7), 1469–1482. https://doi.org/10.1016/j.cell.2019.11.020</para>
+    <para id="para-00053">De Rooij, S. R., Bleker, L. S., Painter, R. C., Ravelli, A. C., &amp; Roseboom, T. J. (2021). Lessons learned from 25 years of research into long term consequences of prenatal exposure to the Dutch famine 1944–45: The Dutch famine birth cohort. <emphasis effect="italics">International Journal of Environmental Health Research</emphasis>, <emphasis effect="italics">32</emphasis>(7), 1–15. https://doi.org/10.1080/09603123.2021.1888894</para>
+    <para id="para-00054">Dean L. (2005). Blood Groups and Red Cell Antigens. <emphasis effect="italics">The ABO blood group</emphasis>. National Center for Biotechnology Information (US). https://www.ncbi.nlm.nih.gov/books/NBK2267/</para>
+    <para id="para-00055">Dickerson, A. S., &amp; Dickerson, A. S. (2023). Prenatal socioenvironmental exposures and autism spectrum disorder: A web of confusion. <emphasis effect="italics">Child Development Perspectives</emphasis>, <emphasis effect="italics">17</emphasis>(1), 32–38. https://doi.org/10.1111/cdep.12472</para>
+    <para id="para-00056">Doris P. A. (2010). The genetics of blood pressure and hypertension: the role of rare variation. <emphasis effect="italics">Cardiovascular Therapeutics</emphasis>, <emphasis effect="italics">29</emphasis>(1), 37–45. https://doi.org/10.1111/j.1755-5922.2010.00246.x</para>
+    <para id="para-00057">Duello, T. M., Rivedal, S., Wickland, C., &amp; Weller, A. (2021). Race and genetics versus “race” in genetics: A systematic review of the use of African ancestry in genetic studies. <emphasis effect="italics">Evolution, Medicine, and Public Health</emphasis>, <emphasis effect="italics">9</emphasis>(1), 232–245. https://doi.org/10.1093/emph/eoab018</para>
+    <para id="para-00058">Elhawary, N. A., AlJahdali, I. A., Abumansour, I. S., Elhawary, E. N., Gaboon, N., Dandini, M., Madkhali, A., Alosaimi, W., Alzahrani, A., Aljohani, F., Melibary, E. M., &amp; Kensara, O. A. (2022). Genetic etiology and clinical challenges of phenylketonuria. <emphasis effect="italics">Human Genomics</emphasis>, <emphasis effect="italics">16</emphasis>(1), Article 22. https://doi.org/10.1186/s40246-022-00398-9</para>
+    <para id="para-00059">Genetic and Rare Diseases Information Center. <emphasis effect="italics">Genetic and Rare Diseases Information Center.</emphasis> U.S. Department of Health and Human Services, National Institutes of Health. https://rarediseases.info.nih.gov/</para>
+    <para id="para-00060">Genovese, A., &amp; Butler, M. G. (2023). The autism spectrum: Behavioral, psychiatric and genetic associations. <emphasis effect="italics">Genes</emphasis>, <emphasis effect="italics">14</emphasis>(3), Article 677. https://doi.org/10.3390/genes14030677</para>
+    <para id="para-00061">Gillette, R., Son, M. J., Ton, L., Gore, A. C., &amp; Crews, D. (2018). Passing experiences on to future generations: Endocrine disruptors and transgenerational inheritance of epimutations in brain and sperm. <emphasis effect="italics">Epigenetics, 13</emphasis>(10–11), 1106–1126. https://doi.org/10.1080/15592294.2018.1543506</para>
+    <para id="para-00062">Gottlieb, S. F., Tupper, C., Kerndt, C. C., Tegay, D. H. (2023, August 14). <emphasis effect="italics">Genetics, Nondisjunction</emphasis>. StatPearls Publishing. https://www.ncbi.nlm.nih.gov/books/NBK482240/</para>
+    <para id="para-00063">Heijmans, B. T., Tobi, E. W., Stein, A. D., Putter, H., Blauw, G. J., Susser, E. S., Slagboom, P. E., &amp; Lumey, L. H. (2008). Persistent epigenetic differences associated with prenatal exposure to famine in humans. <emphasis effect="italics">Proceedings of the National Academy of Sciences</emphasis>, <emphasis effect="italics">105</emphasis>(44), 17046–17049. https://doi.org/10.1073/pnas.0806560105</para>
+    <para id="para-00064">Klug, W. S., Cummings, M. R., Spencer, C. A., &amp; Palladino, M. A. (2016). <emphasis effect="italics">Concepts of genetics.</emphasis> Pearson.</para>
+    <para id="para-00065">Li, J. J., Berk, M. S., &amp; Lee, S. S. (2013). Differential susceptibility in longitudinal models of gene-environment interaction for adolescent depression. <emphasis effect="italics">Development and Psychopathology</emphasis>, <emphasis effect="italics">25</emphasis>(4pt), 991–1003. https://doi.org/10.1017/S0954579413000321</para>
+    <para id="para-00066">Li, Y., Chen, G. Moon, J., Arthur, R. Sotres-Alvarez, D. Daviglus, M. L., Pirzada, A., Mattei, J., Perreira, K. M., Rotter, J. I., Taylor, K. D., Chen, Y. I., Wassertheil-Smoller, S., Wang, T., Rohan, T. E., Kaufman, J. D., Kaplan, R., Qi, Q. (2024). Genetic subtypes of prediabetes, healthy lifestyle, and risk of type 2 diabetes. <emphasis effect="italics">Diabetes</emphasis>, <emphasis effect="italics">73</emphasis>(7), 1178–1187. https://doi.org/10.2337/db23-0699</para>
+    <para id="para-00067">Mayhew, A. J., &amp; Meyre, D. (2017). Assessing the heritability of complex traits in humans: Methodological challenges and opportunities. <emphasis effect="italics">Current Genomics</emphasis>, <emphasis effect="italics">18</emphasis>(4), 332–340. https://doi.org/10.2174/1389202918666170307161450</para>
+    <para id="para-00068">Moore, L. D., Le, T., &amp; Fan, G. (2012). DNA methylation and its basic function. <emphasis effect="italics">Neuropsychopharmacology</emphasis>, <emphasis effect="italics">38</emphasis>, 23–38. https://doi.org/10.1038/npp.2012.112</para>
+    <para id="para-00069">National Human Genome Research Institute. (2013, December, 27). <emphasis effect="italics">About cystic fibrosis</emphasis>. National Institutes of Health. https://www.genome.gov/Genetic-Disorders/Cystic-Fibrosis</para>
+    <para id="para-00070">National Human Genome Research Institute. (2014, August, 21). <emphasis effect="italics">About phenylketonuria.</emphasis> National Institutes of Health. https://www.genome.gov/Genetic-Disorders/Phenylketonuria</para>
+    <para id="para-00071">National Human Genome Research Institute. (2020a, May, 26). <emphasis effect="italics">About sickle cell disease.</emphasis> National Institutes of Health. https://www.genome.gov/Genetic-Disorders/Sickle-Cell-Disease</para>
+    <para id="para-00072">National Human Genome Research Institute. (2020b, August 11). <emphasis effect="italics">Polygenic risk scores.</emphasis> National Institutes of Health. https://www.genome.gov/Health/Genomics-and-Medicine/Polygenic-risk-scores</para>
+    <para id="para-00073">National Human Genome Research Institute. (2022, August 16). <emphasis effect="italics">A brief guide to genomics</emphasis>. National Institutes of Health. https://www.genome.gov/about-genomics/fact-sheets/A-Brief-Guide-to-Genomics</para>
+    <para id="para-00074">National Human Genome Research Institute. (2024, August 9). <emphasis effect="italics">Codominance.</emphasis> National Institutes of Health. https://www.genome.gov/genetics-glossary/Codominance</para>
+    <para id="para-00075">National Organization for Rare Disorders (n.d.). https://rarediseases.org/rare-diseases</para>
+    <para id="para-00076">National Scientific Council on the Developing Child (2010). <emphasis effect="italics">Early experiences can alter gene expression and affect long-term development</emphasis> [White paper]. Harvard University Center on the Developing Child. https://developingchild.harvard.edu/resources/early-experiences-can-alter-gene-expression-and-affect-long-term-development/</para>
+    <para id="para-00077">Omoto, C. K., &amp; Lurquin, P. F. (2004) Genes and DNA: A beginner’s guide to genetics and its applications. <emphasis effect="italics">Inheritance of single-gene traits</emphasis> and <emphasis effect="italics">Mendelian traits in humans</emphasis>. Columbia University Press.</para>
+    <para id="para-00078">Plomin R., DeFries J., &amp; Fulker D. (1977). Genotype–environment interaction and correlation in the analysis of human behavior. <emphasis effect="italics">Psychological Bulletin, 84</emphasis>(2), 309–322. https://doi.org/10.1037/0033-2909.84.2.309</para>
+    <para id="para-00079">Plomin, R., &amp; von Stumm, S. (2018). The new genetics of intelligence. <emphasis effect="italics">Nature Reviews Genetics</emphasis>, <emphasis effect="italics">19</emphasis>, 148–159. https://doi.org/10.1038/nrg.2017.104</para>
+    <para id="para-00080">Power, R. A., &amp; Pluess, M. (2015). Heritability estimates of the Big Five personality traits based on common genetic variants. <emphasis effect="italics">Translational Psychiatry</emphasis>, <emphasis effect="italics">5</emphasis>, Article e604. https://doi.org/10.1038/tp.2015.96</para>
+    <para id="para-00081">Ramani, P. K., &amp; Sankaran, B. P. (2023). <emphasis effect="italics">Tay-Sachs disease.</emphasis> StatsPearl Publishing. https://www.ncbi.nlm.nih.gov/books/NBK564432/</para>
+    <para id="para-00082">Scarr, S., &amp; McCartney, K. (1983). How people make their own environments: A theory of genotype environment effects. <emphasis effect="italics">Child Development</emphasis>, <emphasis effect="italics">54</emphasis>(2), 424–435. https://doi.org/10.2307/1129703</para>
+    <para id="para-00083">Schrempft, S., van Jaarsveld, C. H. M., Fisher, A., Herle, M., Smith, A. D., Fildes, A., &amp; Llewellyn, C. H. (2018). Variation in the heritability of child body mass index by obesogenic home environment. <emphasis effect="italics">JAMA Pediatrics</emphasis>, <emphasis effect="italics">172</emphasis>(12), 1153–1160. https://doi.org/10.1001/jamapediatrics.2018.1508</para>
+    <para id="para-00084">Skuse, D., Printzlau, F., &amp; Wolstencroft, J. (2018). Sex chromosome aneuploidies. <emphasis effect="italics">Handbook of Clinical Neurology, 147</emphasis>, 355–376. https://doi.org/10.1016/b978-0-444-63233-3.00024-5</para>
+    <para id="para-00085">Sullivan, P. F., Neale, M. C., &amp; Kendler, K. S. (2000). Genetic epidemiology of major depression: Review and meta-analysis. <emphasis effect="italics">American Journal of Psychiatry, 157</emphasis>(10), 1552–1562. https://doi.org/10.1176/appi.ajp.157.10.1552</para>
+    <para id="para-00086">Tam et al., 2019</para>
+    <para id="para-00087">Targum, S. D., &amp; Lang, W. (2010). Neurobehavioral problems associated with Phenylketonuria. <emphasis effect="italics">Psychiatry, 7</emphasis>(12), 29–32. https://pubmed.ncbi.nlm.nih.gov/21274394</para>
+    <para id="para-00088">Tick, B., Bolton, P., Happé, F., Rutter, M., &amp; Rijsdijk, F. (2015). Heritability of autism spectrum disorders: A meta-analysis of twin studies. <emphasis effect="italics">Journal of Child Psychology and Psychiatry, and Allied Disciplines</emphasis>, <emphasis effect="italics">57</emphasis>(5), 585–595. https://doi.org/10.1111/jcpp.12499</para>
+    <para id="para-00089">Toraño, E. G., García, M. G., Fernández-Morera, J. L., Niño-García, P., &amp; Fernández, A. F. (2016). The Impact of external factors on the epigenome: In utero and over lifetime. <emphasis effect="italics">BioMed Research International</emphasis>, <emphasis effect="italics">2016</emphasis>, Article 2568635. https://doi.org/10.1155/2016/2568635</para>
+    <para id="para-00090">Turecki, G., &amp; Meaney, M. J. (2016). Effects of the social environment and stress on glucocorticoid receptor gene methylation: A systematic review. <emphasis effect="italics">Biological Psychiatry, 79</emphasis>(2), 87–96. https://doi.org/10.1016/j.biopsych.2014.11.022</para>
+    <para id="para-00091">U.S. Centers for Disease Control and Prevention. (2024a, May, 15). <emphasis effect="italics">Data and statistics on fragile X syndrome</emphasis>. Department of Health and Human Services. https://www.cdc.gov/fragile-x-syndrome/data/index.html</para>
+    <para id="para-00092">U.S. Centers for Disease Control and Prevention. (2024b, May 16). <emphasis effect="italics">Birth defects</emphasis>. Department of Health and Human Services. https://www.cdc.gov/birth-defects/about/down-syndrome.html</para>
+    <para id="para-00093">U.S. Food and Drug Administration. (2023, December, 8). <emphasis effect="italics">FDA approves first gene therapies to treat patients with sickle cell disease</emphasis>. U.S. Department of Health and Human Services. https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapies-treat-patients-sickle-cell-disease</para>
+    <para id="para-00094">Verhulst, B., Neale, M. C., &amp; Kendler, K. S. (2014). The heritability of alcohol use disorders: A meta-analysis of twin and adoption studies. <emphasis effect="italics">Psychological Medicine</emphasis>, <emphasis effect="italics">45</emphasis>(5), 1061–1072. https://doi.org/10.1017/s0033291714002165</para>
+    <para id="para-00095">Villicaña, S., &amp; Bell, J. T. (2021). Genetic impacts on DNA methylation: Research findings and future perspectives. <emphasis effect="italics">Genome Biology</emphasis>, <emphasis effect="italics">22</emphasis>, Article 127. https://doi.org/10.1186/s13059-021-02347-6</para>
+    <para id="para-00096">Widaman K. F. (2009). Phenylketonuria in children and mothers: Genes, environments, behavior. <emphasis effect="italics">Current Directions in Psychological Science</emphasis>, <emphasis effect="italics">18</emphasis>(1), 48–52. https://doi.org/10.1111/j.1467-8721.2009.01604.x</para>
+    </section>
+    </content>
+    <glossary>
+    <definition id="def-00001">
+    <term>active genotype-environment correlation</term>
+    <meaning>event in which individuals select particular environments or experiences based on their genotype</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>allele</term>
+    <meaning>variant of a gene</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>autosome</term>
+    <meaning>chromosome in the nucleus that is not a sex chromosome</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>behavioral genetics</term>
+    <meaning>interdisciplinary field that focuses on the study of heredity-behavior relationships</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>chromosomal disorder</term>
+    <meaning>condition that occurs with the incorrect number of chromosomes or results from structural abnormalities of the chromosome</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>chromosome</term>
+    <meaning>strand of the DNA sequence in the nucleus of an individual’s cells that carries genes transmitting hereditary information</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>codominant trait</term>
+    <meaning>characteristic observed when two different alleles are expressed at the same time</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>DNA (also, deoxyribonucleic acid)</term>
+    <meaning>molecule that contains an individual’s genetic information</meaning>
+    </definition>
+    <definition id="def-00009">
+    <term>DNA methylation</term>
+    <meaning>process whereby methyl groups are added to or removed from DNA, potentially causing changes in gene expression</meaning>
+    </definition>
+    <definition id="def-00010">
+    <term>dominant trait</term>
+    <meaning>characteristic observed when only one copy of the allele is needed to express a phenotype</meaning>
+    </definition>
+    <definition id="def-00011">
+    <term>evocative (or reactive) genotype-environment correlation</term>
+    <meaning>events in which an individual’s genetically influenced traits elicit an environmental response</meaning>
+    </definition>
+    <definition id="def-00012">
+    <term>gamete</term>
+    <meaning>sex cell, the ovum or sperm, that only carries twenty-three chromosomes</meaning>
+    </definition>
+    <definition id="def-00013">
+    <term>gene</term>
+    <meaning>hereditary unit composed of a specific DNA sequence that occupies a specific location along a chromosome in an individual; carries instructions for making proteins</meaning>
+    </definition>
+    <definition id="def-00014">
+    <term>genotype × environment interaction</term>
+    <meaning>event that occurs when the expression of a genotype depends on the environment</meaning>
+    </definition>
+    <definition id="def-00015">
+    <term>genome</term>
+    <meaning>the complete sequence of an organism’s DNA</meaning>
+    </definition>
+    <definition id="def-00016">
+    <term>genotype</term>
+    <meaning>an individual’s particular genetic composition of alleles at specific locations</meaning>
+    </definition>
+    <definition id="def-00017">
+    <term>heterozygous</term>
+    <meaning>trait in which an individual receives different alleles from each biological parent</meaning>
+    </definition>
+    <definition id="def-00018">
+    <term>homozygous</term>
+    <meaning>trait in which an individual receives identical alleles from each biological parent</meaning>
+    </definition>
+    <definition id="def-00019">
+    <term>incomplete dominance</term>
+    <meaning>form of genetic expression in which both inherited alleles are partially expressed</meaning>
+    </definition>
+    <definition id="def-00020">
+    <term>meiosis</term>
+    <meaning>type of cell division that occurs during gamete production and results in their containing only one member of each chromosome pair</meaning>
+    </definition>
+    <definition id="def-00021">
+    <term>mitosis</term>
+    <meaning>type of cell division in which a cell duplicates itself and its DNA</meaning>
+    </definition>
+    <definition id="def-00022">
+    <term>multifactorial inheritance</term>
+    <meaning>phenotype resulting from multiple genetic and environmental factors</meaning>
+    </definition>
+    <definition id="def-00023">
+    <term>passive genotype-environment correlation</term>
+    <meaning>event that occurs when parents provide their children with both genes and environment</meaning>
+    </definition>
+    <definition id="def-00024">
+    <term>phenotype</term>
+    <meaning>observable expression of someone’s genome</meaning>
+    </definition>
+    <definition id="def-00025">
+    <term>pleiotropy</term>
+    <meaning>most common form of genetic expression in which one gene influences multiple traits</meaning>
+    </definition>
+    <definition id="def-00026">
+    <term>polygenic trait</term>
+    <meaning>trait influenced by several genes</meaning>
+    </definition>
+    <definition id="def-00027">
+    <term>recessive trait</term>
+    <meaning>trait that requires two identical alleles to be expressed</meaning>
+    </definition>
+    <definition id="def-00028">
+    <term>single-gene disorder</term>
+    <meaning>condition caused by variation in a single gene</meaning>
+    </definition>
+    </glossary>
+    </document>
