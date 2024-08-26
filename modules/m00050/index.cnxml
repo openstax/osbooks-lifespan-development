@@ -5,6 +5,21 @@
     <md:uuid>8334dead-d8d5-49f5-8176-c163c228c8f2</md:uuid>
   </metadata>
   <content class="introduction">
-    <para id="para-00001">PlaceHolder</para>
-  </content>
-</document>
+    <figure id="fig-00001" class="splash">
+    <media alt="Alt text placeholder">
+    <!-- <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_09_00_Baseball.jpg"/>  -->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>Adolescence is a time of significant change in both body and mind.</caption>
+    </figure>
+    <para id="para-00001">Fourteen-year-old Miguel awkwardly lumbers down the stairs with just minutes to go before the morning school bus. He overslept again and didn’t lay out his baseball practice uniform the previous night. He grunts an empty apology to his mother who he now towers over as he packs his backpack. Later that day, his French teacher says he can’t use the restroom because of the school policy limiting restroom use to one student at a time. He heads to the restroom anyway, arguing with the teacher that the policy doesn’t make any sense. At lunch, he and his friends trade jokes and try out rap lyrics on each other. After geometry class ends, Miguel is off to a two-hour baseball practice. He comes home exhausted, eager to listen to music, play video games, and relax. Later that night, his father checks on him, finds him asleep but still in his clothes, and removes a pile of dirty dishes from his desk.</para>
+    <para id="para-00002">Miguel’s behaviors and interactions firmly situate him within adolescence—a transition period leading him from childhood toward adulthood in many dimensions. Miguel and those in his life will likely have many questions as he moves through this stage, including:</para>
+    <list id="list-00001">
+    <item>Is arguing with authority figures a typical part of adolescence?</item>
+    <item>Are the changes in sleep needs and habits coming from a lack of motivation, or something else?</item>
+    <item>Do adolescents think carefully before they make risky decisions?</item>
+    <item>Is academic achievement just a matter of ability, or do other factors influence educational outcomes for adolescents?</item>
+    </list>
+    <para id="para-00003">[Add transition and preview of H1s] In this chapter you will…</para>
+    </content>
+    </document>
