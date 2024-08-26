@@ -5,5 +5,349 @@
     <md:uuid>e6767461-fdc1-4fcc-a1dd-e2a691b9bd1f</md:uuid>
   </metadata>
   <content>
-  </content>
+    <section class="learning-objectives" id="sect-00001">
+    <title>Learning Objectives</title>
+    <para id="para-00001">By the end of this section, you will be able to:</para>
+    <list id="list-00001">
+    <item>Identify milestones in cognitive development in infants and toddlers</item>
+    <item>Describe the different methods for studying infant cognition</item>
+    <item>Describe the types of memory and what is known about memory development in infancy</item>
+    <item>Compare the major theories of cognitive development in infants and toddlers</item>
+    <item>Describe variations in cognitive development in terms of environmental factors</item>
+    </list>
+    </section>
+    <para id="para-00002">Dante is the fourth child in his family and is now fifteen months old. As his father begins to prepare dinner, he settles Dante on the floor where he can see him and gives him a wooden spoon, some teaspoons, and some pots and pans. Dante immediately begins to bang on the pans with the wooden spoon and then does the same with the teaspoons. He also takes the teaspoons and drops them into the smaller pot and then dumps them back out again. He repeats this process several times. Dante’s father may not love the noise, but he loves knowing that his son is actively learning. He understands that toddlers need to explore their world using their senses and their motor skills, and that even everyday objects can be entertaining for young children.</para>
+    <para id="para-00003">In this section, you’ll learn the main theories of cognitive development. First is Piaget’s groundbreaking work, which continues to influence the fields of child development and education. Then you’ll consider current methods used to study infant and toddler cognition and an information processing model explaining the units and capacity of our attention and memory. Finally, you’ll see how cultural and social experiences can influence our learning, and you’ll account for individual differences in cognitive development.</para>
+    <section id="sect-00002">
+    <title>Piaget’s Theory of Cognitive Development</title>
+    <para id="para-00004">Jean Piaget (1896–1980) was an influential cognitive psychologist who originally trained as a biologist and philosopher. He spent more than five decades studying cognitive development and is most famous for his research and theory on the cognitive development of children. You’ll consider some key principles of the first stage of his theory in this section, as well as critiques of his work.</para>
+    <section id="sect-00003">
+    <title>Background of Piaget’s Work</title>
+    <para id="para-00005">In Paris in the 1920s, Piaget noticed qualitative differences in the way children of different ages, including his own three, responded to questions and explained the world (Lascarides &amp; Hinitz, 2013). He then used his detailed notes and observations to create a stage theory of cognitive development (<link document="m00019" target-id="table-00002"/>).</para>
+    <para id="para-00006">Piaget’s theory is an example of discontinuous development, which you may recall from <link document="m00013"/> is change that occurs in sudden shifts or as qualitative and dramatic changes in skills or behaviors. In other words, cognitive development happens in stages, in the same way a caterpillar changes into a chrysalis and then a butterfly.</para>
+    <para id="para-00007">Piaget theorized that we are working to make sense of the world, holding our knowledge in balance or cognitive equilibrium (Piaget, 1952, 1954). As we encounter information, we create schemas in which to catalog it. A <term id="term-00001">schema</term> is a mental framework that helps us organize and interpret information we receive from our environment. For example, you might have a schema for a bird: It has feathers, a beak, and wings; it flies; it lays eggs in a nest. You might even include a pet parakeet you had as an example.</para>
+    <para id="para-00008">Children develop and adjust schemas when they interact with their physical and social environments, experimenting and applying trial and error. Piaget explained these adjustments as the cognitive processes of <term id="term-00002">assimilation</term> and <term id="term-00003">accommodation</term>. Assimilation occurs when the information from your environment fits what you already know. Accommodation happens when you need to make changes to your knowledge because something doesn’t fit your existing schema. For example, a child might see a parrot and realize it is a bird with a beak and wings that flies (assimilation), but the child will need to accommodate when seeing a penguin, which is flightless, or a flamingo, which has a different body shape (<link target-id="fig-00001"/>).</para>
+    <figure id="fig-00001">
+    <media alt="Alt text placeholder">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_03_04_AssimBirds.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>Assimilation fits new information into existing schemas, while accommodation rearranges, redefines, or creates schemas to make space for new information.</caption>
+    </figure>
+    </section>
+    <section id="sect-00004">
+    <title>Sensorimotor Development, Stage 1</title>
+    <para id="para-00009">Both assimilation and accommodation occur throughout life as we adapt to our environments. Piaget theorized that the organization and coordination of schemas can lead to cognitive changes. When we go through major cognitive changes, we develop a new way of thinking and may even enter a new cognitive development stage.</para>
+    <para id="para-00010">Although Piaget’s theory is based not on age but on skills and ways of thinking, infants and toddlers are in stage 1. This <term id="term-00004">sensorimotor development</term> stage focuses primarily on children’s early experiences of the world, when they are actively learning through their senses and gaining motor development coordination. Piaget divided stage 1 into six substages representing different abilities that appear over the first two years of life (<link target-id="table-00001"/>).</para>
+    <table id="table-00001" summary=" ">
+    <title>Piaget’s Sensorimotor Development, Stage 1</title>
+    <tgroup cols="3">
+    <colspec colnum="1" colname="c1"/>
+    <colspec colnum="2" colname="c2"/>
+    <colspec colnum="3" colname="c3"/>
+    <thead>
+    <row class="header-row" valign="top">
+    <entry valign="top" align="left">Substage</entry>
+    <entry valign="top" align="left">Characteristics</entry>
+    <entry valign="top" align="left">Estimated age</entry>
+    </row>
+    </thead>
+    <tbody>
+    <row valign="top">
+    <entry valign="top" align="left">1</entry>
+    <entry valign="top" align="left">Simple reflexes: reflexes begin to be adapted</entry>
+    <entry valign="top" align="left">Birth–1 month</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">2</entry>
+    <entry valign="top" align="left">Primary circular reactions: infant repeats actions with own body</entry>
+    <entry valign="top" align="left">1–4 months</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">3</entry>
+    <entry valign="top" align="left">Secondary circular reactions: infant shifts attention to environment, explores it more</entry>
+    <entry valign="top" align="left">4–8 months</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">4</entry>
+    <entry valign="top" align="left">Coordination of secondary circular reactions: infant starts interacting via goal-directed behavior, coordinating sensory abilities</entry>
+    <entry valign="top" align="left">8–12 months</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">5</entry>
+    <entry valign="top" align="left">Tertiary circular reactions: child advances to experimenting with environment, goal-directed behavior</entry>
+    <entry valign="top" align="left">12–18 months</entry>
+    </row>
+    <row valign="top">
+    <entry valign="top" align="left">6</entry>
+    <entry valign="top" align="left">Beginnings of thought: child starts to use symbolic thought, language, mental representations, and deferred imitation</entry>
+    <entry valign="top" align="left">18 months–2 years</entry>
+    </row>
+    </tbody>
+    </tgroup>
+    </table>
+    <para id="para-00011">In <emphasis effect="italics">substage one</emphasis>, Piaget classified reflexes as schemas infants had at birth and then adapted into motor skills as they used them. As the brain develops, infants gain more control over their motor skills and can, for example, suck differently on a pacifier or bottle than on a nipple. Piaget would say the adapting to different cultural tools (objects to suck on) is a way of constructing sucking schemas. In <emphasis effect="italics">substage two</emphasis>, infants have more motor control and start <term id="term-00005">circular reactions</term> or repeated behaviors. These first circular reactions are considered primary because they involve the infant’s own body, such as infants enjoying sucking their thumbs. The infant can start to integrate skills, such as moving the head and mouth into position for feeding and has more opportunities for building sensory and motor skills.</para>
+    <para id="para-00012">In <emphasis effect="italics">substage three</emphasis>, through secondary circular reactions the infant can start to coordinate motor and sensory skills with objects in the environment, such as by shaking a rattle or visually searching for a partially hidden toy. In <emphasis effect="italics">substage four</emphasis>, the infant has more schemas for different activities and more knowledge of the environment. They may enjoy picking up a light-up toy and transferring it from hand to hand while watching the color change. In essence, they are combining secondary circular reactions to form more complex behaviors. The infant can also now use knowledge and skills for goal-directed behavior. For example, an infant may pull their mother’s hair a second time because they want to hear again that funny noise she made the first time. Piaget identified substage 4 as the time when infants also develop <term id="term-00006">object permanence</term>, the understanding that objects don’t cease to exist when they can’t be observed. For example, if you place a toy under a blanket and the baby lifts the blanket to reach for the toy, this demonstrates their understanding that the toy continues to exist even though it is hidden.</para>
+    <para id="para-00013">In <emphasis effect="italics">substage five</emphasis>, the child is an experimenter learning about the properties of an object through tertiary circular reactions <link target-id="fig-00002"/>). What if they drop this toy off the high chair? What if they throw it across the room, bang it on the wall? People may talk about toddlers in this stage as “little scientists.”</para>
+    <figure id="fig-00002">
+    <media alt="Alt text placeholder">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_03_03_Schema.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>Caption: [caption placeholder]</caption>
+    </figure>
+    <para id="para-00014">In <emphasis effect="italics">substage six</emphasis>, at the end of the sensorimotor period, two major developments occur: symbolic thought and deferred imitation. First, according to Piaget, <term id="term-00007">symbolic thought</term> is the ability to mentally represent objects, people, or events that are not present. One of the major ways children demonstrate symbolic thought is by using language to describe objects or personal experiences, such as asking for “mama” when she is away at work. Second, children can imitate others after a delay in <term id="term-00008">deferred imitation</term>. For example, an infant might see their sibling eating with chopsticks at lunch and then try to use two markers like chopsticks later when they are playing.</para>
+    </section>
+    <section id="sect-00005">
+    <title>Advances in Understanding of the Sensorimotor Stage</title>
+    <para id="para-00015">With improvements in our tools and technology for studying infants, we’ve learned that Piaget underestimated their cognitive abilities, and that infants understand object permanence and other qualities of objects earlier than he theorized (Ebersbach, 2009; Woodward &amp; Needham, 2008). For example, to observe the development of object permanence, Piaget hid an object in one place (spot A) several times while an infant was watching. After the infant demonstrated their understanding of object permanence by finding the object in spot A, the object was hidden in a new spot (spot B), again while the infant observed. Despite seeing the object placed in the new hiding place, infants typically looked for it in spot A, making what’s called the <term id="term-00009">A not B error</term> (<link target-id="fig-00003"/>). Piaget interpreted this error to mean infants’ understanding of object permanence is still incomplete.</para>
+    <figure id="fig-00003">
+    <media alt="Alt text placeholder">
+    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_03_04_ANotBError.jpg"/>-->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>When infants find the toy the first time in spot A, they show some understanding of object permanence. However, when they make the A not B error, they may show that their understanding of object permanence has not yet completely developed.</caption>
+    </figure>
+    <para id="para-00016">Through newer methods that don’t require the infant to use the motor skill of reaching to find the object, researchers found that infants as young as four months of age can recognize aspects of object permanence (Baillargeon, 1987, Gopnik &amp; Meltzoff, 2021; Meltzoff, 1988). They can also show deferred imitation at as early as six months of age if given opportunities to practice.</para>
+    <para id="para-00017">Researchers still use Piaget’s tasks to study infant cognition, but in different ways. For example, in Baillargeon and colleagues’ (1989, 2004) A not B task, the researcher hides an object behind one of two screens (spot A), and after a brief delay ,the child is allowed to look for it, a visual search task rather than Piaget’s original reach task. After two consecutive looks, the infant must shift attention when the object is hidden behind the second screen (spot B). By 7.5 months, infants can pass the A not B task if the delay is under 2 seconds for reaching or 15 seconds for looking, showing how the type of task can affect the way we study and understand infants’ abilities (Baillargeon, 2004; Diamond, 1985).</para>
+    <para id="para-00018">Piaget was one of the first psychologists to develop a comprehensive theory of the way children develop, an impressive achievement when you consider that most of his ideas came from simply observing children and taking detailed notes. Even decades later, child development researchers support many of his basic ideas. His theory changed our understanding of children’s development and became the foundation for subsequent theories of their cognitive development.</para>
+    <note class="link-to-learning" id="note-00001">
+    <para id="para-00019">Piaget tested object permanence in babies by using a manual reach task with a toy and blanket. This <link url="https://openstax.org/r/104Toy&amp;Blanket">toy and blanket method</link> is replicated in this video, but <link url="https://openstax.org/r/104ObjPerm">other tasks can also assess</link> this skill, as shown in this clip.</para>
+    </note>
+    </section>
+    </section>
+    <section id="sect-00006">
+    <title>Information Processing and Memory Development</title>
+    <para id="para-00020">Although infants cannot talk, we can learn much about their information processing by observing them. What is the infant looking at? For how long? If we show the same image again, will the infant look away? If we show it later, will the infant remember it? Studying infants’ looking patterns, or shifts in attention, improves our understanding of their cognitive development. Information processing theory examines the way the human brain works, including in making attention and memory possible. In this section, we identify what infants and toddlers attend to and remember.</para>
+    <section id="sect-00007">
+    <title>The Development of Attention</title>
+    <para id="para-00021">Researchers study different aspects of attention: when we attend, how long we can pay attention, when we might get distracted or disengaged, and when we are able to focus on one thing but ignore another. All these abilities start developing at a young age.</para>
+    <para id="para-00022">One aspect of infant attention is alertness. Infants spend less than 20 percent of the day in an alert state (Colombo, 2001), with the bulk of their time spent in sleep or rest. Extended alertness or <term id="term-00010">sustained attention</term> occurs when we hold our attention to the stimulus or task (Colombo, 2001). Infants rapidly develop their ability to direct and sustain attention over the first year (Colombo, 2001). Caregivers’ attention and external stimuli like lights and sounds can support alertness in newborns. At around four months of age, the beginnings of attentional control are evident as the infant gains the ability to shift focus (Colombo, 2001; Hendry et al., 2016). At around nine months, infants show a significant increase in control and focus (Colombo, 2001; Hendry et al., 2016).</para>
+    <note class="link-to-learning" id="note-00002">
+    <para id="para-00023">Since infants can’t tell us what they are interested in, we use creative methods to measure their attention. One such means is an <link url="https://openstax.org/r/104EyeTracker">eye tracker</link> that measures looking time, as this video shows.</para>
+    </note>
+    </section>
+    <section id="sect-00008">
+    <title>The Development of Memory</title>
+    <para id="para-00024">Studying memory in infants can be quite the challenge. Try for a moment to recall your earliest memory. Do you truly remember it? Or is it a story someone in your family has told so often that you feel like you remember it? How old were you? Many of us cannot recall things from our infant and toddler years, a trait known as infantile amnesia. Memory requires a range of cognitive skills as well as brain and language development (Occhionero et al., 2023). Short-term memory is the ability to store information in our mind temporarily, while <term id="term-00011">long-term memory</term> consists of more permanent retention of information and skills. Researchers use several ways to identify the memory abilities of preverbal children.</para>
+    <para id="para-00025">Carolyn Rovee-Collier helped reveal just how impressive infant memory capabilities and learning can be through the mobile task (Rovee-Collier, 1999). In this task, the kick rate of a two- to six-month-old infant in a crib is measured to establish a baseline. Then a ribbon is secured around the infant’s ankle and attached to an overhead mobile. As the infant kicks, the mobile moves. Infants are then brought back to the lab after various delays, from one day to around two weeks. If their kicking response resumes, it indicates they remember the task. This study showed that even three-month-old infants could remember how to move the mobile for up to one week (Giles &amp; Rovee-Collier, 2011). As babies age, the length of time they can hold information in memory increases from less than a day at two months of age to thirteen weeks at eighteen months of age (Rovee-Collier &amp; Giles, 2010) (<link target-id="fig-00004"/>).</para>
+    <figure id="fig-00004">
+    <media alt="Alt text placeholder">
+    <!-- <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_03_04_CribTask.jpg"/>  -->
+    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    </media>
+    <caption>While being in a crib might be normal for a baby, Rovee-Collier attached the infant’s foot to the mobile for contextual learning.</caption>
+    </figure>
+    <para id="para-00026">Sometimes we remember things more easily if given a reminder or prompt. For example, infants are often able to remember longer if given a reminder of the task or a context clue, such as using the same mobile design in the mobile task (Courage &amp; Cowan, 2022). In other words, cues in their environment help their learning and memory. This research demonstrates that <term id="term-00012">implicit memory</term>, or memory that is not part of our consciousness, is present in infancy. Memory we consciously remember and recall, known as <term id="term-00013">explicit memory</term>, is more fragile in infancy, which helps explain why so many of our earliest memories begin later, in early childhood.</para>
+    </section>
+    <section id="sect-00009">
+    <title>Infant Cognition and Habituation</title>
+    <para id="para-00027">We can study infant cognition by observing infants, assigning them various tasks, and applying newer technologies including eye-tracking equipment and EEGs. EEGs provide an ongoing assessment of the electrical activity in the brain in response to a sensory or cognitive event. Eye-tracking measures what the infant is looking at, for how long, whether attention shifts, and where. Eye tracking can also measure pupil dilation, which indicates attention. Another measure of infant cognition is heart rate. When a baby is paying attention to a stimulus, their heart rate decreases. By using multiple methods, researchers can get a clearer understanding of how the infant is processing information, what they attend to, and what interests them.</para>
+    <para id="para-00028">Observing infant’s <term id="term-00014">habituation</term>, or decreased interest in and response to repeatedly presented stimuli, can also inform our understanding of infant cognition, learning, and attention. Habituation paradigms and visual preference methods measure how rates of responsiveness to a stimulus decrease as infants learn or process information across multiple exposures. In this procedure, a visual or auditory stimulus is presented, and the infant’s attention to it is measured in terms of either increased looking time (eye gaze), increased sucking frequency, EEG pattern changes, or decreased heart rate (Colombo, 2001; Phelps, 2005). As infants habituate or become familiar with the stimulus, they look away from repeated presentations at faster and faster rates, suck more slowly, or have an increased heart rate. When infants habituate quickly, they are demonstrating efficient information processing.</para>
+    <note class="link-to-learning" id="note-00003">
+    <para id="para-00029">This video demonstrates <link url="https://openstax.org/r/104LoseInterest">an infant losing interest</link> in a toy, known as habituation. Observe the infant’s response when the toy is replaced with something new.</para>
+    </note>
+    <para id="para-00030">What happens if we show an infant two different objects? In the preferential-looking technique, researchers note which object the infant pays attention to, giving insights into their interest and attention. If the choice is between a novel object and a familiar one, infants will typically look longer at and pay greater attention to the novel object (Colombo, 2001; Yu &amp; Smith, 2016). When an infant gets bored and throws a favorite toy aside, they may just be showing that learning has occurred.</para>
+    <para id="para-00031">The amount of time it takes infants to process new stimuli is related to later intelligence. Several studies have associated faster habituation with improved performance on intelligence assessments, including reasoning and verbal abilities in early childhood and elementary school (Bornstein &amp; Sigman, 1986; Fagan et al., 2007; Poli et al., 2024; Sigman et al., 1991). Observing infant habituation can also give health-care providers, researchers, and caregivers insights into an infant’s speed of processing various sensory information (sight, sound, touch), their learning and memory, and their overall cognitive development (Sicard-Cras et al., 2021). For example, a child who shows slower habituation to visual stimuli (being shown a toy) in comparison to tactile stimuli (holding the toy) may need to have their visual acuity checked.</para>
+    </section>
+    </section>
+    <section id="sect-00010">
+    <title>Sociocultural Theory</title>
+    <para id="para-00032">Lev Vygotsky (1896–1934), who developed his theory around the same time as Jean Piaget, was particularly interested in the role of the social environment and culture in cognitive development and learning. In his sociocultural theory, Vygotsky proposed that children learn about the world and develop cognitively from their interactions with caregivers, other adults, peers, and the culture at large (Vygotsky, 1978). Cultural tools play an important role too and include language, systems of counting, memory techniques, art, writing, maps (Vygotsky, 1998), and, more recently, computers, cell phones, and other modern technology. Like Piaget, Vygotsky assumed children construct their own knowledge, but he made a stronger claim that the cultural and social environments were an inseparable part of learning.</para>
+    <para id="para-00033">For a child to construct their knowledge and learn, Vygotsky believed, they must be nurtured or guided by more knowledgeable people like adults, older children, or peers, and they must be aware that what they’re learning is important. As you recall from <link document="m00013"/>, he called this process scaffolding and used the concept of the zone of proximal development to describe how scaffolding can advance cognitive growth in children. During scaffolding, the child’s cognitive partner uses language for scaffolding (social speech). Over time, children will begin using their own language as the basis for their cognitive development. They will talk to themselves as they work through a challenge, in what we call private or egocentric speech, aloud at first but then silently. For example, a child learning to put together a puzzle may mutter, “First, find the corner and edge pieces!” But as their puzzle experience grows, they may simply mentally remind themselves of that step. In short, they have internalized the skills acquired through scaffolding and can now independently demonstrate a new skill or knowledge.</para>
+    <para id="para-00034">Language isn’t the only means of guiding young children’s learning, since children also learn by observing others and copying their behaviors. The learning process may also include <term id="term-00015">social referencing</term>, the use of information from others to determine how to respond to a situation (Ehli et al., 2020). For example, an infant may use an adult’s facial expression, such as a stern look, as a social reference before climbing over the baby gate (or not). A caregiver can also guide an infant’s learning indirectly by placing toys nearby for the child to explore. If the infant seems unsure, the parent can use facial expressions and tone to show their feelings about the toy.</para>
+    </section>
+    <section id="sect-00011">
+    <title>Variations in Cognitive Development</title>
+    <para id="para-00035">Recall the reliance on WEIRD (White, educated, industrialized, rich, and democratic) samples for much of the research on child development. The theories of cognitive development you’ve just studied were developed by studying middle-class children in Western cultures. However, the cognitive development of young children is influenced by many variables, including environmental and cultural influences. Next, you’ll learn about some of these, and what we know about their effects.</para>
+    <section id="sect-00012">
+    <title>Culture</title>
+    <para id="para-00036">Even before birth we are immersed in culturally shaped environments. Families and others in the home frame our exposure to language, values, and norms and transmit culture through daily interactions. Family traditions, values and expectations, religious practices, holidays and celebrations, and exposure to education and the media bring specific knowledge and experiences to the child. For example, adults in many non-Western communities emphasize physical contact with infants more than visual, face-to-face contact (Little et al., 2016). In rural Africa, Kipsigi mothers carry their infants on their backs most of the day (Super &amp; Harkness, 2002). This close body contact gives infants time to observe what their parents are doing, influencing their cognitive and emotional development (Bánovský, 2023).</para>
+    </section>
+    <section id="sect-00013">
+    <title>Socioeconomic Influences</title>
+    <para id="para-00037">Family socioeconomic status (SES) can also play a role in early cognitive development. Together, factors like caregiver education and family access to resources have consistently been found to influence cognitive development, including language, memory, and executive functions (Blair &amp; Raver, 2016; Farah et al., 2006; Weisleder &amp; Fernald, 2013).</para>
+    <para id="para-00038">Children from families of low-SES consistently score lower than others on measures of cognitive ability and academic achievement (Lurie et al., 2021). Their families often have less access to educational resources, and poverty has been shown to harm the developing brain by increasing stress and reducing opportunities (Blair &amp; Raver, 2016; Tarullo et al., 2020). But the way in which SES influences cognitive development is complicated.</para>
+    <para id="para-00039">Socioeconomic status is associated with access to books, exposure to environmental hazards, language exposure, the quality of parent-infant interactions, and parental warmth and sensitivity. Mothers with higher SES are more likely to have healthier lifestyle habits during pregnancy, smoke less, and exhibit less sedentary behavior (Larranaga et al., 2013). Parents with lower SES may be less confident in their parenting skills (Liu et al., 2017). The level of maternal education, an important component of SES, is one of the strongest predictors of child development (Pace et al., 2017), likely because it is strongly associated with other resources that affect child development, such as financial security, family structure, and maternal depression (Jackson et al., 2017).</para>
+    <para id="para-00040">What can we do to protect children in families with lower SES? The good news is that we know high-quality early childhood care and education can provide many benefits (Davis &amp; Dunn, 2022). Interventions that support parents and give them strategies for interacting with their infants at home can also be helpful (Company-Cordoba et al., 2021).</para>
+    </section>
+    <section id="sect-00014">
+    <title>Home Environment</title>
+    <para id="para-00041">Home is where young children typically spend most of their time. Aspects of the home environment include parent-child interaction and support, parents’ promotion of autonomy, respect for the child, use of rules, and overall home environment quality (Bradley &amp; Caldwell, 1982). A study of Malaysian infants aged twelve to thirteen months showed that infants in a low-quality home environment scored lower on cognitive tests than their peers with higher-quality home environments (Nurliyana et al., 2020). Quality of home environment has been related to cognitive development after one year, through the preschool years, and in later intellectual development (Totsika &amp; Sylva, 2004). In fact, the home environment has been found to be a greater influence on neurodevelopment at eighteen months than SES and maternal IQ (Ronfani et al., 2015). Ultimately, the quality of infants’ experiences within the home can indicate whether any interventions should be targeted to individual families.</para>
+    </section>
+    </section>
+    <section class="summary" id="sect-00015">
+    <list id="list-00002">
+    <item>Piaget’s theory explains cognitive development in terms of stages, with changes happening through schema development. During the sensorimotor stage, infants go through six substages as senses, motor skills, and coordination develop.</item>
+    <item>Information processing theories examine infant attention, encoding, and memory, explaining development as a series of gradual changes in cognitive structures and processes.</item>
+    <item>Vygotsky describes cognitive development as occurring through social interactions and culture.</item>
+    <item>Multiple factors contribute to individual differences in cognitive development, including culture, social environment, socioeconomic status, and home environment.</item>
+    </list>
+    </section>
+    <section class="review-questions" id="sect-00016">
+    <title>Assessment: Review Questions</title>
+    <exercise id="exer-00001">
+    <problem id="prob-00001">
+    <para id="para-00042"><link class="os-embed" url="#exercise/03-04-LD-RQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00002">
+    <problem id="prob-00002">
+    <para id="para-00043"><link class="os-embed" url="#exercise/03-04-LD-RQ02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00003">
+    <problem id="prob-00003">
+    <para id="para-00044"><link class="os-embed" url="#exercise/03-04-LD-RQ03"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00004">
+    <problem id="prob-00004">
+    <para id="para-00045"><link class="os-embed" url="#exercise/03-04-LD-RQ04"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="check-understanding" id="sect-00017">
+    <title>Assessment: Check Your Understanding Questions</title>
+    <exercise id="exer-00005">
+    <problem id="prob-00005">
+    <para id="para-00046"><link class="os-embed" url="#exercise/03-04-LD-CU01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00006">
+    <problem id="prob-00006">
+    <para id="para-00047"><link class="os-embed" url="#exercise/03-04-LD-CU02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="personal-application" id="sect-00018">
+    <title>Assessment: Personal Application Questions</title>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00048"><link class="os-embed" url="#exercise/03-04-LD-PA01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00049"><link class="os-embed" url="#exercise/03-04-LD-PA02"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="essay-questions" id="sect-00019">
+    <title>Assessment: Essay Questions</title>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00050"><link class="os-embed" url="#exercise/03-04-LD-EQ01"/></para>
+    </problem>
+    </exercise>
+    </section>
+    <section class="references" id="sect-00020">
+    <title>References</title>
+    <para id="para-00051">Baillargeon, R. (1987). Object permanence in 3 1/2- and 4 1/2- month-old infants. <emphasis effect="italics">Developmental Psychology, 23,</emphasis> 655-64. https://doi.org/10.1037/0012-1649.23.5.655</para>
+    <para id="para-00052">Baillargeon, R. (2004). Infants’ physical world. <emphasis effect="italics">Current Directions in Psychological Science, 13,</emphasis> 89-94. https://doi.org/10.1111/j.0963-7214.2004.00281.x</para>
+    <para id="para-00053">Bánovský, J. (2023). On the importance of infant carrying for social learning and the development of social cognition. <emphasis effect="italics">Philosophical Psychology.</emphasis> doi.org/10.1080/09515089.2023.2217211</para>
+    <para id="para-00054">Blair, C., &amp; Raver, C. C. (2016). Poverty, stress, and brain development: New directions for prevention and intervention. <emphasis effect="italics">Academic pediatrics</emphasis>, <emphasis effect="italics">16</emphasis>(3), S30-S36.</para>
+    <para id="para-00055">Bradley, R. H., &amp; Caldwell, B. M. (1982). The Consistency of the Home Environment and Its Relation to Child Development. International Journal of Behavioral Development, 5(4), 445-465. https://doi.org/10.1177/016502548200500404</para>
+    <para id="para-00056">Colombo, J. (2001). The development of visual attention in infancy. <emphasis effect="italics">Annual review of psychology</emphasis>, <emphasis effect="italics">52</emphasis>(1), 337-367. https://doi.org/10.1146/annurev.psych.52.1.337</para>
+    <para id="para-00057">Company-Córdoba, R., Sianes, A., Simpson, I. C., &amp; Ibáñez-Alfonso, J. A. (2021). Cognitive interventions in children and adolescents from low socioeconomic status backgrounds: a systematic review protocol of randomized controlled trials. <emphasis effect="italics">Systematic reviews</emphasis>, <emphasis effect="italics">10</emphasis>(1), 187. https://doi.org/10.1186/s13643-021-01738-x</para>
+    <para id="para-00058">Courage, M. L., &amp; Cowan, N. (Eds.). (2022). <emphasis effect="italics">The development of memory in infancy and childhood</emphasis>. Psychology Press.</para>
+    <para id="para-00059">Davis, B., &amp; Dunn, R. (2022). Educators working with infants and toddlers from low socio-economic status families. Cogent Education, 9(1). https://doi.org/10.1080/2331186X.2022.2042988</para>
+    <para id="para-00060">Diamond, A. (1985). Development of the ability to use recall to guide action, as indicated by infants' performance on AB. <emphasis effect="italics">Child development</emphasis>, 868-883.</para>
+    <para id="para-00061">Ehli, S., Wolf, J., Newen, A., Schneider, S., &amp; Voigt, B. (2020). Determining the Function of Social Referencing: The Role of Familiarity and Situational Threat. <emphasis effect="italics">Frontiers in psychology</emphasis>, <emphasis effect="italics">11</emphasis>, 538228. https://doi.org/10.3389/fpsyg.2020.538228</para>
+    <para id="para-00062">Ebersbach, M. (2009). Achieving a new dimension: Children integrate three stimulus dimensions in volume estimations. <emphasis effect="italics">Developmental Psychology, 45</emphasis>(3), 877.</para>
+    <para id="para-00063">Fagan, J. F., Holland, C. R., &amp; Wheeler, K. (2007). The prediction, from infancy, of adult IQ and achievement. <emphasis effect="italics">Intelligence, 35</emphasis>(3), 225–231. https://doi.org/10.1016/j.intell.2006.07.007</para>
+    <para id="para-00064">Farah, M.J., Shera, D. M., Savage, J.H. et al. (2006). Childhood poverty: Specific associations with neurocognitive development. <emphasis effect="italics">Brain Research, 1110(2),</emphasis> 166-174.</para>
+    <para id="para-00065">Gopnik, Alison, and Andrew N. Meltzoff. "Early semantic developments and their relationship to object permanence, means-ends understanding, and categorization." In <emphasis effect="italics">Children's language</emphasis>, pp. 191-212. Psychology Press, 2021.</para>
+    <para id="para-00066">Hendry, A., Jones, E.J.H., &amp; Charman, T. (2016). Executive function in the first three years of life: Precursors, predictors and patterns. <emphasis effect="italics">Developmental Review, 42</emphasis>, 1-33. Doi: 10.1016/j.dr.2016.06.005.</para>
+    <para id="para-00067">Jackson, M. I., Kiernan, K., &amp; McLanahan, S. (2017). Maternal education, changing family circumstances, and children’s skill development in the United States and UK. <emphasis effect="italics">The ANNALS of the American Academy of Political and Social Science</emphasis>, <emphasis effect="italics">674</emphasis>(1), 59-84.</para>
+    <para id="para-00068">Larranaga, I., Santa-Marina, L., Begiristain, H., Machon, M., Vrijheid, M., Casas, M &amp; Fernandez, M.F. (2013). Socio-economic inequalities in Health, habits and self-care during pregnancy in Spain. <emphasis effect="italics">Maternal and Child Health Journal, 17(7),</emphasis> 1315-1324.</para>
+    <para id="para-00069">Lascarides, V.C. &amp; Hinitz, B.F. (2011). History of Early Childhood Education. New York: Routledge.</para>
+    <para id="para-00070">Little, E. E., Carver, L. J., &amp; Legare, C. H. (2016). Cultural variation in triadic infant–caregiver object exploration. <emphasis effect="italics">Child Development</emphasis>, <emphasis effect="italics">87</emphasis>(4), 1130-1145. https://doi.org/10.1111/cdev.12513</para>
+    <para id="para-00071">Liu, T., Zhang, X., Jiang, Y. (2020). Family socioeconomic status and the cognitive competence of very young children from migrant and non-migrant Chinese families: The mediating role of parenting self-efficacy and parental involvement. <emphasis effect="italics">Early Child Research Quarterly, 51,</emphasis> 229-241.</para>
+    <para id="para-00072">Lurie, L. A., Hagen, M. P., McLaughlin, K. A., Sheridan, M. A., Meltzoff, A. N., &amp; Rosen, M. L. (2021). Mechanisms linking socioeconomic status and academic achievement in early childhood: Cognitive stimulation and language. <emphasis effect="italics">Cognitive Development</emphasis>, <emphasis effect="italics">58</emphasis>, 101045.</para>
+    <para id="para-00073">Meltzoff, A. N. (1988). Infant imitation and memory: Nine-month-olds in immediate and deferred tests. <emphasis effect="italics">Child development, 59(1)</emphasis>, 217-225. https://doi.org/10.2307/1130404</para>
+    <para id="para-00074">Nurliyana, A. R., Shariff, Z. M., Taib, M. N. M., Gan, W. Y., &amp; Tan, K. A. (2020). Early growth and home environment are associated with cognitive development in the first year of life of Malaysian infants. <emphasis effect="italics">Early human development, 140</emphasis>, 104890.</para>
+    <para id="para-00075">Occhionero, M., Tonetti, L., Giovagnoli, S., &amp; Natale, V. (2023). The infantile amnesia phenomenon and the beginning of autobiographical memories. <emphasis effect="italics">Applied Sciences</emphasis>, <emphasis effect="italics">13</emphasis>(2), 1158.</para>
+    <para id="para-00076">Pace, A., Luo, R., Hirsh-Pasek, K. &amp; Golinkoff, R.M. (2017). Identifying pathways between socioeconomic status and language development. <emphasis effect="italics">Annual Review of Linguistics, 3(3),</emphasis> 285-308.</para>
+    <para id="para-00077">Phelps, B. J. (2005). Habituation. In N. J. Salkind (Ed.), <emphasis effect="italics">Encyclopedia of human development</emphasis> (pp. 597-600). Sage Publications.</para>
+    <para id="para-00078">Piaget, J. (1952). <emphasis effect="italics">The origin of intelligence in the child.</emphasis> New York: International University Press.</para>
+    <para id="para-00079">Piaget, J. (1954). <emphasis effect="italics">The construction of reality in the child.</emphasis> New York: Basic Books.</para>
+    <para id="para-00080">Poli, F., Ghilardi, T., Beijers, R., de Weerth, C., Hinne, M., Mars, R. B., &amp; Hunnius, S. (2024). Individual differences in processing speed and curiosity explain infant habituation and dishabituation performance. <emphasis effect="italics">Developmental Science</emphasis>, <emphasis effect="italics">27</emphasis>(3), e13460.</para>
+    <para id="para-00081">Ronfani, L., Vecchi Brumatti, L., Mariuz, M., Tognin, V., Bin, M., Ferluga, V., &amp; Barbone, F. (2015). The complex interaction between home environment, socioeconomic status, maternal IQ and early child neurocognitive development: a multivariate analysis of data collected in a newborn cohort study. <emphasis effect="italics">PloS one</emphasis>, <emphasis effect="italics">10</emphasis>(5), e0127052. https://doi.org/10.1371/journal.pone.0127052</para>
+    <para id="para-00082">Rovee-Collier, C. (1999). The development of infant memory. <emphasis effect="italics">Current directions in psychological science</emphasis>, <emphasis effect="italics">8</emphasis>(3), 80-85. https://doi.org/10.1111/1467-8721.00019</para>
+    <para id="para-00083">Sicard-Cras, I., Rioualen, S., Pellae, E., Misery, L., Sizun, J., &amp; Roué, J. M. (2022). A review of the characteristics, mechanisms and clinical significance of habituation in foetuses and newborn infants. <emphasis effect="italics">Acta Paediatrica</emphasis>, <emphasis effect="italics">111</emphasis>(2), 245-258.</para>
+    <para id="para-00084">Sigman, M., Cohen, S.E., Beckwith, L., Asarnow, R., &amp; Parmelee, A.H. (1991). Continuity in cognitive abilities from infancy to 12 years of age. <emphasis effect="italics">Cognitive Development, 6(1)i 47-57. Doi: 10.1016/0885-2014(91)90005-x,</emphasis></para>
+    <para id="para-00085">Super, C. M., &amp; Harkness, S. (2002). Culture structures the environment for development. <emphasis effect="italics">Human Development, 45</emphasis>(4), 270–274. https://doi.org/10.1159/000064988</para>
+    <para id="para-00086">Tarullo, A. R., Tuladhar, C. T., Kao, K., Drury, E. B., &amp; Meyer, J. (2020). Cortisol and socioeconomic status in early childhood: A multidimensional assessment. <emphasis effect="italics">Development and psychopathology</emphasis>, <emphasis effect="italics">32</emphasis>(5), 1876-1887.</para>
+    <para id="para-00087">Totsika, V., &amp; Sylva, K. (2004). The home observation for measurement of the environment revisited. <emphasis effect="italics">Child and Adolescent Mental Health</emphasis>, <emphasis effect="italics">9</emphasis>(1), 25-35. https://doi.org/10.1046/j.1475-357x.2003.00073.x</para>
+    <para id="para-00088">Weisleder, A., &amp; Fernald, A. (2013). Talking to children matters: Early language experience strengthens processing and builds vocabulary. <emphasis effect="italics">Psychological Science, 24(11),</emphasis> 2143-2152.</para>
+    <para id="para-00089">Woodward A, Needham A, editors. <emphasis effect="italics">Learning and the infant mind</emphasis>. Oxford University Press; UK: 2008.</para>
+    <para id="para-00090">Vygotsky, L. (1978). <emphasis effect="italics">Mind in society: The development of higher psychological processes</emphasis> (M. Cole, V. John-Steiner, S. Scribner, &amp; E. Souberman, Eds. &amp; Trans.). Harvard University Press.</para>
+    <para id="para-00091">Vygotsky, L.S. (1998). Translated by Rieber, R. W., “The Collected Works of L.S. Vygotsky,” <emphasis effect="italics">Volume 5, Child Psychology</emphasis>. Plenum Press.</para>
+    <para id="para-00092">Yu, C., &amp; Smith, L. B. (2016). The social origins of sustained attention in one-year-old human infants. <emphasis effect="italics">Current biology, 26</emphasis>(9), 1235-1240.</para>
+    </section>
+    </content>
+    
+    <glossary>
+    <definition id="def-00001">
+    <term>A not B error</term>
+    <meaning>error in which an infant searches for an object in the original rather than the new hiding place</meaning>
+    </definition>
+    <definition id="def-00002">
+    <term>accommodation</term>
+    <meaning>process by which we alter an existing schema to fit new information</meaning>
+    </definition>
+    <definition id="def-00003">
+    <term>assimilation</term>
+    <meaning>process by which we incorporate new information into an existing schema</meaning>
+    </definition>
+    <definition id="def-00004">
+    <term>circular reactions</term>
+    <meaning>repeated movements observed during the sensorimotor stage</meaning>
+    </definition>
+    <definition id="def-00005">
+    <term>deferred imitation</term>
+    <meaning>repetition of a behavior after some time has passed</meaning>
+    </definition>
+    <definition id="def-00006">
+    <term>explicit memory</term>
+    <meaning>type of memory that we consciously try to remember and recall</meaning>
+    </definition>
+    <definition id="def-00007">
+    <term>habituation</term>
+    <meaning>decreased interest in and response to repeatedly presented stimuli</meaning>
+    </definition>
+    <definition id="def-00008">
+    <term>implicit memory</term>
+    <meaning>type of memory that is not part of our consciousness</meaning>
+    </definition>
+    <definition id="def-00009">
+    <term>long-term memory</term>
+    <meaning>relatively permanent storage of information</meaning>
+    </definition>
+    <definition id="def-00010">
+    <term>object permanence</term>
+    <meaning>ability to recognize that an object exists even when we cannot observe it</meaning>
+    </definition>
+    <definition id="def-00011">
+    <term>schema</term>
+    <meaning>a mental framework used to organize and interpret information</meaning>
+    </definition>
+    <definition id="def-00012">
+    <term>sensorimotor development</term>
+    <meaning>first stage of Piaget’s theory of cognitive development theory, focused on children’s early experiences of the world</meaning>
+    </definition>
+    <definition id="def-00013">
+    <term>social referencing</term>
+    <meaning>process in which children use information from another to determine their own response</meaning>
+    </definition>
+    <definition id="def-00014">
+    <term>sustained attention</term>
+    <meaning>extended focus on an activity or stimulus</meaning>
+    </definition>
+    <definition id="def-00015">
+    <term>symbolic thought</term>
+    <meaning>ability to mentally represent objects, people, or events that are not present</meaning>
+    </definition>
+    </glossary>
 </document>
