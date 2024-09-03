@@ -445,7 +445,7 @@
     </definition>
     <definition id="def-00005">
     <term>chromosomal disorder</term>
-    <meaning>condition that occurs with the incorrect number of chromosomes or results from structural abnormalities of the chromosome</meaning>
+    <meaning>condition that occurs with an incorrect number of chromosomes or results from structural abnormalities of the chromosome</meaning>
     </definition>
     <definition id="def-00006">
     <term>chromosome</term>
@@ -469,15 +469,15 @@
     </definition>
     <definition id="def-00011">
     <term>evocative (or reactive) genotype-environment correlation</term>
-    <meaning>events in which an individual’s genetically influenced traits elicit an environmental response</meaning>
+    <meaning>event in which an individual’s genetically influenced traits elicit an environmental response</meaning>
     </definition>
     <definition id="def-00012">
     <term>gamete</term>
-    <meaning>sex cell, the ovum or sperm, that only carries twenty-three chromosomes</meaning>
+    <meaning>sex cell, the ovum or sperm, that carries twenty-three chromosomes</meaning>
     </definition>
     <definition id="def-00013">
     <term>gene</term>
-    <meaning>hereditary unit composed of a specific DNA sequence that occupies a specific location along a chromosome in an individual; carries instructions for making proteins</meaning>
+    <meaning>hereditary unit composed of a specific DNA sequence that occupies a specific location along a chromosome in an individual</meaning>
     </definition>
     <definition id="def-00014">
     <term>genotype × environment interaction</term>
@@ -485,19 +485,19 @@
     </definition>
     <definition id="def-00015">
     <term>genome</term>
-    <meaning>the complete sequence of an organism’s DNA</meaning>
+    <meaning>complete sequence of an organism’s DNA</meaning>
     </definition>
     <definition id="def-00016">
     <term>genotype</term>
-    <meaning>an individual’s particular genetic composition of alleles at specific locations</meaning>
+    <meaning>individual’s particular genetic composition of alleles at specific locations</meaning>
     </definition>
     <definition id="def-00017">
     <term>heterozygous</term>
-    <meaning>trait in which an individual receives different alleles from each biological parent</meaning>
+    <meaning>trait in which an individual receives different alleles from each biological parent for a given trait</meaning>
     </definition>
     <definition id="def-00018">
     <term>homozygous</term>
-    <meaning>trait in which an individual receives identical alleles from each biological parent</meaning>
+    <meaning>trait in which an individual receives identical alleles from each biological parent for a given trait</meaning>
     </definition>
     <definition id="def-00019">
     <term>incomplete dominance</term>
@@ -517,7 +517,7 @@
     </definition>
     <definition id="def-00023">
     <term>passive genotype-environment correlation</term>
-    <meaning>event that occurs when parents provide their children with both genes and environment</meaning>
+    <meaning>event that occurs when parents provide offspring with both genes and environment</meaning>
     </definition>
     <definition id="def-00024">
     <term>phenotype</term>
