@@ -479,12 +479,22 @@
     <para id="para-00075"><link class="os-embed" url="#exercise/03-01-LD-PA02"/></para>
     </problem>
     </exercise>
+    <exercise id="exer-00010">
+    <problem id="prob-00010">
+    <para id="para-00019"><link class="os-embed" url="#exercise/03-01-LD-PA03"/></para>
+    </problem>
+    </exercise>
     </section>
     <section class="essay-questions" id="sect-00025">
     <title>Assessment: Essay Questions</title>
     <exercise id="exer-00009">
     <problem id="prob-00009">
     <para id="para-00076"><link class="os-embed" url="#exercise/03-01-LD-EQ01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00011">
+    <problem id="prob-00011">
+    <para id="para-00024"><link class="os-embed" url="#exercise/03-01-LD-EQ02"/></para>
     </problem>
     </exercise>
     </section>
