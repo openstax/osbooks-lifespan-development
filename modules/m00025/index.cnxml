@@ -67,7 +67,7 @@
     </section>
     <section id="sect-00007">
     <title>Complications in Prenatal Development</title>
-    <para id="para-00017">Sometimes issues develop during a pregnancy that can lead to <term id="term-00017">spontaneous abortion</term>, which is the loss of a pregnancy during the first twenty weeks. Spontaneous abortion, often called <term class="no-emphasis" id="term-00018">miscarriage</term>, is the most common pregnancy complication and is estimated to occur in approximately 15 percent of cases (Laisk et al., 2020). About 60 percent of lost pregnancies terminate during the germinal period due to the fetus’s failure to grow or implant properly. About 20 percent occur between weeks six and ten of gestation, in the embryonic stage. About half of pregnancy losses during the germinal and embryonic stages are believed to be due to fetal chromosomal abnormalities. During the fetal stage, around 5 percent of pregnancies result in a spontaneous abortion or stillbirth, the death of the fetus after twenty-eight weeks. Other risk factors include advanced maternal age, history of past miscarriages, certain chronic diseases, and chronic stress (Alves et al., 2023).</para>
+    <para id="para-00017">Sometimes issues develop during a pregnancy that can lead to <term id="term-00017">spontaneous abortion</term>, which is the loss of a pregnancy during the first twenty weeks. Spontaneous abortion, often called <term class="no-emphasis" id="term-00018">miscarriage</term>, is the most common pregnancy complication and is estimated to occur in approximately 15 percent of all pregancies (Laisk et al., 2020). Of those lost pregnancies, about 60 percent terminate during the germinal period due to the embryo's failure to grow or implant properly. About 20 percent of those miscarriages occur between weeks six and ten of gestation, in the embryonic stage. About half of pregnancy losses during the germinal and embryonic stages are believed to be due to fetal chromosomal abnormalities. During the fetal stage (after twenty-eight weeks of pregnancy), around 5 percent of pregnancies result in a spontaneous abortion or stillbirth, the death of the fetus. Other risk factors include advanced maternal age, history of past miscarriages, certain chronic diseases, and chronic stress (Alves et al., 2023).</para>
     <para id="para-00018">Spontaneous abortion is most likely to occur for reasons outside the birth mother’s control. In the United States, low socioeconomic status and lack of access to health care are associated with an increased risk of miscarriage (Oliveira et al., 2020). A much lower risk of fetal loss, approximately 1.39 percent globally, exists for stillbirths (Hug et al., 2021). Global public health efforts, including by the WHO, have helped reduce this risk (Hug et al., 2021).</para>
     <note class="link-to-learning" id="note-00002">
     <para id="para-00019">Explore the <link url="https://openstax.org/r/104Miscarriage">March of Dimes website on miscarriage</link> that describes different types of spontaneous abortions, reasons they may occur, and warning signs of possible pregnancy loss.</para>
@@ -97,7 +97,7 @@
     </row>
     </thead>
     <tbody>
-    <row valign="top">
+    <row valign="top" class="header-row">
     <entry valign="top" align="left">Environmental Toxin</entry>
     <entry valign="top" align="left"> </entry>
     </row>
@@ -117,7 +117,7 @@
     <entry valign="bottom" align="left">Polychlorinated biphenyls (PCBs)</entry>
     <entry valign="top" align="left">Low birth weight and premature birth</entry>
     </row>
-    <row valign="top">
+    <row valign="top" class="header-row">
     <entry valign="bottom" align="left">Infectious Diseases</entry>
     <entry valign="top" align="left"> </entry>
     </row>
@@ -131,7 +131,7 @@
     </row>
     <row valign="top">
     <entry valign="top" align="left">Cytomegalovirus (CSV)</entry>
-    <entry valign="top" align="left">CSV: Central nervous system damage and hearing loss</entry>
+    <entry valign="top" align="left">Central nervous system damage and hearing loss</entry>
     </row>
     <row valign="top">
       <entry valign="top" align="left">Genital herpes</entry>
@@ -157,7 +157,7 @@
     <entry valign="top" align="left">Influenza</entry>
     <entry valign="top" align="left">Spina bifida, cleft palate, and defects in the neural tube</entry>
     </row>
-    <row valign="top">
+    <row valign="top" class="header-row">
     <entry valign="top" align="left">Medications</entry>
     <entry valign="top" align="left"> </entry>
     </row>
@@ -184,9 +184,8 @@
     <row valign="top">
     <entry valign="top" align="left">Certain antidepressant medications</entry>
     <entry valign="top" align="left">Risk is not clear</entry>
-    </row>
-    
-    <row valign="top">
+    </row>    
+    <row valign="top" class="header-row">
     <entry valign="top" align="left">Psychoactive Drugs</entry>
     <entry valign="top" align="left"> </entry>
     </row>
