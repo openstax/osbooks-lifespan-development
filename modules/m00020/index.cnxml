@@ -137,7 +137,7 @@
     </section>
     <section class="essay-questions" id="sect-00011">
     <title>Assessment: Essay Questions</title>
-    <exercise id="exer-00014"><problem id="prob-00014"><para id="para-00049"><link class="os-embed" url="#exercise/01-04-LD-EQ01"/></para></problem></exercise>
+    <!--<exercise id="exer-00014"><problem id="prob-00014"><para id="para-00049"><link class="os-embed" url="#exercise/01-04-LD-EQ01"/></para></problem></exercise>-->
     <exercise id="exer-00015"><problem id="prob-00015"><para id="para-00050"><link class="os-embed" url="#exercise/01-04-LD-EQ02"/></para></problem></exercise>
     <exercise id="exer-00016"><problem id="prob-00016"><para id="para-00051"><link class="os-embed" url="#exercise/01-04-LD-EQ03"/></para></problem></exercise>
     </section>
