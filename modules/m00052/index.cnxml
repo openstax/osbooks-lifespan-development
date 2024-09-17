@@ -248,18 +248,21 @@
     <title>Assessment: Personal Application Questions</title>
     <exercise id="exer-00008">
     <problem id="prob-00008">
-    <para id="para-00062"><link class="os-embed" url="#exercise/09-02-LD-PA01_RP"/></para>
+    <para id="para-00062"><link class="os-embed" url="#exercise/09-02-LD-PA01"/></para>
     </problem>
     </exercise>
     <exercise id="exer-00009">
     <problem id="prob-00009">
-    <para id="para-00063"><link class="os-embed" url="#exercise/09-02-LD-PA02_RP"/></para>
+    <para id="para-00063"><link class="os-embed" url="#exercise/09-02-LD-PA02"/></para>
     </problem>
     </exercise>
+    <exercise id="exer-00010"><problem id="prob-00010"><para id="para-00064"><link class="os-embed" url="#exercise/09-02-LD-PA03"/></para></problem></exercise>
+    <exercise id="exer-00011"><problem id="prob-00011"><para id="para-00129"><link class="os-embed" url="#exercise/09-02-LD-PA04"/></para></problem></exercise>
     </section>
     <section class="essay-questions" id="sect-00013">
     <title>Assessment: Essay Questions</title>
-    <para id="para-00064"/>
+    <exercise id="exer-00012"><problem id="prob-00012"><para id="para-00130"><link class="os-embed" url="#exercise/09-02-LD-EQ01"/></para></problem></exercise>
+    <exercise id="exer-00013"><problem id="prob-00013"><para id="para-00131"><link class="os-embed" url="#exercise/09-02-LD-EQ02"/></para></problem></exercise>
     </section>
     <section class="references" id="sect-00014">
     <title>References</title>
