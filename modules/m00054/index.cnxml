@@ -58,8 +58,8 @@
     </table>
     <figure id="fig-00001">
     <media alt="Alt text placeholder">
-    <!-- <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_09_04_ShopCart.jpg"/>  -->
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_09_04_ShopCart.jpg"/>
+    
     </media>
     <caption>Caption placeholder</caption>
     </figure>
