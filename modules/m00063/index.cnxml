@@ -124,12 +124,22 @@
     <para id="para-00026"><link class="os-embed" url="#exercise/11-01-LD-RQ02"/></para>
     </problem>
     </exercise>
+    <exercise id="exer-00007">
+    <problem id="prob-00007">
+    <para id="para-00062"><link class="os-embed" url="#exercise/11-01-LD-RQ03"/></para>
+    </problem>
+    </exercise>
     </section>
     <section class="check-understanding" id="sect-00010">
     <title>Assessment: Check Your Understanding Questions</title>
     <exercise id="exer-00003">
     <problem id="prob-00003">
     <para id="para-00027"><link class="os-embed" url="#exercise/11-01-LD-CU01"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00008">
+    <problem id="prob-00008">
+    <para id="para-00063"><link class="os-embed" url="#exercise/11-01-LD-CU02"/></para>
     </problem>
     </exercise>
     </section>
@@ -143,6 +153,11 @@
     <exercise id="exer-00005">
     <problem id="prob-00005">
     <para id="para-00029"><link class="os-embed" url="#exercise/11-01-LD-PA02"/></para>
+    </problem>
+    </exercise>
+    <exercise id="exer-00009">
+    <problem id="prob-00009">
+    <para id="para-00064"><link class="os-embed" url="#exercise/11-01-LD-PA03"/></para>
     </problem>
     </exercise>
     </section>
