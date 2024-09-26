@@ -65,18 +65,18 @@
     <colspec colnum="4" colname="c4"/>
     <thead>
     <row class="header-row" valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2">Females</entry>
-    <entry valign="top" align="left" namest="c3" nameend="c4">Males</entry>
+    <entry valign="top" align="center" namest="c1" nameend="c2">Females</entry>
+    <entry valign="top" align="center" namest="c3" nameend="c4">Males</entry>
     </row>
     <row class="header-row" valign="top">
-    <entry valign="top" align="left" namest="c1" nameend="c2">Adolescent Health Outcomes</entry>
-    <entry valign="top" align="left" namest="c3" nameend="c4">Adolescent Health Outcomes</entry>
+    <entry valign="top" align="center" namest="c1" nameend="c2">Adolescent Health Outcomes</entry>
+    <entry valign="top" align="center" namest="c3" nameend="c4">Adolescent Health Outcomes</entry>
     </row>
     <row class="header-row" valign="top">
-    <entry valign="top" align="left">Early-Onset</entry>
-    <entry valign="top" align="left">Late-Onset</entry>
-    <entry valign="top" align="left">Early-Onset</entry>
-    <entry valign="top" align="left">Late-Onset</entry>
+    <entry valign="top" align="center">Early-Onset</entry>
+    <entry valign="top" align="center">Late-Onset</entry>
+    <entry valign="top" align="center">Early-Onset</entry>
+    <entry valign="top" align="center">Late-Onset</entry>
     </row>
     </thead>
     <tbody>
