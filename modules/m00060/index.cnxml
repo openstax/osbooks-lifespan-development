@@ -132,8 +132,7 @@
     <para id="para-00045">The U.S. Department of Education’s National Center for Education Statistics (NCES) produces <emphasis effect="italics">The Nation’s Report Card</emphasis>, a semiannual snapshot of fourth-, eighth-, and twelfth-grade achievement in mathematics and reading, among other subject areas (NCES, 2021). The most recently available data for twelfth grade are for 2019, one year prior to the onset of the COVID-19 pandemic. For mathematics, 60 percent of twelfth-grade students met or exceeded the basic competence level nationwide, while just 24 percent met or exceeded what the NCES calls a “proficient” level of achievement (<link target-id="fig-00005"/>). This represented a slight decrease in achievement compared with each assessment dating back to 2009. Males and females achieved at roughly similar levels.</para>
     <figure id="fig-00005" class="scaled-down">
     <media alt="Twelfth grade Math Scores (2019): Gender (Male, Female), Race/Ethnicity (American Indian, Asian, Black, Hispanic, White), English Language (learner, Not learner), Parental Education (HS not completed, HS graduate, Some HS education, College graduate).">
-    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_10_05_MathReport.jpg"/>-->
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_09_05_MathReport.jpg"/>
     </media>
     <caption>Twelfth grade math scores show some range in proficiency based on various sociodemographic factors including gender, race/ethnicity, English language proficiency, and parental education. Note for example, the increase in scores as parent education level increases. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
@@ -141,8 +140,7 @@
     <para id="para-00047">By twelfth grade, we see similar patterns emerging for reading achievement (<link target-id="fig-00006"/>). The NCES reports slight declines in reading achievement levels between 2015 and 2019 for male students and for those whose parents had some education beyond high school (NCES, 2021). Otherwise, scores and achievement gaps between groups were stable for twelfth graders across that time period. Gaps include a difference in favor of students whose parents had graduated from college versus students from homes where the parents did not finish high school, and large achievement gaps between native English speakers and English language learners and between Asian and Black students.</para>
     <figure id="fig-00006" class="scaled-down">
     <media alt="Twelfth grade Reading Scores (2019): Gender (Male, Female), Race/Ethnicity (American Indian, Asian, Black, Hispanic, White), English Language (learner, Not learner), Parental Education (HS not completed, HS graduate, Some HS education, College graduate).">
-    <!--<image mime-type="image/jpeg" src="../../media/OSX_Lifespan_10_05_Reading.jpg"/>-->
-    <image mime-type="image/jpeg" src="../../media/FPO.jpg"/>
+    <image mime-type="image/jpeg" src="../../media/OSX_Lifespan_09_05_ReadReport.jpg"/>
     </media>
     <caption>Twelfth-grade reading scores show some range in proficiency based on various sociodemographic factors including gender, race/ethnicity, English language proficiency, and parental education. Note for example the difference in scores between those learning English and those already proficient in English. (attribution: Copyright Rice University, OpenStax, under CC BY 4.0 license)</caption>
     </figure>
